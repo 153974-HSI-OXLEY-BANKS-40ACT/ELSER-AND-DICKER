@@ -96,6 +96,11 @@ test this here. [^1]
                                                                                 12/30/2021    109.55    109.55
                                                                                 12/31/2021  
                                                     
+						    				just get worse.. 
+						     				05/06/2022   $100.14    ------
+
+					
+						    
                                                     
 
 ![167291170-f30a3492-9be0-4b43-b958-aa909c839c60](https://user-images.githubusercontent.com/70865813/167291688-2a2363f1-8dea-4e9f-93c2-3258fd7a3669.png)
