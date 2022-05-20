@@ -1,6 +1,14 @@
 # STATE FARM ASSURANCES FUNDS TRUST
 test this here. [^1]
 
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/dfa80d71fad5f1dd846fc6b1d8251061255c7b84
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/5
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/3
+
 ---
 >					
 >		2020-06-08		40-17G
@@ -118,4 +126,34 @@ https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/6
 https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/5
 
 https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER
+
+
+
+    via JP MORGAN CHASE IN 1989.
+
+
+
+    https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=FT_1000000324600
+
+    https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=FT_1350000324035
+
+    https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1350000324035
+
+  Add files via upload
+
+  Branch: refs/heads/REQUEST-TO-BAR
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER
+  Commit: 47f6fa338431288f62523938d17f62a99b1e1cc1
+      https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/47f6fa338431288f62523938d17f62a99b1e1cc1
+  Author: 1212-5858 <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.com>
+  Date:   2022-05-20 (Fri, 20 May 2022)
+
+  Changed paths:
+
+  Log Message:
+  -----------
+  153974 TRACKERS
+
+https://github.com/BSCPGROUPHOLDINGSLLC/WILSONELSER-ZUCKER/upload/BBOY-EPIC-SONY
+
 
