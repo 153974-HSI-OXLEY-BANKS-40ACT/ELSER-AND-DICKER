@@ -1,7 +1,7 @@
 # STATE FARM ASSURANCES FUNDS TRUST
 test this here. [^1]
 
-
+---
 >					
 >		2020-06-08		40-17G
 >						Fidelity Bond [Rule 17G-1(g)]
