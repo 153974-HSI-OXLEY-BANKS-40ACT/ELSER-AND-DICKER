@@ -107,3 +107,15 @@ test this here. [^1]
 
 
 kept moving East, my best guess.
+
+
+https://github.com/BSCPGROUPHOLDINGSLLC
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/6
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/5
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER
+
