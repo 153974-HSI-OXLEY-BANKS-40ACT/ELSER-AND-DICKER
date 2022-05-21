@@ -1,5 +1,7 @@
 # STATE FARM ASSURANCES FUNDS TRUST
 test this here. [^1]
+![image](https://user-images.githubusercontent.com/70865813/169647568-ac8dec51-531a-4617-be0e-8761b9743b7d.png)
+
 
 ---
 >					
@@ -166,3 +168,6 @@ AFTER 27-YEARS, STATE FARM ASSOCIATES’ FUNDS TRUST :
 ^^ Above named applicant filed an application on September 21, 2021, requesting an order under
 section 8(f) of the Act declaring that it has ceased to be an investment company.
 https://www.sec.gov/Archives/edgar/data/0000093715/999999999721005790/filename1.pdf
+
+![image](https://user-images.githubusercontent.com/70865813/169647584-475d3af1-8e51-4a99-9360-b3d20b3100b0.png)
+
