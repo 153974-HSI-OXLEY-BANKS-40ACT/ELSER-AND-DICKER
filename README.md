@@ -122,4 +122,12 @@ https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER
 
 ![Screenshot_20220413-233955_Yahoo Mail](https://user-images.githubusercontent.com/70865813/169640706-2bb46efd-1443-4c0b-a988-c77cf2b0341d.jpg)
 
+12-16-2021   	13:53 UTC
+	----------	JAMES.GORMAN@MORGANSTANLEY.COM
+
+12-16-2021	14:33 EST
+	----------	LZUCKER@MSKYLINE.COM
+	----------	LEGAL@MSKYLINE.COM
+	----------	MHARVEY13@BLOOMBERG.NET
+![Screenshot_20220324-043009_Yahoo Mail](https://user-images.githubusercontent.com/70865813/169640877-ef653d85-64a5-4f31-84d0-69a54a3d62aa.jpg)
 
