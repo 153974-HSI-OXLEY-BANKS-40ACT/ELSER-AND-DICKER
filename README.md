@@ -35,6 +35,9 @@ test this here. [^1]
 >>	  ORDER No. 34425
 >>	  https://www.sec.gov/Archives/edgar/data/0000093715/999999999721005790/filename1.pdf
 
+
+![image](https://user-images.githubusercontent.com/70865813/169647046-4c4cdd21-0f3b-41d9-9103-3c056a5f7afa.png)
+
 #### Fund Surviving the Merger		
 				CIK ID:	1516523 
 				Advisers Investment Trust 
@@ -131,3 +134,35 @@ https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER
 	----------	MHARVEY13@BLOOMBERG.NET
 ![Screenshot_20220324-043009_Yahoo Mail](https://user-images.githubusercontent.com/70865813/169640877-ef653d85-64a5-4f31-84d0-69a54a3d62aa.jpg)
 
+
+![image](https://user-images.githubusercontent.com/70865813/169647046-4c4cdd21-0f3b-41d9-9103-3c056a5f7afa.png)
+
+
+Morgan Stanley & Co. LLC
+UNDER SEC FILE NUMBER: 008-15869 AND CRD 8209
+     PREMIUMS RECEIVED IN FISCAL YEAR 2020 >> $95,933
+     PREMIUMS RECEIVED IN FISCAL YEAR 2020 >> $76,642
+** https://www.sec.gov/Archives/edgar/data/0000093715/000114554921006167/xslFormN-CEN_X01/primary_doc.xml
+** https://www.sec.gov/Archives/edgar/data/0000093715/000114554922006149/xslFormN-CEN_X01/primary_doc.xml
+****
+LEFT THEIR OLD CUSTOMER: STATE FARM ASSOCIATES’ FUNDS TRUST.
+https://www.sec.gov/Archives/edgar/data/0000093715/999999999721005790/filename1.pdf
+
+FOR: Advisers Investment Trust 
+         CIK: 1516523, SEC ID: 811-22538 
+
+MORGAN STANLEY & CO.
+UNDER A DIFFERENT CRD #149777,;
+SEC FILE NUMBER: 008-68191 
+--- INVITED A LARGER BODY OF RISK, WITHOUT ANY NOTICE TO ANY OF THOSE SERVICE PROVVIDERS, AUDITORS - 
+https://www.sec.gov/Archives/edgar/data/0001516523/000114554921074536/xslFormN-CEN_X01/primary_doc.xml
+
+NO DIFFERENT THAN WHAT I EXPERIENCED DEALING WITH THE ZUCKERS, AND ALL OF THEIR COUNSELORS--- WARNED THEM IN JUNE OF 2020.
+----- CURRENTLY THE   CIK: 1516523, SEC ID: 811-22538  HAS $0.00 ASSETS UNDER MANAGEMENT. 
+>> KEEP IGNORING THOSE TAX-EVASIONS IN THE NOTE, THE FDIC DOES NOT PERMIT CUSTODY OF THOSE ASSETS AT ANY US DEPOSITORY INSTITUTION.
+>> AS SEEN IN THE PROCEEDINGS IN 153974/2020, THE ZUCKERS, AND THE INGRAM FIRM BROUGHT IN THE MARVELS OF WILSONELSER  TO ASSIST WITH THEIR PROCEDURES.... 
+
+AFTER 27-YEARS, STATE FARM ASSOCIATES’ FUNDS TRUST : 
+^^ Above named applicant filed an application on September 21, 2021, requesting an order under
+section 8(f) of the Act declaring that it has ceased to be an investment company.
+https://www.sec.gov/Archives/edgar/data/0000093715/999999999721005790/filename1.pdf
