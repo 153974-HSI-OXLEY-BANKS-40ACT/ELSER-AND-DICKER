@@ -1116,8 +1116,19 @@ DEC 18, 2021 -  18:31 UTC
 
 https://saaze2311prdsra.blob.core.windows.net/clean/7391818e24d6ec11a7b5000d3a1af965/DoiNotice-TaxEvasion%20and%20Continued%20OPS.PDF
 
+# DREAM TEAM
+![THE ZUCKERS RIGHT ARM](https://user-images.githubusercontent.com/70865813/154165664-8ee2ea3f-b933-4d20-9224-c70e54b0b882.png)
+
+-- AND HER ARMY AT WILSONELSER.COM, ALSO LOCATED CONVENIENTLY AT: 150 EAST 42ND STREET, NEW YORK, NY 10017
+* [https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER](https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER)
 ![269 - ASHLEY HUMPHRIES_WILSONELSER](https://user-images.githubusercontent.com/70865813/169678806-805f99ef-f5ea-4d6f-a4f8-6b543544a7d3.JPG)
 
 [COMPLIANCE 2021-11-16](https://saaze2311prdsra.blob.core.windows.net/clean/6a91074b24d6ec11a7b50022483079c1/Compliance%202021-11-16.pdf)
 
 [153974-1516523-93715 -NYFRB POST 121 --.pdf](https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/files/8748758/53974-1516523-93715.-NYFRB.POST.121.--.pdf)
+
+[COMPLEX LITAGATION SPECIALISTS](https://www.sec.gov/Archives/edgar/data/0000093715/999999999721005790/filename1.pdf)
+
+## STATE FARM ASSOCIATES’ FUNDS TRUST: HAS CEASED TO BE AN INVESTMENT COMPANY.
+
+![image](https://user-images.githubusercontent.com/70865813/169679901-902f5b85-7f0e-46bd-bfd6-38af0cdbc9a1.png)
