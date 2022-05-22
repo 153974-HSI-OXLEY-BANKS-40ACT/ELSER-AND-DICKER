@@ -1,5 +1,5 @@
 # STATE FARM ASSURANCES FUNDS TRUST
-
+![12.12 - 58-58 STFGX](https://user-images.githubusercontent.com/70865813/169661616-e7eaa0f1-5edf-4d5c-bc1d-5793427eb39f.png)
 
 ![image](https://user-images.githubusercontent.com/70865813/169647568-ac8dec51-531a-4617-be0e-8761b9743b7d.png)
 
