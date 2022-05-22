@@ -216,40 +216,42 @@ DEC 18, 2021 - 	18:34 UTC
 		PRAGHURAM2@BLOOMBERG.NET, bcassese19@bloomberg.net
 ![Screenshot_20220413-233955_Yahoo Mail](https://user-images.githubusercontent.com/70865813/169677985-eb23082f-b5b7-49e9-ba65-3f24e8fa9c1e.jpg)
 
+![2022-03-27](https://saaze2311prdsra.blob.core.windows.net/clean/c690d567bad7ec11a7b5002248307f33/2022-03-27-ColinBrooks.png)
 
-https://saaze2311prdsra.blob.core.windows.net/clean/c690d567bad7ec11a7b5002248307f33/2022-03-27-ColinBrooks.png
+![7b5002248307b90](https://saaze2311prdsra.blob.core.windows.net/clean/bab7741fbad7ec11a7b5002248307b90/2020-08-09.NYSCEF.png)
 
-https://saaze2311prdsra.blob.core.windows.net/clean/bab7741fbad7ec11a7b5002248307b90/2020-08-09.NYSCEF.png
+![a7b5002248307](https://saaze2311prdsra.blob.core.windows.net/clean/80414a9db6d7ec11a7b5002248307aa9/2020-08-09.NYSCEF.png)
 
-https://saaze2311prdsra.blob.core.windows.net/clean/80414a9db6d7ec11a7b5002248307aa9/2020-08-09.NYSCEF.png
+![5000d3](https://saaze2311prdsra.blob.core.windows.net/clean/656c0a6ab6d7ec11a7b5000d3a1afadb/F1-MultiSF-Zucker.png)
 
-https://saaze2311prdsra.blob.core.windows.net/clean/656c0a6ab6d7ec11a7b5000d3a1afadb/F1-MultiSF-Zucker.png
+![Nov16-JamesGorma,](https://saaze2311prdsra.blob.core.windows.net/clean/f4a3b0f5b1d7ec11a7b50022483079c1/Nov16-JamesGorman.png)
 
-https://saaze2311prdsra.blob.core.windows.net/clean/f4a3b0f5b1d7ec11a7b50022483079c1/Nov16-JamesGorman.png
+
 ---
->					
->		2020-06-08		40-17G
->						Fidelity Bond [Rule 17G-1(g)]
+## 2020-06-08		40-17G
+> Fidelity Bond [Rule 17G-1(g)]
+>		
 >		https://www.sec.gov/Archives/edgar/data/0000093715/000009371520000003/aft2020.txt
 >					
->		2020-07-28		N-CSRS				
+## 	2020-07-28		N-CSRS				
 >						SEMI-ANNUAL REPORT
 >		https://www.sec.gov/Archives/edgar/data/0000093715/000119312520200810/d913497dncsrs.htm
 > 					
->		2020-11-30  	N-CEN
+## 	2020-11-30  	N-CEN
 >						ANNUAL REPORT FOR REGISTERED INVESTMENT COMPANIES
 >		https://www.sec.gov/Archives/edgar/data/0000093715/000114554921006167/xslFormN-CEN_X01/primary_doc.xml
 >					
->		2021-07-23		N-CSRS
+## 	2021-07-23		N-CSRS
 >						SEMI-ANNUAL REPORT
 >		https://www.sec.gov/Archives/edgar/data/0000093715/000119312521222842/d763005dncsrs.htm
 >					
->		2021-11-30  	N-CEN
+## 	2021-11-30  	N-CEN
 >						ANNUAL REPORT FOR REGISTERED INVESTMENT COMPANIES	
 >			https://www.sec.gov/Archives/edgar/data/0000093715/000114554922006149/xslFormN-CEN_X01/primary_doc.xml
->#### Applications for Deregistration under Section 8(f) of the Investment Company Act of 1940	
+
+#### Applications for Deregistration under Section 8(f) of the Investment Company Act of 1940	
 ###### 2021-10-29<br>
->>###### Notice of Deregistration under the Investment Company Act of 1940<br>
+###### Notice of Deregistration under the Investment Company Act of 1940<br>
 >>	  Form N-8F	
 >>	  https://www.sec.gov/Archives/edgar/data/0000093715/999999999721005616/filename1.pdf
 >>
@@ -268,16 +270,19 @@ https://saaze2311prdsra.blob.core.windows.net/clean/f4a3b0f5b1d7ec11a7b500224830
 				Advisers Investment Trust 
 				Investment Company Act file number [811-22538]
 				LEI: 549300BG52TB5QPLYE22
+
+2021-09-30 	ANNUAL REPORT FOR REGISTERED INVESTMENT COMPANIES	
+
+		https://www.sec.gov/Archives/edgar/data/0001516523/000114554921074536/xslFormN-CEN_X01/primary_doc.xml
+
+2022-01-31	MONTHLY SCHEDULE OF PORTFOLIO HOLDINGS
+[N-MFP2]
+		https://www.sec.gov/Archives/edgar/data/0001516523/000114554922005596/xslN-MFP2_X01/primary_doc.xml
+
+40-17G  January 1, 2022 to 12:01 a.m. on    January 1, 2023
+https://www.sec.gov/Archives/edgar/data/0001516523/000119312522025502/d207567d4017g.htm!
 				
-				2021-09-30 	ANNUAL REPORT FOR REGISTERED INVESTMENT COMPANIES	
-				https://www.sec.gov/Archives/edgar/data/0001516523/000114554921074536/xslFormN-CEN_X01/primary_doc.xml
-
-				2022-01-31	MONTHLY SCHEDULE OF PORTFOLIO HOLDINGS
-				[N-MFP2]
-				https://www.sec.gov/Archives/edgar/data/0001516523/000114554922005596/xslN-MFP2_X01/primary_doc.xml
-
-				40-17G  January 1, 2022 to 12:01 a.m. on    January 1, 2023
-				https://www.sec.gov/Archives/edgar/data/0001516523/000119312522025502/d207567d4017g.htm![167291117-656e2a28-7591-4ecf-b5e0-bf5e4d58b678](https://user-images.githubusercontent.com/70865813/167291658-0c930e39-96bc-42ff-b3b4-37dbef94d2f9.png)
+[167291117-656e2a28-7591-4ecf-b5e0-bf5e4d58b678](https://user-images.githubusercontent.com/70865813/167291658-0c930e39-96bc-42ff-b3b4-37dbef94d2f9.png)
 ![167291117-656e2a28-7591-4ecf-b5e0-bf5e4d58b678](https://user-images.githubusercontent.com/70865813/167291661-e153c08f-0b71-40e8-ac23-731479500e4b.png)
 
    STFGX
@@ -312,7 +317,7 @@ https://saaze2311prdsra.blob.core.windows.net/clean/f4a3b0f5b1d7ec11a7b500224830
                                                     12/16/2021    123.55    123.55
                                                     12/17/2021    121.93    121.93
                                                     
-                                                        --------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
                                                                                 __________________________
                                                                                 12/20/2021    120.72    120.72
                                                                                 12/21/2021    106.35    106.35
@@ -333,10 +338,6 @@ https://saaze2311prdsra.blob.core.windows.net/clean/f4a3b0f5b1d7ec11a7b500224830
 
 ![167291170-f30a3492-9be0-4b43-b958-aa909c839c60](https://user-images.githubusercontent.com/70865813/167291688-2a2363f1-8dea-4e9f-93c2-3258fd7a3669.png)
 
-
-kept moving East, my best guess.
-
-
 https://github.com/BSCPGROUPHOLDINGSLLC
 
 https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7
@@ -348,7 +349,7 @@ https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/5
 https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER
 
 
-![Screenshot_20220413-233955_Yahoo Mail](https://user-images.githubusercontent.com/70865813/169640706-2bb46efd-1443-4c0b-a988-c77cf2b0341d.jpg)
+![c77cf2b0341d](https://user-images.githubusercontent.com/70865813/169640706-2bb46efd-1443-4c0b-a988-c77cf2b0341d.jpg)
 
 12-16-2021   	13:53 UTC
 	----------	JAMES.GORMAN@MORGANSTANLEY.COM
@@ -424,21 +425,16 @@ ATTN: Mr. Reynoso,
 
 LET me find out this is the same Zucker Family who evaded $500,000,000.00 in Taxes on the Six Properties they used as collateral to obtain a loan from State Farm - and also watched butt naked for a Year, distributed the videos and play with themselves.
 
-    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=K9sgXcweC7esRoSPO8MNtA==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=K9sgXcweC7esRoSPO8MNtA==
 
-    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=D9Td7IfWXyajw1tBNCFb9g==
-
-
-
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=D9Td7IfWXyajw1tBNCFb9g==
 
    see also: LOSSES SUFFERED BY THEIR COUNTERPARTS DUE TO OMISSIONS - FILED NOVEMBER 13TH, 2021;
 
 THEN FURTHER DISTRIBUTED TO THE RESPONSIBLE PARTIES ON NOVEMBER 16TH, 2021.
 
-
-                   
-
 12-12-5858
+![DOCKET 48 - POINTED AT MY TOP ATTACHED AND ANNEXED](https://user-images.githubusercontent.com/70865813/169679389-971cc018-5a71-487a-aa62-6fa5494c36af.jpg)
 
 
 
@@ -446,8 +442,7 @@ THEN FURTHER DISTRIBUTED TO THE RESPONSIBLE PARTIES ON NOVEMBER 16TH, 2021.
 
 
 TUESDAY --- JANUARY 11, 2022
-Also wanted to make sure there was no relation between the two Reynoso, in case he didn't know - his brother is a PEEPING TOM as well.
->> also unanswered.
+Also wanted to make sure there was no relation between the two Reynoso, in case he didn't know - his brother is a PEEPING TOM as well. also unanswered.
 
 /s/ Bo Dincer
 
@@ -475,7 +470,8 @@ CC: 	boc@boc.nyc.gov, NYM-PREAComplianceMgr-S@bop.gov, Victimassistance.fraud@us
 
 
 
-<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=p2E8IhjyOS8ocQnqpLU9Lg==>
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=p2E8IhjyOS8ocQnqpLU9Lg==
+
 
 
 -------- Forwarded Message --------
@@ -506,11 +502,9 @@ ATTN: Mr. Reynoso,
         RE:     NYFRB 93715 - 153974/2020
 
 LET me find out this is the same Zucker Family who evaded $500,000,000.00 in Taxes on the Six Properties they used as collateral to obtain a loan from State Farm - and also watched butt naked for a Year, distributed the videos and play with themselves.
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=K9sgXcweC7esRoSPO8MNtA==
 
-    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=K9sgXcweC7esRoSPO8MNtA==
-
-
-    https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=D9Td7IfWXyajw1tBNCFb9g==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=D9Td7IfWXyajw1tBNCFb9g==
 
 
 
@@ -555,7 +549,7 @@ CC: 	boc@boc.nyc.gov, NYM-PREAComplianceMgr-S@bop.gov, Victimassistance.fraud@us
 
 
 
-<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=p2E8IhjyOS8ocQnqpLU9Lg==>
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=p2E8IhjyOS8ocQnqpLU9Lg==
 
 
 > ATTN: JP MORGAN CHASE BANK, N/A.
@@ -573,271 +567,272 @@ CC: 	boc@boc.nyc.gov, NYM-PREAComplianceMgr-S@bop.gov, Victimassistance.fraud@us
 >             - THIS HOLDS TRUE FOR ALL SIX PROPERTIES USED AS "CREDITWORTHINESS" OF INCOME AND ASSETS, HOWEVER, TO KEEP MATTERS SIMPLE.
 >
 > THERE ARE TWO PROPERTIES WHICH MAKE THIS MUCH EASIER FOR YOU AND YOURS TO ABSORB.
->             PROPERTY 1:         111 SULLIVAN STREET REAR, APT 2BR, NEW YORK, NY, 10012    
->                                                    - Where I resided, and the rights of the leases and rents transferred to State Farm is a building with no certificate of occupancy.
->             PROPERTY 2:         117 SULLIVAN STREET, NEW YORK, NY, 10012   
->                                                  - The neighboring building, where the rights of the leases and rents were also transferred to State Farm is a building with no certificate of occupancy.
->                                         BOTH PROPERTIES with " UNLAWFUL INCOME " was used and represented as lawful income to State Farm and to obtain a loan for $6,000,000.00 as referenced hereunder.
+
+### PROPERTY 1:         111 SULLIVAN STREET REAR, APT 2BR, NEW YORK, NY, 10012    
+	- Where I resided, and the rights of the leases and rents transferred to State Farm is a building with no certificate of occupancy.
+
+### PROPERTY 2:         117 SULLIVAN STREET, NEW YORK, NY, 10012   
+	- The neighboring building, where the rights of the leases and rents were also transferred to State Farm is a building with no certificate of occupancy.
+---
+BOTH PROPERTIES with " UNLAWFUL INCOME " was used and represented as lawful income to State Farm and to obtain a loan for $6,000,000.00 as referenced hereunder.
 >
->                                         filed under ACRIS:    " TRANSFER OF LEASES AND RENTS "
->
->                                                        TO:    STATE FARM
->                                                                 ONE STATE FARM PLAZA
->                                                                 BLOOMINGTON, IL, 61710
+> filed under ACRIS:    " TRANSFER OF LEASES AND RENTS "
+>                                                        
+>      TO:    STATE FARM
+>      ONE STATE FARM PLAZA
+>      BLOOMINGTON, IL, 61710
 >       
 >
 > I did notify the "Brokerage & Investment" department at JP Morgan, and they no longer are custodians for the Investment Adviser, who in the former has
->    
->             "CEASED TO EXIST"  and as of November 24th, 2021 under the Securities and Exchange Commission.
->
->                                                                               https://www.sec.gov/Archives/edgar/data/0000093715/999999999721005790/filename1.pdf
->      
->                                                           State Farm Assurances Funds Trust
->                                                           CIK NUMBER:            93715
->                                                           SEC FILE NUMBER:   811-01519
->
->                 Attachments and link to substantive matters are below my signature and for convenience and ease of your references.
->                             1.    TCR report attached, which was filed with the Securities and Exchange Commission on November 13th, 2021.
->    
->                             2.    Losses registered by their Investment Adviser, between November 13th, 2021 through April 30th, 2022 have grown to the excess of 1.35 billion dollars, and one of their Investment Advisers has also Ceased to Exist [ SEC FILER: 93715 ]
->    
->                             3.    NYC DEPT OF FINANCE RECORDS ARE ATTACHED, AS ARE THE TAX BILLS FOR BLOCK 803, LOT 11 --- which was transferred to State Farm on May 15th, 2020.
->    
->                             4.    VIOLATION OF PRIVACY AND TAX EVASION DOCKETS.PDF is also attached in case there is any question as to the matters which are "sensitive" and also "deplorable" in the scope of conduct/ethics.
->
->   
+---
+
+## "CEASED TO EXIST"  and as of November 24th, 2021 under the Securities and Exchange Commission.           
+* https://www.sec.gov/Archives/edgar/data/0000093715/999999999721005790/filename1.pdf
+      
+State Farm Assurances Funds Trust
+CIK NUMBER:            93715
+SEC FILE NUMBER:   811-01519
+
+
+Attachments and link to substantive matters are below my signature and for convenience and ease of your references.
+
+1.    TCR report attached, which was filed with the Securities and Exchange Commission on November 13th, 2021.
+
+2.    Losses registered by their Investment Adviser, between November 13th, 2021 through April 30th, 2022 have grown to the excess of 1.35 billion dollars, and one of their Investment Advisers has also Ceased to Exist [ SEC FILER: 93715 ]
+
+3.    NYC DEPT OF FINANCE RECORDS ARE ATTACHED, AS ARE THE TAX BILLS FOR BLOCK 803, LOT 11 --- which was transferred to State Farm on May 15th, 2020.
+ 
+4.    VIOLATION OF PRIVACY AND TAX EVASION DOCKETS.PDF is also attached in case there is any question as to the matters which are "sensitive" and also "deplorable" in the scope of conduct/ethics.
 > /s/ Baris Dincer.
 >     Tel.: 646-256-3609 
+
+## SECURITY DEPOSIT(S) ARE HELD IN CUSTODY AT JP MORGAN CHASE BANK, N/A
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==
 >
-> SECURITY DEPOSIT(S) ARE HELD IN CUSTODY AT JP MORGAN CHASE BANK, N/A
+## SULLIVAN PROPERTIES LP, 101 WEST 55TH STREET, NEW YORK, NY, 10019
+####  DOES NOT HAVE A CERTIFICATE OF OCCUPANCY
+* 111 REAR SULLIVAN STREET,
+* 113 REAR SULLIVAN STREET; OR 
+* 115 REAR SULLIVAN STREET.
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SgjFfExxNV4Y4DTX6pANaA==
 >
-> SULLIVAN PROPERTIES LP, 101 WEST 55TH STREET, NEW YORK, NY, 10019
->                     DOES NOT HAVE A CERTIFICATE OF OCCUPANCY
->                     111 SULLIVAN STREET, 113 SULLIVAN STREET OR 115 SULLIVAN STREET (REAR)
+##  THERE WERE NO CERTIFICATES OF OCCUPANCY ON FILE FOR MY APARTMENT. 
+#### 111 REAR SULLIVAN STREET, NEW YORK, NY, 10012 AT ANY POINT IN TIME.
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SgjFfExxNV4Y4DTX6pANaA==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IJ47OvVzsLObNsXt0u8trg==
 >
-> THERE WERE NO CERTIFICATES OF OCCUPANCY ON FILE FOR MY APARTMENT.
->    
->             111 REAR SULLIVAN STREET, NEW YORK, NY, 10012 AT ANY POINT IN TIME.
+#### 2020-08-04    111 SULLIVAN STREET REAR                 
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zXega0sLahw5fVuBTVtpnw==
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IJ47OvVzsLObNsXt0u8trg==
+#### 111 REAR SULLIVAN STREET
+* LEGAL ADULT USE:         NO
 >
-> 2020-08-04    111 SULLIVAN STREET REAR                 
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9zQd7Hu3cy9vp6I960WGNQ==
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zXega0sLahw5fVuBTVtpnw==
->
->             111 REAR SULLIVAN STREET
->                                                         LEGAL ADULT USE:         NO
->
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9zQd7Hu3cy9vp6I960WGNQ==
->
-> RENT PAYMENTS                                                                                                 2020_07_25
+## RENT PAYMENTS                                                                                                 2020_07_25
 >         HAVE NOT BEEN REFUNDED AS OF CURRENT.
 >         NOTWITHSTANDING MY DEMANDS, A DEFAULT " NON-JOINDER " IN THE MATTER OF 153974/2020
 >         MY SECURITY DEPOSIT ALSO WAS NOT RETURNED AND THE GREATER AMOUNTS OF RENTS AND SECURITY ARE "PURPORTEDLY"
 >
-> RENT PAYMENT(S) ARE HELD IN CUSTODY AT JP MORGAN CHASE, N/A
-> THE INITIAL FINANCING / MORTGAGE TO PURCHASE THE PROPERTIES IN QUESTION WERE FROM JP MORGAN CHASE IN 1989.
+## RENT PAYMENT(S) ARE HELD IN CUSTODY AT JP MORGAN CHASE, N/A
+####    INITIAL FINANCING / MORTGAGE TO PURCHASE THE PROPERTIES IN QUESTION WERE FROM JP MORGAN CHASE IN 1989.
+* https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=FT_1000000324600
+* https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=FT_1350000324035
+* https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1350000324035
 >
->     https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=FT_1000000324600
->
->     https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=FT_1350000324035
->
->     https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1350000324035
->
->          THE LOAN DOCKETS AND TAX RECEIPTS WERE ANNEXED IN THE MATTER OF 153974/2020.
+####   THE LOAN DOCKETS AND TAX RECEIPTS WERE ANNEXED IN THE MATTER OF 153974/2020.
 >         THE ACCOUNT ADDRESS YOU SHOULD HAVE FOR THE ENTITIES BELOW SHOULD BE:
 >
->                         101 WEST 55TH STREET, NEW YORK, NY, 10019
->            
->                         103 WEST 55TH STREET, NEW YORK, NY, 10019
->          UNDER THE CORPORATE NAMES, OR INDIVIDUALS
->          [ DONALD ZUCKER, LAURIE ZUCKER, ANDRES REYNOSO, OR ONE OF THEIR OTHER DIRECTORS UNDER THESE ENTITIES ]              
+> * 101 WEST 55TH STREET, NEW YORK, NY, 10019
+> * 103 WEST 55TH STREET, NEW YORK, NY, 10019
+> 
+## UNDER THE CORPORATE NAMES, OR INDIVIDUALS
+####   [ DONALD ZUCKER, LAURIE ZUCKER, ANDRES REYNOSO, OR ONE OF THEIR OTHER DIRECTORS UNDER THESE ENTITIES ]              
 >
->                     SULLIVAN PROPERTIES LP
->                     SULLIVAN GP LLC
->                     MANHATTAN SKYLINE MANAGEMENT CORP.
+> * SULLIVAN PROPERTIES LP
+> * SULLIVAN GP LLC
+> * MANHATTAN SKYLINE MANAGEMENT CORP.
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Mjxo9_PLUS_FdCN/p2Jrgw4MkIQ==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Mjxo9_PLUS_FdCN/p2Jrgw4MkIQ==
 >
 >
-> PER THE NEW YORK SUPREME COURT DOCKETS
+## PER THE NEW YORK SUPREME COURT DOCKETS
 >
->            - CUSTODY OF THOSE ASSETS ARE HELD AT: JP MORGAN CHASE, N/A
->                 Please understand that BEYOND the RENT & SECURITY which was stolen from me by Sullivan Properties LP
->                                         [ who as discussed at your branch on 2022-05-13, have mysteriously disappeared ]
+## CUSTODY OF THOSE ASSETS ARE HELD AT: JP MORGAN CHASE, N/A
+#### Please understand that BEYOND the RENT & SECURITY which was stolen from me by Sullivan Properties LP
+#### who as discussed at your branch on 2022-05-13, have mysteriously disappeared.
 >
->                 Are also liable for other default provisions under a certain " non-joinder " and beyond the unlawful rents and security deposits which are in your custody as of current - are not permitted as accessible per the FDIC and at any US depository institution.
+##### Are also liable for other default provisions under a certain " non-joinder " and beyond the unlawful rents and security deposits which are in your custody as of current - are not permitted as accessible per the FDIC and at any US depository institution.
 >
->                 This was all filed and in New York State Supreme Matter 153974/2020 and under the Honorable Schlomo Haggler, J.S.C., for reference.
-> 2020-06-15
-> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==
-> 2020-08-04   
+##### This was all filed and in New York State Supreme Matter 153974/2020 
+##### and under the Honorable Schlomo Haggler, J.S.C., for reference.
+##### 2020-06-15
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==
+##### 2020-08-04   
 >
->         NO COMPLAINTS FILED IN MY RESIDENCE OR BUILDING, EVER.
->         NO GROUNDS TO LEGALLY COLLECT RENT AND/OR SECURITY DEPOSITS FOR ANY OF THOSE PROPERTIES.
+##### NO COMPLAINTS FILED IN MY RESIDENCE OR BUILDING, EVER.
+##### NO GROUNDS TO LEGALLY COLLECT RENT AND/OR SECURITY DEPOSITS FOR ANY OF THOSE PROPERTIES.
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DnmjCPN_PLUS_DIIELjZFua7gWQ==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DnmjCPN_PLUS_DIIELjZFua7gWQ==
 >
-> Notice to Parties named sent via email:    WITH ENCLOSURES TO AMEND CAPTION.
+### Notice to Parties named sent via email:    WITH ENCLOSURES TO AMEND CAPTION.
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=yMXQNekW7te0QA5jjAvP2w==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=yMXQNekW7te0QA5jjAvP2w==
 >
-> DOB RECORDS.        ADDRESS INFORMATION FROM THE NEW YORK CITY DEPARTMENT OF BUILDINGS.
+### DOB RECORDS.        ADDRESS INFORMATION FROM THE NEW YORK CITY DEPARTMENT OF BUILDINGS.
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=CeL5zAaUK8tfWrX9kp/QdA==
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=upAzS2FC6bICOGxa73ptdg==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=CeL5zAaUK8tfWrX9kp/QdA==
 >
-> RENT STATEMENTS & RECEIPTS OF PAYMENTS.                       
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=upAzS2FC6bICOGxa73ptdg==
 >
->     RENT STATEMENT         2020, FEBRUARY
+## RENT STATEMENTS & RECEIPTS OF PAYMENTS.                       
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4PiwGksCJul/AGvyopmH8g==
+### RENT STATEMENT         2020, FEBRUARY
 >
->     RENT STATEMENT        2020, MAY
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4PiwGksCJul/AGvyopmH8g==
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vMB0J4qaYgauPBeEMLIOXA==
+### RENT STATEMENT        2020, MAY
 >
->     RENT PAYMENT            2020, MAY
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vMB0J4qaYgauPBeEMLIOXA==
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wCwqZV3k3dKPIhAESd/oag==
+### RENT PAYMENT            2020, MAY
 >
->     STATEMENT:        REQUESTED A REFUND OF ALL UNLAWFUL FEES.    [ NO RESPONSE ]
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wCwqZV3k3dKPIhAESd/oag==
+>
+### STATEMENT:        REQUESTED A REFUND OF ALL UNLAWFUL FEES.    [ NO RESPONSE ]
 >      
 >             06-03-2020, 07-31-2020
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vd54Sn1RLwYlVxoKhGh0xg==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vd54Sn1RLwYlVxoKhGh0xg==
 >
->     RENT PAYMENT RECEIPT AND MONTHLY STATEMENT
+### RENT PAYMENT RECEIPT AND MONTHLY STATEMENT
 >
 >             07-31-2020
 >             $3106     [ 25% INCREASE:  WITHOUT LEGAL GROUNDS OR REASONABLE CAUSE WAS PAID ]
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4WL76ylXCtw_PLUS_H5zwmPPkZw==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4WL76ylXCtw_PLUS_H5zwmPPkZw==
 >
->     RENT PAYMENT RECEIPT AND MONTHLY STATEMENT
+### RENT PAYMENT RECEIPT AND MONTHLY STATEMENT
 >
 >             05-31-2020
 >             $600 IN PENALTIES ARBITRARILY INVOICED, PAID, AND REMAIN UN-REFUNDED
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=hSVGBDz7FlXskw5BZ_PLUS_e_PLUS_ZA==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=hSVGBDz7FlXskw5BZ_PLUS_e_PLUS_ZA==
 >
->     RENT PAYMENT RECEIPT AND REQUEST FOR REFUND
+### RENT PAYMENT RECEIPT AND REQUEST FOR REFUND
 >
 >             06-03-2020       
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=EJfqnPTVv0u9BQ/iFgKRew==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=EJfqnPTVv0u9BQ/iFgKRew==
 >
 >
 >
-> PLAINTIFF DOES NOT HAVE A CERTIFICATE OF OCCUPANCY FOR THIS PROPERTY
+### PLAINTIFF DOES NOT HAVE A CERTIFICATE OF OCCUPANCY FOR THIS PROPERTY
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SgjFfExxNV4Y4DTX6pANaA==
->
->
-> JULY RENT IS REFUSED BY LANDLORD, AND SO ARE ANY OTHER DEMANDS - INCLUDING A CHANGE IN CAPTION.
->
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ewwxg8z5wECGtkuHHm8O9A==
->
-> EXHIBIT(S) - OPP
->
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rjL6yoW3Mt2U6UigWCM9XQ==
->
-> TAX MAP BLOCK 503 - LOT 8
->
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
->
-> PLAINTIFF ASSIGNED LEASES AND RENTS TO STATE FARM ON MAY 15TH
->
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ze6a1KA9akRV9TGfXXJT/g==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SgjFfExxNV4Y4DTX6pANaA==
 >
 >
->     ACRIS Detailed Document Information (2019000021408)2019010800475001
+### JULY RENT IS REFUSED BY LANDLORD, AND SO ARE ANY OTHER DEMANDS - INCLUDING A CHANGE IN CAPTION.
 >
->         https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bVk8sIt7n3kGwHqebPg0fw==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ewwxg8z5wECGtkuHHm8O9A==
 >
+### EXHIBIT(S) - OPP
 >
->     ACRIS Detailed Document Information (2020000155422)2020052000291003
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rjL6yoW3Mt2U6UigWCM9XQ==
 >
->         https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wTG2YD2PqXuxmoKqFiESrw==
+### TAX MAP BLOCK 503 - LOT 8
 >
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
 >
->     ACRIS Detailed Document Information (2020000155421)2020052000291002
+### PLAINTIFF ASSIGNED LEASES AND RENTS TO STATE FARM ON MAY 15TH
 >
->         https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==
->
->
->     ACRIS Detailed Document Information (2020000155422)2020052000291003
->
->         https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/yhElCiKJ0BGv2DF/MOn4g==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ze6a1KA9akRV9TGfXXJT/g==
 >
 >
->     ACRIS Detailed Document Information (2020000155423)2020052000291004
+### ACRIS Detailed Document Information (2019000021408)2019010800475001
 >
->         https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ==
->
->
->     ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH -
->
->         https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7Ry3LAoVfWOLjSXhyJZ94A==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bVk8sIt7n3kGwHqebPg0fw==
 >
 >
+### ACRIS Detailed Document Information (2020000155422)2020052000291003
+>
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wTG2YD2PqXuxmoKqFiESrw==
 >
 >
->     notice to State Farm
+### ACRIS Detailed Document Information (2020000155421)2020052000291002
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=K9sgXcweC7esRoSPO8MNtA==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==
+>
+>
+### ACRIS Detailed Document Information (2020000155422)2020052000291003
+>
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/yhElCiKJ0BGv2DF/MOn4g==
+>
+>
+### ACRIS Detailed Document Information (2020000155423)2020052000291004
+>
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ==
+>
+>
+### ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH -
+>
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7Ry3LAoVfWOLjSXhyJZ94A==
+>
+>
+>
+>
+### notice to State Farm
+>
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=K9sgXcweC7esRoSPO8MNtA==
 >
 >     notice from Sullivan Properties LP - 101 west 55th Street - New York - NY - 10019
 >
-> COMPLAINT FILED WITH THE BETTER BUSINESS BUREAU FOR EXCESSIVE RENTS ARBITRARILY INVOICED.
+### COMPLAINT FILED WITH THE BETTER BUSINESS BUREAU FOR EXCESSIVE RENTS ARBITRARILY INVOICED.
 >         COMPLAINT #14585819 (7/25/2020) FILED WITH THE BETTER BUSINESS BUREAU
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=EJfqnPTVv0u9BQ/iFgKRew==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=EJfqnPTVv0u9BQ/iFgKRew==
 >
-> NO CERTIFICATE OF OCCUPANCY
+### NO CERTIFICATE OF OCCUPANCY
 >         AUGUST 4TH, 2020
 >         RENT PAYMENT RECEIPT AND MONTHLY STATEMENT 07_31_2020 WITH 8,106.21 IN LEGAL FEES
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=lq9Z3VE3sO4pTEk1UrHB2Q==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=lq9Z3VE3sO4pTEk1UrHB2Q==
 >
 > RENT PAYMENT RECEIPT AND MONTHLY STATEMENT 07_21_2020
 >         CLICK PAY IS NO LONGER ACCEPTING PAYMENTS.
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=iK7ZjdNLVty6kLSL4SjeoA==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=iK7ZjdNLVty6kLSL4SjeoA==
 >
 > RENT PAYMENT RECEIPT AND MONTHLY STATEMENT 04_30_2020
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_TlrEGCsUUcCcvtJ8O/dfg==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_TlrEGCsUUcCcvtJ8O/dfg==
 >
 > PLAINTIFFS POLICIES AND PROCEDURES FOR INSURANCE
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mzFuOKAUp7O4ARBxH4uCDA==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mzFuOKAUp7O4ARBxH4uCDA==
 >
 > 00002_LANDLORD_REFUSES_PAYMENT
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=2lQuDSfPu51L3OhNqqRGvg==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=2lQuDSfPu51L3OhNqqRGvg==
 >
 > PROPERTY RECORDS: PROPERTY SHARK
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UAXjpRh1KO2_PLUS_8KsdF1TuQA==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UAXjpRh1KO2_PLUS_8KsdF1TuQA==
 >
 > NOTICE TO CHANGE CAPTION IN THIS MATTER, WITH ATTACHED PROPERTY SHARK RECORDS.
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XkdNmKBghAAqMUItDdrwxA==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XkdNmKBghAAqMUItDdrwxA==
 >
 > NOTICE TO CHANGE CAPTION IN THIS MATTER, WITH ATTACHED PROPERTY SHARK RECORDS.
 >         2020-08-04
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cWLErrXbEw5qtOLVeWU/7g==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cWLErrXbEw5qtOLVeWU/7g==
 >
 > NOTICE TO CHANGE CAPTION IN THIS MATTER, TO ADD STATE FARM AS A RESPONDENT
 >         2020-08-08
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Xjn0/e1NcBADqRc_PLUS_g11P4g==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Xjn0/e1NcBADqRc_PLUS_g11P4g==
 >
 > EXHIBIT(S) --- CAUSE TO INVOICE BEYOND BANDS OF $3000.00 [J-51]
 >
@@ -873,7 +868,7 @@ CC: 	boc@boc.nyc.gov, NYM-PREAComplianceMgr-S@bop.gov, Victimassistance.fraud@us
 >
 >     https://saaze2311prdsra.blob.core.windows.net/clean/db5e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-D641-4B62-9D15-3AF4205617AC.jpeg
 >
->     https://saaze2311prdsra.blob.core.windows.net/clean/172de37992d3ec11a7b500224828654e/[sfVP%2043036]%204971235-%20$SMITH%20-%20SEMI.pdf
+* https://saaze2311prdsra.blob.core.windows.net/clean/172de37992d3ec11a7b500224828654e/[sfVP%2043036]%204971235-%20$SMITH%20-%20SEMI.pdf
 >
 >     https://saaze2311prdsra.blob.core.windows.net/clean/bee2b76c92d3ec11a7b5002248286997/[SF.VP%2043036]%202876793%20-%20$david%20moore%20$3487%20-%20IA%208018184.pdf
 >
@@ -889,58 +884,51 @@ CC: 	boc@boc.nyc.gov, NYM-PREAComplianceMgr-S@bop.gov, Victimassistance.fraud@us
 >
 >     https://saaze2311prdsra.blob.core.windows.net/clean/e9eb965d97d3ec11a7b5000d3a1326fe/[STATE%20FARM%20VP%2043036]$%203487%20$.pdf
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TxAa7cNVIHKtnJU/ni/zvg==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TxAa7cNVIHKtnJU/ni/zvg==
 >
->     https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=2020052000291003
+* https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=2020052000291003
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_TlrEGCsUUcCcvtJ8O/dfg==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_TlrEGCsUUcCcvtJ8O/dfg==
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ==
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ==
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TxAa7cNVIHKtnJU/ni/zvg==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TxAa7cNVIHKtnJU/ni/zvg==
 >
->     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LMUE9g_PLUS_k6vCmKgfCSJEzuQ==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LMUE9g_PLUS_k6vCmKgfCSJEzuQ==
 >
->     https://portal.311.nyc.gov/sr-details/?id=4296b0c3-c4a2-ec11-826d-0003ff86900c
->
->     https://saaze2311prdsra.blob.core.windows.net/clean/d585ccd85fd3ec11a7b5000d3a1326fe/TAX%20EVASION%20%20attachments%20%252F%20Omissions.%20.pdf
+* https://portal.311.nyc.gov/sr-details/?id=4296b0c3-c4a2-ec11-826d-0003ff86900c
+
+[TAX%20EVASION%20](https://saaze2311prdsra.blob.core.windows.net/clean/d585ccd85fd3ec11a7b5000d3a1326fe/TAX%20EVASION%20%20attachments%20%252F%20Omissions.%20.pdf)
 >
 > /S/ BARIS DINCER.
-> 	
->     bdincer66@icloud.com
->     MS60710444266@YAHOO.COM
->     TEL.: 646-256-3609
->     ALT.: 917-378-3467
->
 >
 > 117 SULLIVAN STREET, NEW YORK, NY, 10012
 > 	
 >
-
 VIOLATION OF PRIVACY
 \ BREACH OF CONTRACT
 \ \ DISTRIBUTION WITHOUT CONSENT.
 - wilson elser firm 
 - SULLIVAN PROPERTIES LP
-and STATE FARM [ rents and leases assigned to STATE FARM ] in the matter of 153974/2020
+and STATE FARM in the matter of 153974/2020
 
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=c3iexOlBwsgc1lnMJ2_PLUS_AqQ==
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=C4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ==
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YvkihzM1cwANtAvbUwWX_PLUS_g==
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UZsCx4RNLy/6V9gf1BkpTQ==
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YGRsoOyDJuc93MrOnwh5Jw==
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=84wdx4RhX5LEi0sISXetBw==
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5uMb/ORklCen4NaSEt6oFg==
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=C4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ==
-https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=oz2nfEu9a94Y3U5/kpIt5g==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=c3iexOlBwsgc1lnMJ2_PLUS_AqQ==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=C4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YvkihzM1cwANtAvbUwWX_PLUS_g==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UZsCx4RNLy/6V9gf1BkpTQ==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YGRsoOyDJuc93MrOnwh5Jw==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=84wdx4RhX5LEi0sISXetBw==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5uMb/ORklCen4NaSEt6oFg==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=C4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ==
+* https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=oz2nfEu9a94Y3U5/kpIt5g==
 
 
 
@@ -959,17 +947,17 @@ https://saaze2311prdsra.blob.core.windows.net/clean/db5e3c6a10d3ec11a7b5000d3a13
 https://saaze2311prdsra.blob.core.windows.net/clean/8de5f89e10d3ec11a7b5002248286421/CE48526B-6A0E-4B2A-89B9-93BD202498A9.jpeg
 https://saaze2311prdsra.blob.core.windows.net/clean/a463845010d3ec11a7b5000d3a1326fe/0F6C27D5-69BD-4971-91F6-A5A40317CC63.jpeg
 https://saaze2311prdsra.blob.core.windows.net/clean/25aff4b997d3ec11a7b500224828654e/[STATE%20FARM%20VP%2043036]Advisers%20Investment%20Trust%20[$CIK%201516523]%20MONK[CRD%201357149].pdf
-A Read  with CPLR 2102(c)  a County Clerk   § 11 440 Tampering with or fabricating physical evidence
-A Read      FW  VIDEO   MOV DISTRIBUTION       CONFIRMED   MOV      .msg
-A Read      MOV distribution continues beyond earlier requests of non-consent     (601).msg
+* A Read  with CPLR 2102(c)  a County Clerk   § 11 440 Tampering with or fabricating physical evidence
+* A Read      FW  VIDEO   MOV DISTRIBUTION       CONFIRMED   MOV      .msg
+* A Read      MOV distribution continues beyond earlier requests of non-consent     (601).msg
 
 -----------
 Log Message
 -----------
 https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/BSCPGROUPHOLDINGSLLC-patch-199
 https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/9bfe6b0b8e9fc680419ca8c7de0125aae1581e78
-A RE      NYSCEF Criminal Court Information     FOR THOSE SPOT (32).msg
-A RE  Read  FW  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5  KIDS PRIVACY    (38).msg
+* A RE      NYSCEF Criminal Court Information     FOR THOSE SPOT (32).msg
+* A RE  Read  FW  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5  KIDS PRIVACY    (38).msg
 
 -----------
 Log Message
@@ -990,17 +978,18 @@ https://saaze2311prdsra.blob.core.windows.net/clean/bab7741fbad7ec11a7b500224830
 https://saaze2311prdsra.blob.core.windows.net/clean/80414a9db6d7ec11a7b5002248307aa9/2020-08-09.NYSCEF.png
 https://saaze2311prdsra.blob.core.windows.net/clean/656c0a6ab6d7ec11a7b5000d3a1afadb/F1-MultiSF-Zucker.png
 https://saaze2311prdsra.blob.core.windows.net/clean/f4a3b0f5b1d7ec11a7b50022483079c1/Nov16-JamesGorman.png	
-A FW  Read      THANK YOU FOR KINDLY ALERTING YOUR MANAGERS  ACCEPT THIS AS A REASONABLE REQUEST
-A RE  BATCH 1 -- DO YOU SEE ANY OBSERVATION(S) OF A PLAYGEROUND OR COURTYARD IN THESE ANNEXED DOCUMENTS BY DEFENDANTS 
-A RE  Read      THANK YOU FOR KINDLY ALERTING YOUR MANAGERS  ACCEPT THIS AS A REASONABLE REQUEST  (37).msg
-A RE  Read      THANK YOU FOR KINDLY ALERTING YOUR MANAGERS  ACCEPT THIS AS A REASONABLE REQUEST  (38).msg
-A RE  Read      THANK YOU FOR KINDLY ALERTING YOUR MANAGERS  ACCEPT THIS AS A REASONABLE REQUEST .msg
-A RE  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5  KIDS PRIVACY    (54).msg
-A RE  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5  KIDS PRIVACY   .msg
-A RE  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5 (48).msg
-A RE  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5.msg
-A RE  ref         101 west 55th street  new york  NY  10019     DEED ATTACHED  you check the zip code on the first page .msg
-A RE  ref         101 west 55th street  new york  NY  10019     you see my forehead there .msg
+
+* A FW  Read      THANK YOU FOR KINDLY ALERTING YOUR MANAGERS  ACCEPT THIS AS A REASONABLE REQUEST
+* A RE  BATCH 1 -- DO YOU SEE ANY OBSERVATION(S) OF A PLAYGEROUND OR COURTYARD IN THESE ANNEXED DOCUMENTS BY DEFENDANTS 
+* A RE  Read      THANK YOU FOR KINDLY ALERTING YOUR MANAGERS  ACCEPT THIS AS A REASONABLE REQUEST  (37).msg
+* A RE  Read      THANK YOU FOR KINDLY ALERTING YOUR MANAGERS  ACCEPT THIS AS A REASONABLE REQUEST  (38).msg
+* A RE  Read      THANK YOU FOR KINDLY ALERTING YOUR MANAGERS  ACCEPT THIS AS A REASONABLE REQUEST .msg
+* A RE  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5  KIDS PRIVACY    (54).msg
+* A RE  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5  KIDS PRIVACY   .msg
+* A RE  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5 (48).msg
+* A RE  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5.msg
+* A RE  ref         101 west 55th street  new york  NY  10019     DEED ATTACHED  you check the zip code on the first page .msg
+* A RE  ref         101 west 55th street  new york  NY  10019     you see my forehead there .msg
 
 -----------
 Log Message
@@ -1009,41 +998,41 @@ https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/d213f654d679a6b5
 https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/123d467324dd78d8be0108a042cd994f36bbfdd7
 https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/tree/VIOLATION-OF-PRIVACY-153974-1516523-93715
 
-A RE  ALSO  FOR THE OTHER AREAS    NAUGHTY SPOTTY (36).msg
-A RE  Read  FW  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5  KIDS PRIVACY   .msg
-A RE  ref         101 west 55th street  new york  NY  10019    (31).msg
-A https   iapps courts state ny us nyscef ViewDocument docIndex m7XGVkEfrWWMY0QngNAPNQ  .msg	 
-A Read      LOCATED THE VIDEOGRAPHER FOR THE ZUCKERS… IN THE FEDERAL RECORD  (1901).msg
-A Read      LOCATED THE VIDEOGRAPHER FOR THE ZUCKERS… IN THE FEDERAL RECORD  (2001).msg
-M Read      LOCATED THE VIDEOGRAPHER FOR THE ZUCKERS… IN THE FEDERAL RECORD .msg
-A Read      MOV distribution continues beyond earlier requests of non-consent     (124).msg
-A Read      MOV distribution continues beyond earlier requests of non-consent     (329).msg
-A Read      MOV distribution continues beyond earlier requests of non-consent     (454).msg
-A Read      MOV distribution continues beyond earlier requests of non-consent     (523).msg
-A Read      MOV distribution continues beyond earlier requests of non-consent     (527).msg
-A Read      MOV distribution continues beyond earlier requests of non-consent     (529).msg
-A Read      photographs and videotapes being held without consent    HAVE THE NOT BEEN RETURNED TO ME  (1166).msg
-A Read      photographs and videotapes being held without consent    HAVE THE NOT BEEN RETURNED TO ME  (1212).msg
-A Read      public record     ASSIGNMENT OF LEASES AND RENTS FOR $6 000 000 00      ## ACRIS 001 (1201).msg
-A Read  JOSEPH GIAMBOI   THE ZUCKER ORGANIZATION   MANHATTAN SKYLINE MANAGEMENT CORP   -- 2613041 -- (295).msg
-M Read  JOSEPH GIAMBOI   THE ZUCKER ORGANIZATION   MANHATTAN SKYLINE MANAGEMENT CORP   -- 2613041 --.msg
-A Read  RE  U S  Securities and Exchange Commission     (1527).msg
-A Read  RE  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5  KIDS PRIVACY    (4).msg
-A Read  RE  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5  KIDS PRIVACY    (43).msg
-A Read  RE  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5  KIDS PRIVACY    (47).msg
-A Read  RE  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5  KIDS PRIVACY    (55).msg
-M Read  Read  FW      public record     ASSIGNMENT OF LEASES AND RENTS FOR $6 000 000 00      ## ACRIS 001.msg
-A Read  Read  FW  https   secure ice  https   iapps courts state ny us nyscef ViewDocument docIndex NvtIUa5jls0V4 OF7 XlGg   (67).msg
-A Read  U S  Code § 1512 18 U S  Code § 1512      VIDEO MOV      (1908).msg
-A Read  U S  Code § 1512 18 U S  Code § 1512      VIDEO MOV     .msg
-A Read  UPON NOTICE - ENTERED THE SAME IN THE DOCKETS --- BY DINCER  (289).msg
-M Read  UPON NOTICE - ENTERED THE SAME IN THE DOCKETS --- BY DINCER .msg
-A Read  VIDEO   MOV DISTRIBUTION.msg
-A Read  VIDEO   MOV DISTRIBUTIONs.msg
-A Read  may 22 2020 letter from Laskowitz.msg
-A Read  receipt for ingram § 776 26 Conflict of interest  General rule    EXHIBIT XXX November 24  2021   (1194).msg
-A Read  receipt for ingram § 776 26 Conflict of interest  General rule    EXHIBIT XXX November 24  2021  .msg
-M Read  ref         101 west 55th street  new york  NY  10019   .msg
+* A RE  ALSO  FOR THE OTHER AREAS    NAUGHTY SPOTTY (36).msg
+* A RE  Read  FW  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5  KIDS PRIVACY   .msg
+* A RE  ref         101 west 55th street  new york  NY  10019    (31).msg
+* A https   iapps courts state ny us nyscef ViewDocument docIndex m7XGVkEfrWWMY0QngNAPNQ  .msg	 
+* A Read      LOCATED THE VIDEOGRAPHER FOR THE ZUCKERS… IN THE FEDERAL RECORD  (1901).msg
+* A Read      LOCATED THE VIDEOGRAPHER FOR THE ZUCKERS… IN THE FEDERAL RECORD  (2001).msg
+* M Read      LOCATED THE VIDEOGRAPHER FOR THE ZUCKERS… IN THE FEDERAL RECORD .msg
+* A Read      MOV distribution continues beyond earlier requests of non-consent     (124).msg
+* A Read      MOV distribution continues beyond earlier requests of non-consent     (329).msg
+* A Read      MOV distribution continues beyond earlier requests of non-consent     (454).msg
+* A Read      MOV distribution continues beyond earlier requests of non-consent     (523).msg
+* A Read      MOV distribution continues beyond earlier requests of non-consent     (527).msg
+* A Read      MOV distribution continues beyond earlier requests of non-consent     (529).msg
+* A Read      photographs and videotapes being held without consent    HAVE THE NOT BEEN RETURNED TO ME  (1166).msg
+* A Read      photographs and videotapes being held without consent    HAVE THE NOT BEEN RETURNED TO ME  (1212).msg
+* A Read      public record     ASSIGNMENT OF LEASES AND RENTS FOR $6 000 000 00      ## ACRIS 001 (1201).msg
+* A Read  JOSEPH GIAMBOI   THE ZUCKER ORGANIZATION   MANHATTAN SKYLINE MANAGEMENT CORP   -- 2613041 -- (295).msg
+* M Read  JOSEPH GIAMBOI   THE ZUCKER ORGANIZATION   MANHATTAN SKYLINE MANAGEMENT CORP   -- 2613041 --.msg
+* A Read  RE  U S  Securities and Exchange Commission     (1527).msg
+* A Read  RE  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5  KIDS PRIVACY    (4).msg
+* A Read  RE  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5  KIDS PRIVACY    (43).msg
+* A Read  RE  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5  KIDS PRIVACY    (47).msg
+* A Read  RE  https   github com BSCPGROUPHOLDINGSLLC ELSER-AND-DICKER pull 5  KIDS PRIVACY    (55).msg
+* M Read  Read  FW      public record     ASSIGNMENT OF LEASES AND RENTS FOR $6 000 000 00      ## ACRIS 001.msg
+* A Read  Read  FW  https   secure ice  https   iapps courts state ny us nyscef ViewDocument docIndex NvtIUa5jls0V4 OF7 XlGg   (67).msg
+* A Read  U S  Code § 1512 18 U S  Code § 1512      VIDEO MOV      (1908).msg
+* A Read  U S  Code § 1512 18 U S  Code § 1512      VIDEO MOV     .msg
+* A Read  UPON NOTICE - ENTERED THE SAME IN THE DOCKETS --- BY DINCER  (289).msg
+* M Read  UPON NOTICE - ENTERED THE SAME IN THE DOCKETS --- BY DINCER .msg
+* A Read  VIDEO   MOV DISTRIBUTION.msg
+* A Read  VIDEO   MOV DISTRIBUTIONs.msg
+* A Read  may 22 2020 letter from Laskowitz.msg
+* A Read  receipt for ingram § 776 26 Conflict of interest  General rule    EXHIBIT XXX November 24  2021   (1194).msg
+* A Read  receipt for ingram § 776 26 Conflict of interest  General rule    EXHIBIT XXX November 24  2021  .msg
+* M Read  ref         101 west 55th street  new york  NY  10019   .msg
 
 
 [ALL VIDEOS  - UNRETURNED AS OF CURRENT    SEE ALSO DOCKET 008]
@@ -1126,6 +1115,8 @@ DEC 18, 2021 -  18:31 UTC
 
 https://saaze2311prdsra.blob.core.windows.net/clean/7391818e24d6ec11a7b5000d3a1af965/DoiNotice-TaxEvasion%20and%20Continued%20OPS.PDF
 
+![269 - ASHLEY HUMPHRIES_WILSONELSER](https://user-images.githubusercontent.com/70865813/169678806-805f99ef-f5ea-4d6f-a4f8-6b543544a7d3.JPG)
 
+[COMPLIANCE 2021-11-16](https://saaze2311prdsra.blob.core.windows.net/clean/6a91074b24d6ec11a7b50022483079c1/Compliance%202021-11-16.pdf)
 
-https://saaze2311prdsra.blob.core.windows.net/clean/6a91074b24d6ec11a7b50022483079c1/Compliance%202021-11-16.pdf
+[153974-1516523-93715 -NYFRB POST 121 --.pdf](https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/files/8748758/53974-1516523-93715.-NYFRB.POST.121.--.pdf)
