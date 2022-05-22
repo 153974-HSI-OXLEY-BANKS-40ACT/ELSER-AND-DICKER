@@ -1,5 +1,6 @@
 # STATE FARM ASSURANCES FUNDS TRUST
-test this here. [^1]
+
+
 ![image](https://user-images.githubusercontent.com/70865813/169647568-ac8dec51-531a-4617-be0e-8761b9743b7d.png)
 
 [https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=K9sgXcweC7esRoSPO8MNtA==](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=K9sgXcweC7esRoSPO8MNtA==)
