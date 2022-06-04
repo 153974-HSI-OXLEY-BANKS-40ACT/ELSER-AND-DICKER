@@ -1,0 +1,202 @@
+From - Sun May  1 03:25:49 2022
+X-Account-Key: account1
+X-UIDL: AGsiXi9pwS0DYm4pbgMNQM/Se8o
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.135.212
+ by atlas304.free.mail.ne1.yahoo.com with HTTPS; Sun, 1 May 2022 06:32:13 +0000
+Return-Path: <nchini@bainbridge.com>
+X-Originating-Ip: [40.107.237.90]
+Received-SPF: pass (domain of bainbridge.com designates 40.107.237.90 as permitted sender)
+Authentication-Results: atlas304.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@bainbridge.com header.s=selector2;
+ spf=pass smtp.mailfrom=bainbridge.com;
+ dmarc=pass(p=QUARANTINE) header.from=bainbridge.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sun, 1 May 2022 06:32:13 +0000
+X-YMailAVSC: 9Onq9Rc3bBu8ZlZrwatzpAqUg2wsO34uEsyL3RCIZyfnyOw
+ FYiM8oAxl7wj8aTTg0LGQd1lxBtSaUJFJpPUlxyErAdxkS9yakr9EoA9h6BL
+ U09gxd200j4xfUOc8OZT5NHfxLoRXLRe5xi6DscIC7k6OOvT6XeS__k6xYVR
+ 7UKHWTcVLAOu_lRv.Jt_zQ8DBblkSqfuPsgQoAcIk73BanTBZi3F2K_kYo8z
+ sLIIazznG1xVOTPZmxYVa70QkQwWxtyoOUJSGNpfkZ.o2jpNiJLRmEcnYFjC
+ 35bQb85nhNX3OFivkmpEU5UVmsCBesR51wgri13n8X9nGpcxr4ovZWdFb1vN
+ x
+X-YMailISG: P9aBoYIWLDv6MYcPPFw5K_8KmQL3mknu6HL2XctksQf8zFhy
+ RKTwMY.mhXCWNuOpG589iJsUAN8Rc200Ttj_0wcx3cuwtpLCgifsmneznYbW
+ gvQD9kExdhaPd..EBF5mFmZp_zHif7XuxNYHMhmchLYRwxXVOux7lwMtvaZd
+ gmE9pWj4_GPoDUzMr51Vk9svGjhhMK.8Hm8Bpp.GVmd.JeV31Nz1vNYZzbRp
+ UVHdZjZRujpIBa9i13KsxR1moyrJ8cfvUotC92vluYsobhl6n7ei.9heBYmo
+ TSZkzPcJ04OPFsIlckAjg8hTI6Znn74UWFteOVtM44IInmMDhP0ohHOlS835
+ P5tv2IKaT2QVKe_9VbB7RBtwsrUqdl0YpI6LRZQYDVavvguRrX0BLPF_6rX4
+ iItcBGG9F1ft5mUpfaUlQKnQvNLldTu7__Nz8uJXlssivE2scd00qVxKrZKY
+ bwnibS7W9myd50aV5KtO6U1dE8zSxNzPohApxgI0fOZlCgg7l6rFRnugNlgL
+ 7.IrHiF39thFC2KbzH1yAoMPS_iFYRkUA537a00p31fh8KpNFQyZeRPePl3X
+ S75SZie_gwNs_Lh.NXWLV47XVS4081Zd2pOXEtVbJQQFwBlGIMN7K5rUqzuj
+ Bs_t6iSUus5_OdoZk7t9vNtoT1D_LtA3SwlfyY_efuIywFu.LKr3cQ.kY4qa
+ c7Q0wU6vS1jvpvoP3t2K1qFxYi7LCrQ6hI2IUrbfYpEgJWULNvzcvQXeD0kH
+ hKA4Zr8DWBjkJkYazq2EP.Cj8v3evKx9eUgrsWUReomnhG57q7e750jBjNOG
+ 5IVntokmt2neT7Q2AtPWaMQc8WcajCb0JHA0j_bjrC8ierqAfyH3ifY2Y3FL
+ 9i1.8gc0OE9N0LjCPTaD2ShS3BTLHIQV_mCUYyTmSdTubRh_uF85uB7.BBSc
+ 5x0k5TYtb_rYzzYQFFMU8UM.JoBcSYhbHJawiPkDtaV8._8kZrSJ4HoLVeu0
+ yDumFsC3YGtOjYs0aW4XqsjBEI33JfmlXhadBkTzWhA5eSdGqtD78WC6WPs.
+ OtKxsk9HBhujM90myzwU80gr0zsI09Iilyr1hVPvEN8vsgqB3KY6XyTlfOgP
+ EaqcOgzapxNL5RjjEOO54Sos1SxpxC53FPCkS4Jv2ytkWQGGQC8LnS6UXQ--
+Received: from 40.107.237.90 (EHLO NAM12-BN8-obe.outbound.protection.outlook.com)
+ by 10.217.135.212 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sun, 01 May 2022 06:32:13 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=hD1kvTbKLLc77tTjbADDZjXNNbM7ML4YB9eR6kPeRTkCNYSeItMCn15kNxruQX+Z+awnA81QG2bCVhgN856ydNkK2NRGqsVrCXNNGxzyv6ynCZwZifMPW10hSUjZdZi70wymt+t+gQu17f/R0zQiCIwWfTEYCcwlc6v3X44TSpH4QsRhytubJiMlJ9Yi8b1o+TKJLudoi4UiNiS34g+Y+9n9nwbcfV5E+NcMlZChBRVZEpK43h31px32XCxjm1I7rMCaTVTpWR8IPRPea52+DIoNdbEOVeohdXRImN6SIpvugAYW1ukKAXPBVoYXq2/JT1iL2D1jkqOBTxyNdVdKBQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=026gwUplJ7sn298i7tc0pN+Qyg2blTyDjqni4mO/rRk=;
+ b=n4L9CHt3c1tinyjPaxBWZ3gAnQwwm5kCc8eYCwwe56CENRTdILcztp6xin+jJ+hCr+0dYjqG5ovstr9WonTuOG1AfiiKDsK0NlF3+ChYFeC85l9tJha3jUryS3A4YhfCEOXCG4RmCDaPQyLvAnM2phGcbx1vCwisScPccotsis4m8AMrKZSw0Rz9Idif96rBoFiKScTc10kCbbhRBHsLTVQih+q06bmx2t7G/S08aRf3KLxdZr+BGY0qN3cjL4jYNyRyR01Solf1tJNPwzlcGxvir/v5jPpJH7QNiFh8JsCSf/JgcWrWXMjjHGoPsClz+iaGasebgFsbk0/+Ud44jg==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=bainbridge.com; dmarc=pass action=none
+ header.from=bainbridge.com; dkim=pass header.d=bainbridge.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=bainbridge.com;
+ s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=026gwUplJ7sn298i7tc0pN+Qyg2blTyDjqni4mO/rRk=;
+ b=OEmDcUtCv8wC0mVnARSm+K8nURIlLx25pJVNZ6ORGAEbMXmiaLDZ4/VHw8Px5vEsXxMyPD6/qqeqWymUxIl0wQROSYTWDf//kTcrpeqs8yEsJMMp9FT5alEKTiJL6veX4uNX7Hy1AK9VWV0+mXpPunf0Jm86SQ4t0RsH31FDFVLaX2mkR5N/mhY2+wyTyXU0A1BvGUmbmiZm7J8Ih7ZVKpRIYZdEucSYhBcBkl+jVLaZWQ5mP3voJzcqIXM++Zw94qOr7KqO7UaPt8cVFiRgXPT8AdfDkLbzgnhBwuEQI1gt5puSjKA6DtDzC5GAh3xVPeWag3PLSh9C0sB2p/KjAQ==
+Received: from BYAPR03MB4231.namprd03.prod.outlook.com (2603:10b6:a03:76::13)
+ by BN7PR03MB3586.namprd03.prod.outlook.com (2603:10b6:406:c6::13) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5186.15; Sun, 1 May
+ 2022 06:32:11 +0000
+Received: from BYAPR03MB4231.namprd03.prod.outlook.com
+ ([fe80::9dd4:6802:fff5:1495]) by BYAPR03MB4231.namprd03.prod.outlook.com
+ ([fe80::9dd4:6802:fff5:1495%7]) with mapi id 15.20.5186.028; Sun, 1 May 2022
+ 06:32:10 +0000
+From: Nick Chini <nchini@bainbridge.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Fwd: Fwd: WILSON DICKER
+Thread-Topic: Fwd: WILSON DICKER
+Thread-Index: AQHYXSAtSDLyEQdE70SVa9EfeeHf/w==
+Importance: high
+X-Priority: 1
+Date: Sun, 1 May 2022 06:32:10 +0000
+Message-ID: <d1e19f1b046f43f3b5033d48bbccc278@bainbridge.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: bd5659eb-c375-4697-a9a6-08da2b3c5287
+x-ms-traffictypediagnostic: BN7PR03MB3586:EE_
+x-ms-exchange-atpmessageproperties: SA|SL
+x-microsoft-antispam-prvs:
+ <BN7PR03MB35869EBF00FE953A05A35AC2A5FE9@BN7PR03MB3586.namprd03.prod.outlook.com>
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ kt0aaUhXq091Bxar/ifmxnXWtO4TiBXD+BxknSWSFqpccnZ4oJd+4HhTgcZjJlcVoZhG5VYWdRrsi9i/Vt6QVgj2ukP/HO1GrO4ht7Uj3NJiMx+G1L4JWMUBtuOCZpdSMS9AS3XM7pVH4oStO+2CvZ7EqIzTaVcnLz76ExvK6VTNmvHLAxgdb5MDU4KsAB2SXoZYid6pDjCFxDZ3Cwkwd3gbuqoccitHrgwXrwS6pECrys+QiWlfoA3OyJMtxZKOxyX2qxzu24FiQJViAIooCq166AD/e7HD1aaOcS7hsWmRjDZwTcwgWboFboMyBRV2hJ+H8B5ZBhE7uxgWslhHTlqWKBxp4arlE8W+YWH67fsPOT6bQwRXuEDdaxHGxeJCAb/HXvD6Xc6mad+5b81qWQ==
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:BYAPR03MB4231.namprd03.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230001)(4636009)(376002)(396003)(366004)(346002)(39830400003)(136003)(6506007)(24736004)(186003)(71200400001)(6512007)(108616005)(73894004)(621065003)(2616005)(4270600006)(2906002)(8936002)(316002)(6486002)(66946007)(508600001)(88996005)(64756008)(66446008)(66476007)(66556008)(6916009)(8676002)(122000001)(86362001)(36756003);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?lyZsFk4YHLqKpFKvCcj9FQNU2Piv9fI3IFObgCTFdDkNLb3D/DfGwAKu3/Ak?=
+ =?us-ascii?Q?YCJ8wwwMHKrkovTxqX5ASga/0dMdPOzd/WnqilfeCKSrabo4sgJpzA1QXUXJ?=
+ =?us-ascii?Q?fPqYDGlq/Z5Jj9BHPrxSZzVWk1edNFIdJdp4aB1mO2F8w/7Hig7HoVeWsKCn?=
+ =?us-ascii?Q?peuVqzFPNLD7iqjuR+6fC5Sa6SoV4W5s3W7gNjommK+8OOEitYlFf2lenAFJ?=
+ =?us-ascii?Q?tm/P2X0KVBRMxFTBZgZB2hqfgIVLIhGT+NaEYZgkV14tfdCdTi/2ntbrgtT3?=
+ =?us-ascii?Q?tmsoEd6xzdFJzN7p2bUlZDCf5HEiobRzu/LAkNGlAAilmZ+SffaWS8u+m3zY?=
+ =?us-ascii?Q?jfK14WBchyEPgWGm/XPkEPg3SoN7J/UOf1WJBs9k8wmKJIqBZIVmq3L4mrAo?=
+ =?us-ascii?Q?bUZO/7xCNDH0MXadMYQCQWHtur9nwLl/BLqs3wrrdmxkTjFm77HeDLO0luqV?=
+ =?us-ascii?Q?SShsvTurUjJGbk6So4PjuUaoIkhaV6PQ7UJznew9VW+5+/hXcpobh3bVw4UC?=
+ =?us-ascii?Q?vIh9+4Rrb9cAODVBHEMCRCsJ4PAPG6+6wf169H95uwyTtzs+kmTu4M3948BP?=
+ =?us-ascii?Q?5MJSF54NfTeqbvnfIW93St5jgVlHEluGAWJR9bmLB9E9SMtpJWT2JmoTEHUO?=
+ =?us-ascii?Q?lhcMQU8hz+EqyQTvOuwDaOlsY6H/G5MopUHGtYBQlkexZ7pBjAyQLR7YfWeK?=
+ =?us-ascii?Q?ghGpdQnPb582XtWbmefVxwRKay2WDLG6An+3m+yorZvtYl5r3X9vRhCR8+4A?=
+ =?us-ascii?Q?vsBewTC4Ts2e8eb4Z3FVhCahiFO7V2vkchQrpMLe84jfhQ0Fy+9kiECBOcAQ?=
+ =?us-ascii?Q?VR6TXvv/fIf6IGkscR46SriUtoVwOY8WlqBfnlPnae6FePxox1rNd6IO3xZf?=
+ =?us-ascii?Q?jBJ0z9QMXvvZavluucBFesD7p1jMJRnRiWJNCgifn87E+BTLXqsyu3h7lSUW?=
+ =?us-ascii?Q?hc8dzDy0jbyD+tDqn0Se45Ft+CrF6vPCPeU0t/AuHtnL5HbPMbibxKXByHA/?=
+ =?us-ascii?Q?yxKJK06utpAVGrXaIARBVo1MwPUzKsSja/VWPMasBQV0NhsWxjs37O0N4zL6?=
+ =?us-ascii?Q?j5po6D9Vn0HKYSBnNvgV/pOQkRJgauCZiWmv2GUmMUTBIjM+4NgWh4gb35Qo?=
+ =?us-ascii?Q?l3gqtD6y3TFRueSQSm1SDcAcCy2NFZRYjw9VbtwiHpZxSSgvBIuH6YGRBe5C?=
+ =?us-ascii?Q?Rjy8N3/OTWwJfGAGXM8+W2lCT4dTiT8V+CHidBaEXtSoedrJ9qjDe2gGXr7V?=
+ =?us-ascii?Q?R5SoyxatK39qFZsMGFWqT6toRh+yuaZrfrGWYalXTiwLzwFh4LSJBSTt23sg?=
+ =?us-ascii?Q?Rgjleuuwk6A5CUklF4ue6KTp2flJAMpGmxrpprRqBT2DsEbtBeaoakVvPGZD?=
+ =?us-ascii?Q?BKbfFlffmTx1zl2p4Am7PqY5q5d/Ve2Tj84IQQaowyg2hDrX3/beJuFUK1V7?=
+ =?us-ascii?Q?u9AIV/sxHmCFQ426lglGJVDLJ4OpITeVMm4OFa6bKTgaNdSf4e55T9JY33BG?=
+ =?us-ascii?Q?iZweidutKpn7Cq3ASUnLWcXOU78SOQDqXSWHuBHg//QG3uUqzIIkDyG2kgWj?=
+ =?us-ascii?Q?0mWMUhHeworlJJVdTe2vOcLG1otBt+1Mj4xuv9XHZaihClBAg54+95tGNh48?=
+ =?us-ascii?Q?kQiuNfJWykCmXZJqivrCCQg=3D?=
+Content-Type: multipart/report;
+	boundary="_000_d1e19f1b046f43f3b5033d48bbccc278bainbridgecom_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: bainbridge.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: BYAPR03MB4231.namprd03.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: bd5659eb-c375-4697-a9a6-08da2b3c5287
+X-MS-Exchange-CrossTenant-originalarrivaltime: 01 May 2022 06:32:10.8688
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 13c6d1ee-68ac-46ec-85c7-fef5fc31f417
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: P5zD6aAwM31w2lQFpza5spBuNSSIe/bcvLH1VQgJJGQ0f4Z3vsXyAlnDnztdBtQFlqDV3JV8miSnsLaFaL688g==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN7PR03MB3586
+Content-Length: 1908
+
+--_000_d1e19f1b046f43f3b5033d48bbccc278bainbridgecom_
+Content-Type: multipart/alternative;
+	boundary="_002_d1e19f1b046f43f3b5033d48bbccc278bainbridgecom_"
+
+--_002_d1e19f1b046f43f3b5033d48bbccc278bainbridgecom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Nick Chini
+   Subject: Fwd: Fwd: WILSON DICKER
+   Sent: Saturday, April 30, 2022 10:53:48 PM (UTC-08:00) Pacific Time (US =
+& Canada)
+
+ was read on Saturday, April 30, 2022 11:32:10 PM (UTC-08:00) Pacific Time =
+(US & Canada).
+
+--_002_d1e19f1b046f43f3b5033d48bbccc278bainbridgecom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Nick Chini<br>
+&nbsp;&nbsp; Subject: Fwd: Fwd: WILSON DICKER<br>
+&nbsp;&nbsp; Sent: Saturday, April 30, 2022 10:53:48 PM (UTC-08:00) Pacific=
+ Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Saturday, April 30, 2022 11:32:10 PM (UTC-08:00) Pacific =
+Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_d1e19f1b046f43f3b5033d48bbccc278bainbridgecom_--
+
+--_000_d1e19f1b046f43f3b5033d48bbccc278bainbridgecom_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; nchini@bainbridge.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: YSs9G067KEGgSDbBVCrpcg==
+Original-Message-ID: <04af3606-1098-a4bf-cbc8-da3dd62fc21f@yahoo.com>
+X-Display-Name: Nick Chini
+
+
+--_000_d1e19f1b046f43f3b5033d48bbccc278bainbridgecom_--

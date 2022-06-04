@@ -1,0 +1,220 @@
+From - Fri May  6 13:22:33 2022
+X-Account-Key: account1
+X-UIDL: AEkxgesJtAnOYnO7Sgtl+EMmbW0
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.222.142.149
+ by atlas205.free.mail.ne1.yahoo.com with HTTPS; Thu, 5 May 2022 11:55:54 +0000
+Return-Path: <PAUL.F.DENHUP@cbp.dhs.gov>
+X-Originating-Ip: [67.231.147.98]
+Received-SPF: pass (domain of cbp.dhs.gov designates 67.231.147.98 as permitted sender)
+Authentication-Results: atlas205.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@cbp.dhs.gov header.s=select1;
+ spf=pass smtp.mailfrom=cbp.dhs.gov;
+ dmarc=pass(p=REJECT) header.from=cbp.dhs.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 5 May 2022 11:55:54 +0000
+X-YMailISG: GnnHnPkWLDvfvYnpkYcxCttKFUk3XoGCXvqMhLxzwuKO_fsi
+ zky6mi1JnJs49NAEjm4JCq1eRKosCob6NJFGUoHbIt22oQDveIHCmRzCl0.p
+ FmVWNrH2cBnOWjHSsnnJGjJCMhPyfpC03vslrBAz4DQssKuNUO6Ytc7cN0SR
+ 4kkngt6Wxdz4qwh0.HWHOSYQIcGOxXLtKy3Tyvf9XXshu5oCgRw8lYZc5y_b
+ x5yGxseV3QNHz0NgeudTq437Ztw6ZqzL0js7ITeG5JoyVCHCxrmdCU0Gj51u
+ nSGiX8M67vCFlnya91c6LsEa9H3IAbvIIzf9Lm6DH4GajVlBfb22QOU1dFk8
+ MLA9SLyOFhRv0ttYzA.T3vRpumamCREni_bevI6CSV.2McyjThumCFE4DG35
+ 5Jcx07EBgzjSJHWtPvS5_wxKnik_imuAycAku.U_bZacRjos_gDUXw8_xTkP
+ Ci6h3MD0pFReA7jf3jgUBtxXFeLK1tdHYp1xL6a2TyQuFdNxdjJIQklvfYsC
+ TsJ5rcQxqrQGmBngFmVgKM1X_b_1Vcy5suNW92fNLi8WUYTaRd0WHC1YQUgu
+ JWzd3z.3U1WhPfqAVpaP6.dkEE8_lhwI0MhAAvvkkpmCbGqOJBXFgLdnmbfN
+ yt_X182caOxieTI7C.OpVX3k5iAlsWmZbnymLSUsnZ9Hqz0GYbnP3R1ckO07
+ XYCWQaLVJEjUVAtm9JTW7pOBacMm2pvifM8b1gFiqgHclmq8D4VnpBRY0lro
+ 8T2RyV0Y0fziihdl4VJYCtTpQ92VlLCg0RAKJEq_OxJ.HhtrNwcHMal9lzIy
+ X6hJNrqwpbL_wRR08kD7QfSLip3Wv9Hu8WBU30V_aLsEZPItiQd.e0KTsrZz
+ 1hHZeDFbL.Num6WaJt2YU0SQFNeVNBetwZW0zAPsRZkK26jnUmM.nAo8VJDf
+ KgPJODKzGeVZba_ctSOIbu5V.X25PES76wDYXAq3QxBtv3Bdoe6HMI0hhlR6
+ Y1fLV20P1OnrwUBMyIWnEcgVuKuvrnNQfJSe0mLI1mH9WzLr4.Ag54eDi0lY
+ MqPQJPTbSWH5olcDhEqRpz0HRWku_Nq0a3ol3fXGxX1zOE2xto36JvvYHHuY
+ HWOZphwCj.oiFJLwOK1P1JM.vX9U1og240JsA0KxMAJiCbiJsrXGhvcYhtQE
+ sdgpTM0dKdvD3ILH1_LbAylSGH.KJMZjLc7AU__EcVh6yZ6Xc2zhZmXF5s99
+ ujatYMmEFBXGgKY2KGmMv2pGSnB7NLZiIw4DzU..3Fby5Hw2pmmlCF2_I1WH
+ XO0KC3W3iFPL2v7JaxzFg58TQfXZAoAQmZhgRRKrxnF1JD_JqT1I0a1IK_nj
+ MB5dTxTMQ3uY5DjbC82Lb4CA
+Received: from 67.231.147.98 (EHLO mx0e-00376703.gpphosted.com)
+ by 10.222.142.149 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Thu, 05 May 2022 11:55:54 +0000
+Received: from pps.filterd (m0186849.ppops.net [127.0.0.1])
+	by mx0e-00376703.gpphosted.com (8.16.1.2/8.16.1.2) with SMTP id 245BoLv8031668
+	for <ms60710444266@yahoo.com>; Thu, 5 May 2022 11:55:53 GMT
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=cbp.dhs.gov; h=from : to : subject
+ : date : message-id : content-type : mime-version; s=select1;
+ bh=p2oRkUhVCIlMzT4JOkVApO0rPDLRNi2tQwnuXP2sPsM=;
+ b=NWL5v08AGpbu/p3u0GYEPmlzeJrYTaXCYTQg7H/X5cdqnfESvtC+McRv2cIK0g/bzT1h
+ HLhJxhBdUhP1LTq2Jbt8Ge79b8jTDhfqAnU5uRQsmfWDk2b+EodQVrnV1AGcgNK0CJ5Q
+ hFKTSRH2m73W93KeqOtpAoW+hpRCpKcfK6+kVJ8fgGySpkzxtCICw6Pu8jOvgWtoqJOj
+ L8Isj95RNMHSTEGAIPxl4UV/NzSrpA+3I6sk4LHxg6zjx/RLq1pIqNcM03dDZvZsqjHt
+ Y8PpCXOy8/Un/FZ5iSW0Ck0t+ETmezdQVym0PMrUpvB6Br1q3GPrSY4+/1+/If8oAnvu mg== 
+Received: from gcc02-bl0-obe.outbound.protection.outlook.com (mail-bl2gcc02lp2104.outbound.protection.outlook.com [104.47.64.104])
+	by mx0e-00376703.gpphosted.com with ESMTP id 3fv53299xx-1
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT)
+	for <ms60710444266@yahoo.com>; Thu, 05 May 2022 11:55:53 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=gnrkxB5ZkN1tE6Pk/2N8edRdZ7+AiNW9F0zJHn67YHO9za9QJ3I/4L2Gbrbj1XJHvKMqc7Dj0vHVo2fJ92D0cO/rhNc+0wWnezllHvKpuPI+7mS2EuwAVUotDIwTJhjn74h/mDKmqR/RaqLNGKbn7KTMRxdOgXcTA77V5oYfX3m7/q+zGOrdUSikwkpEI/+Yx2n41A3gUS/7C+cVKmr74doj8KwMMyle+ZES6kxvFpNrsPhY0fJhRAMNs9mYoFg3BSae3NKdaoAQchYItB4gNzM0VFSYXD0yeJXVWjKUJBOSkhyX0PYLWX0me6u9P99CsM3aW273REq6/nCkLVqb4g==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=p2oRkUhVCIlMzT4JOkVApO0rPDLRNi2tQwnuXP2sPsM=;
+ b=djcoCNI69gpVdSf9I21FzWYu6ZXYZU6gQwlOTg3xuW4a+2k99hrjSNqMrB4PESE4lBuFtv9soXpVAL/IOh3KOZFzeMh/JjFHNJzZCgvbG+DjM+CC9n2uhneQn47jTHNNLz4u5DDDeAgFE+mqtfvQeh7PCr5x9Pq2RfebrYecDk6XGIlT/ROnKFy8K6SEPSgJ+DPavKoP6kb6YPOgfVlOs0ZtoSSRfyyYV1DKZNB5WxtHsH5j2ams8n8I5AnnKpJ0G+C/22rOhOn5vWeoZAhSzZZZ5v7V3O6QyHSP2nRvzUljk5MFc6x2tFZemTCWW4Br69rDTbsxsF3fitwf4E+rOg==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=cbp.dhs.gov; dmarc=pass action=none header.from=cbp.dhs.gov;
+ dkim=pass header.d=cbp.dhs.gov; arc=none
+Received: from PH0PR09MB8122.namprd09.prod.outlook.com (2603:10b6:510:6a::7)
+ by MN2PR09MB5625.namprd09.prod.outlook.com (2603:10b6:208:217::24) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5206.24; Thu, 5 May
+ 2022 11:55:51 +0000
+Received: from PH0PR09MB8122.namprd09.prod.outlook.com
+ ([fe80::7466:f2d5:d1fe:6e4c]) by PH0PR09MB8122.namprd09.prod.outlook.com
+ ([fe80::7466:f2d5:d1fe:6e4c%5]) with mapi id 15.20.5206.025; Thu, 5 May 2022
+ 11:55:51 +0000
+From: "DENHUP, PAUL F" <PAUL.F.DENHUP@cbp.dhs.gov>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Fwd: Fwd: November 22nd, 2021 NOTICE to Laurie Zucker, #348#ADV
+ FORM [bk01@cb.nyc.gov] nonplussed.
+Thread-Topic: Fwd: November 22nd, 2021 NOTICE to Laurie Zucker, #348#ADV FORM
+ [bk01@cb.nyc.gov] nonplussed.
+Thread-Index: AQHYYBmEFyoQlBxqpU+6QLLnVvjnTw==
+Importance: high
+X-Priority: 1
+Date: Thu, 5 May 2022 11:55:51 +0000
+Message-ID: <38b93fd98b894fd1b5867962c932eb0f@cbp.dhs.gov>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: b96ce57d-b9c5-4198-f04d-08da2e8e33b9
+x-ms-traffictypediagnostic: MN2PR09MB5625:EE_
+x-microsoft-antispam-prvs: 
+ <MN2PR09MB5625C9B39BCB01C22091C23BE6C29@MN2PR09MB5625.namprd09.prod.outlook.com>
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info: 
+ zV5dcdaqu/ODl+5MvPFKzwo0G0+VwMeUOh32cVWfs3UAbuMKDJO01UnyrjHAJ6JxVJRwoOMU/cMSDKCwB5TID+opGa0HLbkE91DEDTtlpkE1pHdwl3TcqD6oY+crPN63g35l32UqPeM4uzML76TJPSPjFbl8kvSoZLQHr682oq3BdMZr92AxwMcXbEqKR5ieleqVaCgyRIEX2tBcZQERYsYQ9Wi+6LE4aWiVOi//yzjRWA5VqBYdpUJt+7U5YC7lMuS347tZ4fjFpT6fbB8fK63sGLZCSxLfbxFsFF5gAYgoVG6l9Hb5yvhyT3Df5oX7SsRO1xDmAtmkuPAON89la9HZ70RZ8/asIWuw9m57NXhE5L22BexL4Am06BnWokKAa9kxHmee/qnVXqblvhfT4w==
+x-forefront-antispam-report: 
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:PH0PR09MB8122.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230001)(366004)(508600001)(122000001)(8936002)(86362001)(4270600006)(6512007)(82960400001)(6486002)(2906002)(71200400001)(66476007)(88996005)(64756008)(8676002)(24736004)(6506007)(66556008)(108616005)(66946007)(66446008)(316002)(73894004)(621065003)(6916009)(2616005)(186003);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0: 
+ =?us-ascii?Q?6P6ZoU+hfgg5KVacK/xjcrF9XVjUXU5b9RlGP0C5mexwIJ4Huy23SusQrdxY?=
+ =?us-ascii?Q?A9gqoIaK5z1SZalSGMWtD1z3yjFqTGnxdb7eDHzIsLJD4Rm06MQ7br1iqeKV?=
+ =?us-ascii?Q?5NCcPcVrwBK8AuzpenQfQu7Rwn6wNnzbGjgKYCyq8FTfBDxETC++i41PBjuc?=
+ =?us-ascii?Q?/rRK9vQxc6XklMDBqiMPfio1yP77a5VfyhNdf4Kr0pJ9EhzEnE6E98/LX9Z7?=
+ =?us-ascii?Q?EqiCNdYpjtELE0LHOm5lrld339VdAKQbbpnDCme6AN/YFvOLqEROYr1Hv7+T?=
+ =?us-ascii?Q?+B9XPt4HkFWXUqgVOAthDrWoDNVr35bPGOThA4gg+nthcvEihhTeCgWI4baF?=
+ =?us-ascii?Q?94C2hYtJOoNtbV9Hiq223I/lNLs9cp4XXsjg5G6oHy3rRub4iw41QO8jk9Ty?=
+ =?us-ascii?Q?LCLJzoz2E8VJ/OhNfRLEgGHV2fnBFbWfo/R4tkYIn3/rKVBYHWmXoUe34xRd?=
+ =?us-ascii?Q?gFvU/n0NHqPbu56ml4xVb9BsjDOVDvQEowlFPi073HbvJ+dMJGgM+5nxyW5k?=
+ =?us-ascii?Q?ZfidimAvlwWfCJX7kAa72hPOdY731hnckn6roWU1n/j0i0pPt0Ya1md/NOdk?=
+ =?us-ascii?Q?RXfU+8ChmhgBFDiW8S7FbLxUHj0CgPUmp6pixPJCQCZpvgPz8wT/3vkHlOPS?=
+ =?us-ascii?Q?YbYO2YoL+WswRhpqRtK32Q00SmtG+IwKr95S4IphSmFGHG2Ztvi8YQxMUQpK?=
+ =?us-ascii?Q?QsQgxbWp5roMpg04ykKJqvAqSdKTIYW18z1vkqP0B7rqETrkcF6ZfrDR2fdp?=
+ =?us-ascii?Q?SdV0KPiqraPbqc+18vCvns9kG9V3TAKqzfkGuAo3dRri29UlgFyFN/cdWqxq?=
+ =?us-ascii?Q?7c+q6JkaZSuGPw8y82Yf9peZR09IywwuYMozsPp8GcUuXZ6xr7o4ak9LEKxh?=
+ =?us-ascii?Q?bL5g/L1fuj119L4re3Xa4jaQ4+EVMOT3/AW3c2bgP8frDPVDlXbU/Faeqjfl?=
+ =?us-ascii?Q?qNFg/t2pI+afoLI7Atg+6thjSwsb1hCXPOUetv5EFR8zWCNV9CkJHzxvnBUh?=
+ =?us-ascii?Q?lDPYj5fniO++JHbAAYNErRlUmZ25D9seCzTHyNYYCi7I8+cMzTLHLLBx4nWa?=
+ =?us-ascii?Q?IWuweQFXzugvWwPCwWEbg8M5Awyqc67xkyUWU1yzMSGMZ9oYP3HPd3QXlMq/?=
+ =?us-ascii?Q?9BDCIb9Eeo+nS8SkVtG9ToqTfhJasyLzhYkVSCMfPxmCtWW9nplSnm71xExl?=
+ =?us-ascii?Q?w2ZMvxjYSK25Hu9yWaM2Hb+nD9HSxZzJLJEe/d44WzVSZ9Ov7ZqwTOUNKe0r?=
+ =?us-ascii?Q?sohaePes+6gfveWtTP53Hz7VD9jn+6F9pPBTzbmQExRd76vIehF+9IMcxScj?=
+ =?us-ascii?Q?g7owpYTsOa3uKtOWT6NdbrEdCgdG4sKTcX3p3yPkZdZTKWpqlYYJCEjyZ1nB?=
+ =?us-ascii?Q?PlNCP3DwdF6R2WMBrA8MdbtDputnJim1gK4nx7ljVXmSTlGUtgYtlRb7Yci4?=
+ =?us-ascii?Q?k41D/R6qQsLhQXqIDmhiNmdAOCXv/aCF+2ttZeX3reCx6N9RZxrkikFDm+eu?=
+ =?us-ascii?Q?HT71TGJX0u1f38wf0pJD/AzeYtugtzyCn3DrfsQTfgUbIOKBMPKrep/tGoI8?=
+ =?us-ascii?Q?R2XOgcaPN2U4ks7pJ3rAUawmu6EtWMVSF2E4m2VeW1XaxlfTfNBJ/MtCj+Rv?=
+ =?us-ascii?Q?Yzjc/qntVrLjtA7poK7ZAEI=3D?=
+Content-Type: multipart/report;
+	boundary="_000_38b93fd98b894fd1b5867962c932eb0fcbpdhsgov_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: cbp.dhs.gov
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: PH0PR09MB8122.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: b96ce57d-b9c5-4198-f04d-08da2e8e33b9
+X-MS-Exchange-CrossTenant-originalarrivaltime: 05 May 2022 11:55:51.3778
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: e4b16b84-4c56-4f27-9af7-30345a161ad4
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MN2PR09MB5625
+X-Proofpoint-ORIG-GUID: q7cDFQUvJ8M8vN82ivNYkfLDl5ny3KIA
+X-Proofpoint-GUID: q7cDFQUvJ8M8vN82ivNYkfLDl5ny3KIA
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10434:6.0.486,18.0.858
+ definitions=2022-05-05_04:2022-05-05,2022-05-05 signatures=0
+X-Proofpoint-Spam-Details: rule=outbound_notspam policy=outbound score=0 malwarescore=0 phishscore=0
+ mlxlogscore=386 impostorscore=0 lowpriorityscore=0 bulkscore=0 mlxscore=0
+ clxscore=1031 spamscore=0 adultscore=0 priorityscore=1501 suspectscore=0
+ classifier=spam adjust=0 reason=mlx scancount=1 engine=8.12.0-2202240000
+ definitions=main-2205050085
+Content-Length: 2063
+
+--_000_38b93fd98b894fd1b5867962c932eb0fcbpdhsgov_
+Content-Type: multipart/alternative;
+	boundary="_002_38b93fd98b894fd1b5867962c932eb0fcbpdhsgov_"
+
+--_002_38b93fd98b894fd1b5867962c932eb0fcbpdhsgov_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: DENHUP, PAUL F
+   Subject: Fwd: Fwd: November 22nd, 2021 NOTICE to Laurie Zucker, #348#ADV=
+ FORM [bk01@cb.nyc.gov] nonplussed.
+   Sent: Wednesday, May 4, 2022 8:38:32 PM (UTC-05:00) Eastern Time (US & C=
+anada)
+
+ was read on Thursday, May 5, 2022 7:55:51 AM (UTC-05:00) Eastern Time (US =
+& Canada).
+
+--_002_38b93fd98b894fd1b5867962c932eb0fcbpdhsgov_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: DENHUP, PAUL F<br>
+&nbsp;&nbsp; Subject: Fwd: Fwd: November 22nd, 2021 NOTICE to Laurie Zucker=
+, #348#ADV FORM [bk01@cb.nyc.gov] nonplussed.<br>
+&nbsp;&nbsp; Sent: Wednesday, May 4, 2022 8:38:32 PM (UTC-05:00) Eastern Ti=
+me (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Thursday, May 5, 2022 7:55:51 AM (UTC-05:00) Eastern Time=
+ (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_38b93fd98b894fd1b5867962c932eb0fcbpdhsgov_--
+
+--_000_38b93fd98b894fd1b5867962c932eb0fcbpdhsgov_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; PAUL.F.DENHUP@cbp.dhs.gov
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: z50GLlwF8UOnDGQRAoKIHA==
+Original-Message-ID:
+	<1fbae1e9585246369e639246a7c4238f@SA1PR09MB7534.namprd09.prod.outlook.com>
+X-Display-Name: DENHUP, PAUL F
+
+
+--_000_38b93fd98b894fd1b5867962c932eb0fcbpdhsgov_--

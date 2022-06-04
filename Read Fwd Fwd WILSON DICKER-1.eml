@@ -1,0 +1,162 @@
+From - Sun May  1 03:25:56 2022
+X-Account-Key: account1
+X-UIDL: AHBFwfNerJFuYm48fA7sUGQzPJc
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.41.12
+ by atlas118.free.mail.bf1.yahoo.com with HTTPS; Sun, 1 May 2022 07:53:32 +0000
+Return-Path: <ppiscitelli@tigerglobal.com>
+X-Originating-Ip: [170.10.129.145]
+Received-SPF: pass (domain of tigerglobal.com designates 170.10.129.145 as permitted sender)
+Authentication-Results: atlas118.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@tigerglobal.com header.s=mimecast20211105;
+ dkim=pass header.i=@dkim.mimecast.org header.s=201912;
+ spf=pass smtp.mailfrom=tigerglobal.com;
+ dmarc=pass(p=NONE,sp=NONE) header.from=tigerglobal.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sun, 1 May 2022 07:53:32 +0000
+X-YMailAVSC: GaiZ4503bBvlzo66y6Su_qvkcdyerhVzrhJ6_2ninCLJS5D
+ _J.rXJNudsp.S2tm7Eaz94kf9zm_RXNtf90UDKtWmk4fxNu0XCRA0fY7TRiG
+ OdkMF6f56LTpUbFpKwgW97O_1H0dOmm2mveYyX8bw1_6tsPO2BlfpUa_2jBf
+ n26VI5cNFPaCJiP6S3XV0GESMXBSFKDH9oiiu.QATI4kg5kiTlZLLkdhFsX2
+ 3CaU6xSbXc7IgusDSyplxBlZUlAhdUXtbKtTk3ohiGxNq1tgFE6M23zrlUID
+ RLBgwu2SGwMd3XhRRELhqE_1309cgSi.IbipKNEOPw7wclfQd63_CdmOKBTI
+ u
+X-YMailISG: PR0eFw0WLDuN1zkJUA461cfLNt957cfY0_3BT.QUzPAl_Kvg
+ Sra3L4y_54iQ_o6E_dRspqVSku5aXTpjnn8_36KN0WL0fY6vtFmOi6FKvta_
+ 2ZbA2HecuTvuHHYUNYwnUbqip2r55zWrMokH0osyubDN9dCsnOl5fO12faP.
+ 9dcNuYFHeZn9dLsU9dqflQSeBG7.i5e9fnbtc.E0BuT3R15o.D79Ff2eKZQ4
+ XgDNxM_c1ajxScXijGFGn66qGKdJxHHqddyMJBuBvxqxiwm5rJQA1xvkTJZQ
+ s7VwQhJSP5UdYvCTtiBimDcm8_kvwUdcNuG7VjrLQT3TWSVXALHfY9M4vbGN
+ CBHH9p5hbkUxS3JMDgJxg93H2Rmu5yqRGdzMc1PimGuJvNRBFRYkGgBfOxeZ
+ kZTM6zRHUiwu4oGWv6tP9R5dgoI2VvDqL8oRRrcVltZPY1dThe26kbOLrwfS
+ 6STHSz6JunTf9wePbCDH0xlTCqIkCF8_XLIEmmuHUZmgHCbA1rG.2jLNiUDM
+ a7Ywr1myqAuMsrmpIs26XYAn0ypWLRNAc2nPNgHSGICwDebDpyKO.MHnGIrC
+ guQ1ECY0LkkSe.Ib5hPV5y3GsDqbUuSJ2rOIFEIHHBpWcFLbBDMLZCrqnnDG
+ 59cQZI5vkequPPBI1X92Zp_pTmZyOwy1y8t_yIFS6ktVLRVNSvrBQ3e5puoS
+ W72J3u.AGK4ExVRbeg9YpOPvPz4AF.nObkqu_C5woop9LPVkugOkU11yrXea
+ ozzD9b2QbUwFbQSeE_ulu2nc7hKJPQzr4J.CeNj3w4VwG9PzltRc49Wupw46
+ dQboQkEAzDQfWgm9C5plliy6uT4QTY9q6wYDzSsiFp8ibjVh4oin5nvYIFlm
+ wXmI5hXYKjXvwcwjJxaQmvphiRqDRBaFDUQ_lIe3y0601RRXsXQuaiCilEJ4
+ ffn4lzvQmrpRDN4RpRiUuzpJxJuZSIJeOPOkwB6Auy1kD8BPKSNyxICNTPSq
+ rz6uJHjsxIaLyK2sLcbEm5J.CUOfP.ipECwJQwARqbB8Y2aUb_zq2S7Lp8jS
+ RxSjUBpxxsImSAc8GNSGmeWDTdxsSRHhRJBT5ticblfuD6VXMT19TilSrvew
+ l1Ul..RSXOLbWo0IiPeJ3SgnxpJNxy.Fxwfm52lj3buEL.OPiV.OdsErDIFD
+ Zm14I4IIIkBkSRhF9N92cF69ozbhU94aFKKCBAR7Dllr7gipe7qWQVIyK84_
+ c.P_kDTn7Ou6MkxdXM0qUVBFODtDRW.o2K51jgUn91LC5LPCcd0VKDM5l4m9
+ ke2fWKNtxktwgXN7MrzFrBLW6fspvLjc7pqkU32vf7H_RzucEXzeqCM9oktG
+ t.TIeBS.DpCptuyYgcw4XqLYv6nsr.hKWkKW4p6v5_x8D1PRdd77b1RBGayH
+ BBY_e8Prt3R5_RY-
+Received: from 170.10.129.145 (EHLO us-smtp-delivery-145.mimecast.com)
+ by 10.197.41.12 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sun, 01 May 2022 07:53:32 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=tigerglobal.com;
+	s=mimecast20211105; t=1651391612;
+	h=from:from:reply-to:subject:subject:date:date:message-id:message-id:
+	 to:to:cc:mime-version:mime-version:content-type:content-type;
+	bh=Nf2//t1vGJ1povKGpG+9n+pT8ef025ZTPBvbEHtp7eA=;
+	b=HWU4k3hKt0E2kIf8ubLc0UPje73MK5rasy9bEBK8Rgc3z8/OjGr3RkvLGgdB/tfNpEjcnQ
+	e6nctOiOxNuSt/9pSij8bZgxGukHn1kXDPgl81Fc3pc7j3W5HjYO/1RNUxL3VA/DOGdQsD
+	7CmKKgQUwA3m9RmxUsY6jhVerHkyuv0=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=dkim.mimecast.org;
+	s=201912; t=1651391612;
+	h=from:from:reply-to:subject:subject:date:date:message-id:message-id:
+	 to:to:cc:mime-version:mime-version:content-type:content-type;
+	bh=Nf2//t1vGJ1povKGpG+9n+pT8ef025ZTPBvbEHtp7eA=;
+	b=geeWXF7V9zGnUnX+O8dk1J9EUOC6sP1v5rxzRoIPZ2FGG4U04EeRHJNJ3Jk6ZfMwZ6wo/Y
+	ccyykOv39r8JhS7wD62eb6SDFuF/883dIqhNEqBq4J03ezub0SIGt4f2VaaENYB+DF/WgJ
+	nLckBGbd/fVsfVzElQhJycHLyYApPiAMPdFlduS+vI83Oi3+YjwMlZU0pf8W3MHqlhdDYS
+	49KBkIWURkOuH4VDWRuxMi36QuPk5x6veL3y0b/jy/yROLn5+66iwG97jzzLxZhvF+QlZL
+	uytDRQcNstdxMkZOhXBWGghwUo0Sw7lMPenaSmlPkNIpuT5Kqlzzqtg2imWvXg==
+Received: from smtp.tigerglobal.com (38.94.140.165 [38.94.140.165]) by
+ relay.mimecast.com with ESMTP with STARTTLS (version=TLSv1.2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ us-mta-41-NblE_hNfM3aTb_AItaXg3Q-1; Sun, 01 May 2022 03:53:30 -0400
+X-MC-Unique: NblE_hNfM3aTb_AItaXg3Q-1
+Received: from TGLO-NYEXCH05.tiger-global.corp (10.4.1.65) by
+ TGLO-NYEXCH05.tiger-global.corp (10.4.1.65) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.986.22; Sun, 1 May 2022 03:53:29 -0400
+Received: from TGLO-NYEXCH05.tiger-global.corp ([fe80::fd77:75:9973:83cb]) by
+ TGLO-NYEXCH05.tiger-global.corp ([fe80::fd77:75:9973:83cb%8]) with mapi id
+ 15.02.0986.022; Sun, 1 May 2022 03:53:28 -0400
+From: "PPiscitelli@tigerglobal.com" <PPiscitelli@tigerglobal.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Fwd: Fwd: WILSON DICKER
+Thread-Topic: Fwd: WILSON DICKER
+Thread-Index: AQHYXSAr7y6ver6HIUWT1AYihC47FA==
+Importance: high
+X-Priority: 1
+Date: Sun, 1 May 2022 07:53:28 +0000
+Message-ID: <962f1a4db1d441c6ac27734960b13999@tigerglobal.com>
+Accept-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+MIME-Version: 1.0
+X-Mimecast-Spam-Score: 0
+X-Mimecast-Originator: tigerglobal.com
+Content-Language: en-US
+Content-Type: multipart/report;
+	boundary="_000_962f1a4db1d441c6ac27734960b13999tigerglobalcom_";
+	report-type=disposition-notification
+Content-Length: 1883
+
+--_000_962f1a4db1d441c6ac27734960b13999tigerglobalcom_
+Content-Type: multipart/alternative;
+	boundary="_002_962f1a4db1d441c6ac27734960b13999tigerglobalcom_"
+
+--_002_962f1a4db1d441c6ac27734960b13999tigerglobalcom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Piscitelli, Paul
+   Subject: Fwd: Fwd: WILSON DICKER
+   Sent: Sunday, May 1, 2022 1:53:48 AM (UTC-05:00) Eastern Time (US & Cana=
+da)
+
+ was read on Sunday, May 1, 2022 3:53:28 AM (UTC-05:00) Eastern Time (US & =
+Canada).
+
+--_002_962f1a4db1d441c6ac27734960b13999tigerglobalcom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Piscitelli, Paul<br>
+&nbsp;&nbsp; Subject: Fwd: Fwd: WILSON DICKER<br>
+&nbsp;&nbsp; Sent: Sunday, May 1, 2022 1:53:48 AM (UTC-05:00) Eastern Time =
+(US &amp; Canada)<br>
+<br>
+&nbsp;was read on Sunday, May 1, 2022 3:53:28 AM (UTC-05:00) Eastern Time (=
+US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_962f1a4db1d441c6ac27734960b13999tigerglobalcom_--
+
+--_000_962f1a4db1d441c6ac27734960b13999tigerglobalcom_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; PPiscitelli@tigerglobal.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: lgfLTaoCBEqJ28BnEbHRVg==
+Original-Message-ID: <04af3606-1098-a4bf-cbc8-da3dd62fc21f@yahoo.com>
+
+
+--_000_962f1a4db1d441c6ac27734960b13999tigerglobalcom_--
+
