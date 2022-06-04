@@ -1,0 +1,211 @@
+From - Wed May  4 19:42:26 2022
+X-Account-Key: account1
+X-UIDL: AD9lF1ASosb7YnMVvwvusIYpyiw
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.196.243.13
+ by atlas316.free.mail.bf1.yahoo.com with HTTPS; Thu, 5 May 2022 00:09:52 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.57.156.4]
+Received-SPF: pass (domain of icloud.com designates 17.57.156.4 as permitted sender)
+Authentication-Results: atlas316.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 5 May 2022 00:09:52 +0000
+X-YMailAVSC: .SF_kjQ3bBspn6xcsUtjrRuRIOzKhqQHIp9pUVZ4fOiXjSf
+ qS5Ys_XUicJpL2gYutdSidCBxkbEPR5YlZMvaI4SDrolPYMigXIx6Xd5Umiw
+ dsE90v0IKKIBDSzPd7wmpCRInUWZp6rT6N20Gsw6Vj.tApG_36OUtpkkfGbz
+ VYXApagx4.QYismFHm.HvlOhnQTaSImiUcVdV9ZciTJcKUBs3UNyrlp12FZ4
+ UhEdDg3IQVAE3eOsw5fhmKvfuVmDbkfR5p.7kAcLOrVozh_Hgy1NkkatNPOj
+ oXoKONSgSU8ua5HNAszAp2elIXOTApPqcHVXbrOwrDTqYbMuwomtx4rx8Z8t
+ 888KitlPb0vo5A43FyIxFvChRtcAQ3mNW
+X-YMailISG: RnNjS3IWLDul0T6rF9AlWThBGSD9q.r2elFsOFgZ1DlF7uWH
+ 5nnIB9m6O8GgwnkQXv33W_v9LD0Q3MSM.mTLWEMt7Sde6L6IADrDhcVMWiDI
+ VQMB2CG88loncdEDlf96EZ18KDcBMBVZRPKZIUfp.GsM1PWd8r4Fvj14GRIB
+ mlTEud_Y6E7qboxZMioTqG49WDeOrilxm1w4n3HrLk7plrHpbSNd6aaH6ZLS
+ VmmotAwiqDuT.gmdhVZkCOe7nkVMX.b6xxGy95WZ18QE4WR90s7bfapANBYb
+ HTBIuZc7cXKVegk.iZI5UPRKm6iXTI3RwtUWzafpTWBIFh0PWumV3fk.8YmG
+ CTjdVXR.D388H5oDKUFfbzVqAMCdnmb.zcmBnGgeQkQydmnlKozKehnxjXe7
+ lFSeZ2ksZIZEmQj3UbRGbovdBktppUyUYfjJG8akirCw4UpL3vEkjekIpBnv
+ 3_WeeIzBJHDqf8LZia.a0uuWEV7i8Ws0fiMtwSvUX_wvr8aYkbtsKK7NOYVd
+ k0kEIyARmob.O2Ka7orptYl8.3ArKUSunS9T6JuE9s_lvY7w3010zijaR7pU
+ wH6QVAV3u2ZtYTXuP4Oz2mnuXSsBjnamgudqEKMry6hPmwPkAipOW_vJHEHM
+ saCvDZgzeJ2movLfhWk4yszdnPKkyvbwGvZwhlkXV.lA0uCyDp9vCylOXLkg
+ oRMfNNR2w1Pp.0Pe7QPEoQfmeBftWsnr9j5Lw9y2HP4tdPBc06J3k3c3SKQr
+ yZuGIcjjl2MBQtQkXwKshEWEEtzbA6CRI5ZqX3x1JHOC0e9Sm.LYxRzb_p3v
+ YezpxB.klcLSL4jE_qXHX7ylKoRZKYmRAewaZwHH8wMfjI0CIaNKFBGuI7bp
+ OLby3zJ8PEEnGoPUPp6rSAB7RqCBPodUFSMYWrCwigRSzCtOu.7KuDB8UwoP
+ 88qr2N9S_LF_J_Hb8x.0uUy3xYJ0yhFaUzCJK2uuYLI.gBQ0DGDQQOC1UG5X
+ Twe7QHRNdoaT8a619lEPxeHhM7RjN5z.X3ffOr0apXyVjwpTej182HcWHreI
+ wbGj5x5rd4ajFu5Z85elJDNpef0IsGENe7E3nZnKba4L_zTgCOVY7nI4tJ.r
+ ih0D452RKX.rFbc4Cs4vBeYZ1f1C33yaNqlosqaYseOO0GnIsgo8
+Received: from 17.57.156.4 (EHLO ci74p00im-qukt09081501.me.com)
+ by 10.196.243.13 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Thu, 05 May 2022 00:09:52 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1651709391;
+	bh=kqwjjRMzUhMWcjOaskpZtS8/Ci3XKp1spfwcCquK3S8=;
+	h=Content-Type:From:Mime-Version:Subject:Date:To:Message-Id;
+	b=lnrNxVY4ibUkcmstfdXOahven9l2nxcX33R/sjjVWyZFnL1D88viECJcgiWtu4kIG
+	 JxG50MPVpkBlnl03HvOaDdw70MGhScY7NU4t2YudnjKi31DqWNlB8Bjj3OP+20AbPz
+	 x/+lCMoLT+9M9+SvqJHq1g6SYC987x+uWa3usTLgskTHmDwrZiduS9Pa1zMotmiDMp
+	 tgj3D3vL/hhLnQ8VTxLSQgnK4mQaH3qWVxrtu+oh+ZoLOhF5NIFu9GzxfvKGXdVPtV
+	 UnEpKHjKaSIzucOg5dm5Fcxpup8xCdP/lFDTpEuALgteCYfmITFbsntpF4TapzTJY1
+	 dgRrwGTprZcqA==
+Received: from smtpclient.apple (ci77p00im-dlb-asmtp-mailmevip.me.com [17.57.156.26])
+	by ci74p00im-qukt09081501.me.com (Postfix) with ESMTPSA id D0D6825C058F;
+	Thu,  5 May 2022 00:09:49 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=Apple-Mail-70AE975B-45AB-4A0E-96F3-F0367996F53F
+Content-Transfer-Encoding: 7bit
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Subject: =?utf-8?Q?Fwd:_NYSCEF_153974/2020_annexed._Loan_50074_=E2=80=94n?=
+ =?utf-8?Q?onjoinder._1.37_billion_dollars_later.__?=
+Date: Wed, 4 May 2022 20:09:47 -0400
+References: <lpGGn5sa8mWhLlpLTnbPK4@txt.att.net>
+Cc: Bailey Dycd <Bailey-nbailey@dycd.nyc.gov>, Comments@dfs.ny.gov,
+ RuleComments Sec <rule-comments@sec.gov>, chicago@sec.gov,
+ Chicago Reserve banks <credit_risk_management@chi.frb.org>,
+ asksipc@sipc.org, assessments@fdic.gov, Assetmarketing@fdic.gov,
+ Newyork <newyork@sec.gov>, newyork@cravath.com
+To: governor.hochul@exec.ny.gov, newyork@cravath.com,
+ Newyork <newyork@sec.gov>, tips@latimes.com, hillary.davis@latimes.com
+Message-Id: <5D51737D-0CB5-44B4-B1C5-88BDA1640392@icloud.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-ORIG-GUID: zs5DNBBlSh6tQ1seeK8n8DYdrDDFPwpg
+X-Proofpoint-GUID: zs5DNBBlSh6tQ1seeK8n8DYdrDDFPwpg
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.138,18.0.572,17.11.62.513.0000000_definitions?=
+ =?UTF-8?Q?=3D2020-02-14=5F11:2020-02-14=5F02,2020-02-14=5F11,2021-12-02?=
+ =?UTF-8?Q?=5F01_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 suspectscore=0 bulkscore=0 spamscore=0
+ malwarescore=0 mlxlogscore=999 adultscore=0 mlxscore=0 clxscore=1015
+ phishscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2202240000 definitions=main-2205040134
+Content-Length: 4906
+
+
+--Apple-Mail-70AE975B-45AB-4A0E-96F3-F0367996F53F
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Filer 1516523.
+=E2=80=94at Risk. =20
+/BD
+Begin forwarded message:
+
+> From: 6462563609@mms.att.net
+> Date: May 3, 2022 at 6:01:32 AM EDT
+> To: bdincer66@icloud.com, chair@sec.gov, CHICAGO@sec.gov, tips@nypost.com,=
+ tips@latimes.com, pronewsletter@dowjones.com, PRAGHURAM2@bloomberg.net, med=
+iainquiries@point72.com, jpminvestorrelations@jpmchase.com, tips@vibe.com, t=
+ips@nytimes.com, bofamarkets@bofa.com
+> Subject: Here you are, NYSCEF 153974/2020 annexed. Loan 50074 =E2=80=94non=
+joinder.
+>=20
+> =EF=BB=BF
+
+--Apple-Mail-70AE975B-45AB-4A0E-96F3-F0367996F53F
+Content-Type: multipart/mixed;
+	boundary=Apple-Mail-7625CF29-00EB-4E14-948E-82F1857F9ECA
+Content-Transfer-Encoding: 7bit
+
+
+--Apple-Mail-7625CF29-00EB-4E14-948E-82F1857F9ECA
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto">Filer 1516523.<div>=E2=80=94at Risk. &nbsp;=
+<br><div dir=3D"ltr">/BD</div><div dir=3D"ltr">Begin forwarded message:<br><=
+br></div><blockquote type=3D"cite"><div dir=3D"ltr"><b>From:</b> 6462563609@=
+mms.att.net<br><b>Date:</b> May 3, 2022 at 6:01:32 AM EDT<br><b>To:</b> bdin=
+cer66@icloud.com, chair@sec.gov, CHICAGO@sec.gov, tips@nypost.com, tips@lati=
+mes.com, pronewsletter@dowjones.com, PRAGHURAM2@bloomberg.net, mediainquirie=
+s@point72.com, jpminvestorrelations@jpmchase.com, tips@vibe.com, tips@nytime=
+s.com, bofamarkets@bofa.com<br><b>Subject:</b> <b>Here you are, NYSCEF 15397=
+4/2020 annexed. Loan 50074 =E2=80=94nonjoinder.</b><br><br></div></blockquot=
+e><blockquote type=3D"cite"><div dir=3D"ltr">=EF=BB=BF</div></blockquote></d=
+iv></body></html>=
+
+--Apple-Mail-7625CF29-00EB-4E14-948E-82F1857F9ECA
+Content-Type: text/plain;
+	name=text_0.txt;
+	x-apple-part-url=0
+Content-Disposition: attachment;
+	filename=text_0.txt
+Content-Transfer-Encoding: quoted-printable
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DH4jMXghoLMU1=
+ozmlj4VYHg=3D=3D
+=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0
+=C2=A0=C2=A0=C2=A0 /s/ AUGUST 8TH, 2020
+	=E2=80=A2	https://a836-acris.nyc.gov/DS/DocumentSearch/Docume=
+ntImageView?doc_id=3D2020052000291002
+	=E2=80=A2	https://a836-acris.nyc.gov/DS/DocumentSearch/Docume=
+ntImageView?doc_id=3D2020052000291003
+	=E2=80=A2	https://a836-acris.nyc.gov/DS/DocumentSearch/Docume=
+ntImageView?doc_id=3D2020052000291004
+	=E2=97=A6	1004 HAS SOME ADDITIONAL COVENANTS THEREIN, WAS NOT=
+ TERMINATED IN THE 90-DAY WINDOW.=C2=A0=C2=A0=C2=A0
+
+X-------=C2=A0https://a836-mspuvw-dofptsz.nyc.gov/PTSCM/StatementSearch?bbl=3D=
+1005030011&stmtDate=3D20190201&stmtType=3DSOA
+X-------=C2=A0https://a836-mspuvw-dofptsz.nyc.gov/PTSCM/StatementSearch?bbl=3D=
+1005030011&stmtDate=3D20181116&stmtType=3DSOA
+X-------=C2=A0https://a836-mspuvw-dofptsz.nyc.gov/PTSCM/StatementSearch?bbl=3D=
+1005030011&stmtDate=3D20180824&stmtType=3DSOA
+X-------=C2=A0https://a836-mspuvw-dofptsz.nyc.gov/PTSCM/StatementSearch?bbl=3D=
+1005030011&stmtDate=3D20180601&stmtType=3DSOA
+=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 PREMIUMS ON THESE R=
+ECEIPTS HERE GO BACK 15 YEARS +=C2=A0
+
+**
+
+**
+NYSCEF DOC. NO. =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=
+=A0=C2=A0 =C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0 220
+RECEIVED NYSCEF: =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 0=
+8/02/2020
+INDEX NO. =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0 153974/2020
+
+*=C2=A0https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DoFSKO=
+RPzy551BVUfHZGI_PLUS_Q=3D=3D
+
+NYSCEF DOC. NO. =C2=A0=C2=A0=C2=A0=C2=A0 348
+RECEIVED NYSCEF: =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 0=
+8/09/2020
+INDEX NO. =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0 153974/2020
+
+*=C2=A0https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DTxAa7=
+cNVIHKtnJU/ni/zvg=3D=3D
+
+WARNING. JUNE 3RD, 2021 -----------------
+
+NYSCEF DOC. NO. =C2=A0=C2=A0=C2=A0=C2=A0 385
+RECEIVED NYSCEF: =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 0=
+8/10/2020
+INDEX NO. =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0 153974/2020
+
+*=C2=A0https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DK9sgX=
+cweC7esRoSPO8MNtA=3D=3D
+
+/BD=
+
+--Apple-Mail-7625CF29-00EB-4E14-948E-82F1857F9ECA
+Content-Type: text/html;
+	charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="content-type" content="text/html; charset=us-ascii"></head><body dir="auto"><div><blockquote type="cite"><div dir="ltr"></div></blockquote></div></body></html>
+--Apple-Mail-7625CF29-00EB-4E14-948E-82F1857F9ECA--
+
+--Apple-Mail-70AE975B-45AB-4A0E-96F3-F0367996F53F--
