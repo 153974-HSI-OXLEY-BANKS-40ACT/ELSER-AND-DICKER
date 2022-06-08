@@ -1,0 +1,77 @@
+From - Tue Jun  7 22:47:31 2022
+X-Account-Key: account1
+X-UIDL: ACm6cWB/ygeIYqAK7gIHiHplz7I
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.234.150
+ by atlas213.free.mail.gq1.yahoo.com with HTTPS; Wed, 8 Jun 2022 02:35:25 +0000
+Return-Path: <inbox.response=livekelly.com__7fws65fcjzsedgmq@70s0zgejueah.61-jawreag.na130.bnc.salesforce.com>
+X-Originating-Ip: [13.110.6.197]
+Received-SPF: pass (domain of 70s0zgejueah.61-jawreag.na130.bnc.salesforce.com designates 13.110.6.197 as permitted sender)
+Authentication-Results: atlas213.free.mail.gq1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=70s0zgejueah.61-jawreag.na130.bnc.salesforce.com;
+ dmarc=unknown header.from=livekelly.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 8 Jun 2022 02:35:25 +0000
+X-YMailAVSC: a2AOaHg3bBvdUFkehVA5JbSmlbfLWTK4WmOTsM_JDkOLoFs
+ wCnRJr60rm47Aq1aYM0MwdA7DfCTwDRtIjL7QLspbPMZmZxfTiT7QJIWrqh1
+ vpS4TXsqsQbrpSBfa6D6ZfhRuQ5Zy24PNHnwk3PcYSELyTcnEVvU.vVwSow9
+ LTxVMT8bsphsWSrBlw4ReHoUUvCtM0AlC_PF20Rc_HN8CgGKxIT7kBi7IzE5
+ MMSnDJh5Lo4Ruakcew6G11zF0APc-
+X-YMailISG: iUi16i0WLDse2Jmi22l2i_q43QHoS4olduFbWiEDhxf1ZDGu
+ hHWR60aG_.qgSBZbs3JfpsRCShNBYey6Lk7piuIZm_WOab09mImKD5ftgKRO
+ YZHKmbMREkLPn0V4VXsPT0JzLenejBotDQZBkcPp4uPKylprHdvc7V4mVNTY
+ NqJ9edACnylaY7KCgXVCvvCfsQzSccklYZ5TVrLTIM7V3EQ7iKdT8Jwi92lv
+ GDOcylRNY_BcfJ6qDXxY8jGtw9H4yJzaLatCTA4.PHxq8zbL.xKZ0Z11R.9.
+ 4umCaatXqZGtwUPY635wnTgZnO2aKG3eN_olI2vW9xDFxSbv7ysKATJGi6Zs
+ QyJTNVkouwBhnWtu175cNzNQjWeMSJkdPP_T7Gd2UplYc04h3ljmQV6GA9dV
+ unuzhRmFrxS1wniXYTliB01qOVO1uI4er2AjJ2_E2b6INxG2YN9sY3fBkNru
+ 9.gtwfF84Rz3uJBtfaYgLmCtAgkIcVjn9ETVz_uh9wwQCeOn7UVwT_foYoVj
+ C14PxBmYCvnEcSV6QD6.AHlnR9yd6WZBaWBI.fUjZ4TOrsIubEifkWV.rzDX
+ 7RvcVZSHzdGVrlD2Jt_Nc1tx7OZIpbDKBmPEs2vidFbNF7xGh7wnPvvHd8G9
+ wnWb6K.owFYGykDEN73_Lq0JguUMqp9m8JtGPBdHlUXxSs_idvWSRDJrPreG
+ B81xgBYlS8XOkCoSBmM8SNfRK2ffKIxRPHaxqCg957PwTdgJGDeu2KfYx2XX
+ 1qd6_egGJLx1u3GvbQuZT3_jbc5Yd41fj3EVJB60Xws9isznXNjdf93Rh3RG
+ HidUHIGhbH_4gvd3kUJyTue7Hu4CB46T7xtWuWDliZtF5oFd6F9nDt8tk_ub
+ 9uG0fRAglfiUwk44KRzNTArBDtoLrLy9wahTHGvleq2W2C6_EIw548Y9PTYz
+ 4LlxuLkxrl_wP.KBC4IU1ZHQzO8qGe7.Vki7INW5iAtdC_XlQSe0lWeRW6cu
+ Fd7dbeqCW13AzkeIon9lkQWtE5qmV8P7SrInpNGQC_z_gPayxFl19HA-
+Received: from 13.110.6.197 (EHLO smtp06-ph2-sp3.mta.salesforce.com)
+ by 10.253.234.150 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 08 Jun 2022 02:35:25 +0000
+Received: from [10.176.158.210] ([10.176.158.210:46998] helo=na130-app1-23-ph2.ops.sfdc.net)
+	by mx2-ph2-sp3.mta.salesforce.com (envelope-from <inbox.response=livekelly.com__7fws65fcjzsedgmq@70s0zgejueah.61-jawreag.na130.bnc.salesforce.com>)
+	(ecelerity 4.2.38.62368 r(Core:release/4.2.38.0)) with ESMTPS (cipher=ECDHE-RSA-AES256-GCM-SHA384
+	subject="/C=US/ST=California/L=San Francisco/O=salesforce.com, inc./OU=0:app;1:ph2;2:ph2-sp3;3:na130;4:prod/CN=na130-app1-23-ph2.ops.sfdc.net") 
+	id 34/F7-44428-DEA00A26; Wed, 08 Jun 2022 02:35:25 +0000
+Date: Wed, 8 Jun 2022 02:35:25 +0000 (GMT)
+From: Live Kelly Inbox Response <inbox.response@livekelly.com>
+Reply-To: inbox@livekelly.com
+To: "ms60710444266@yahoo.com" <ms60710444266@yahoo.com>
+Message-ID: <XItwp000000000000000000000000000000000000000000000RD50J0006X5y2HnkSMGCz4vpl-rXuw@sfdc.net>
+Subject: Thank You for Your Participation
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Auto-Submitted: auto-generated
+X-SFDC-AutoResponse: 5004N000010I08I
+Precedence: bulk
+X-SFDC-LK: 00D61000000JAwr
+X-SFDC-User: 00561000000dCPj
+X-Sender: postmaster@salesforce.com
+X-mail_abuse_inquiries: http://www.salesforce.com/company/abuse.jsp
+X-SFDC-TLS-NoRelay: 1
+X-SFDC-Binding: 1WrIRBV94myi25uB
+X-SFDC-EmailCategory: caseCommentNotification
+X-SFDC-EntityId: 5004N000010I08I
+X-SFDC-Interface: internal
+Content-Length: 155
+
+Dear Viewer,   
+
+Thank you for your email. We have received your message in Live with Kelly and Ryan's Inbox.
+
+Thank you,   
+LIVE with Kelly and Ryan Team

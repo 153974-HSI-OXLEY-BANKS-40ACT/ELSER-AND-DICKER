@@ -1,0 +1,122 @@
+From - Wed Jun  8 11:19:43 2022
+X-Account-Key: account1
+X-UIDL: ANcMx/85t4VQYqB+Mgt9aDAViKg
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.33.205
+ by atlas208.free.mail.bf1.yahoo.com with HTTPS; Wed, 8 Jun 2022 10:47:14 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.57.155.11]
+Received-SPF: pass (domain of icloud.com designates 17.57.155.11 as permitted sender)
+Authentication-Results: atlas208.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE,sp=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 8 Jun 2022 10:47:14 +0000
+X-YMailAVSC: p2WVeE03bBtXR7hLtZQkZ78K9E0TPQquP5epCixCaLyvmjN
+ BeODa8FL_LUGMvL2V2L4dux8cNh3A5rD1AZoWKNGYja1kEJAnh1fS.2cGoig
+ XNdsnywwJCXh1N_jPQ0RbQQW4iAE_42YM_nBSEJqjXHiefzMXhS85St2tZ3l
+ A.Z.GUUizgGZFdz6vah5AM5rKFzSYNhg0TE1jCjDLPzeQJu_YlKY4XANAg5P
+ QF7ZiNHX7XTnCVn_8A7FHU8Y4HgwEmDO8L2dZM2f_E8bE_htVn3.gW9XhbM2
+ atzBr71efyL7BJ.8waTI7dV2z8GLz6lxqLHPwtcUkDaGQD7dW3nUX.OvCRTw
+ f8OvYKo4X5ZjXfgEig8B7M7nlws5vDb3be7lsOp8jHvetzdf1xKLh.x5LlKq
+ aVZFCrUiZjIHk4ZLLi9p_612WIFXb.jU-
+X-YMailISG: 9gVLsrQWLDv7dNfSc6yvLIva2AVLzbdzGFFicUEcBy1YsDPi
+ MEU73EmLW70AYRthcpsufH.7KmPmQ_MT55LXDySiMmb5s6DkejUGn8jRun_F
+ So3xi8vNFb7xf8kWmmDvCS76M9PoHIwfMEEcrkaT9ZhXnVELfQq0G1UuSEy9
+ RW0AJMI6KzzUW1kP5lxiruXTATHbeYTTkMmM4Pe20hcjRH4DwudXz4cPNFBl
+ v.svL9eoRsZoqGMSm1jsbyEiz8ZYR8LPwuIq10CFo..RhJxnnwVJ6eXiInnU
+ bqCg4eLGjT7px5VKUlxv6ryZJVGdxVgOweWd3IrVsvZZN3TINw.paPaX_FyM
+ K_dKXgsi_f_9LVlSEXsLhyelyjcReMAavVvxpPAxbWZruvSmWBC5jRiWiftx
+ LDAuOzkUR08Yl9QTTmj.IQmCSGDbjBDr9mQO0lx.K4LFZTyX2DuOQrlkBKr4
+ k46pIuuIRNxUcivlK3pIy3jqvq3vNsbOL0Uu8fGWIXNQxPU2fybdUD5RcBVq
+ Ni5jDVcX8LbVZIzQ2IRovdwMAQkxfCWkiutWJHEwK_fLJQAOQqc8lxE1o908
+ 2_J5NfzL3EEAh6NxBmuzfp2SbdXERRN5Ns0HERU677k1bOw8pZTfy_3VfszT
+ YROOnxwdPNpYEkO.qeFr_zWwgwt3xi3sM8okFH50aGfymbDgIMEfanZzWYLK
+ 0QXNpD9KHK1YFJwT0SGzoiH7Ipumnby.uWN2E1BvVGJoXYi90uAs51A37PVn
+ pdSx7X4sYaualKX7Fs9kOpPpafSfDHgCX2esNDtN1V41lJjI.R7KiBSG2qK1
+ 9RmeFhi9f94Y1e8e5OO0fNIewjNr0Fza9kAqZYzwGzGwvS3qNvF8m1APvESQ
+ DSPHIqZh1NabY.VvpAmd2Xd2HbBzwiQAcI6j39BPgHGVySfC6Dgmm1xjHtBc
+ y_i22v9WegK0pFOu0EFi.3WurDg_2yJ8Gssp7gmU6topkq6vnv1tSD2KyKC.
+ 9lc_XRKvgPkZ91.zNaNkeuoRqSeexUaWDq.KS8SYZINuqjSLPUgW6geHYQbU
+ t.jAzIgNYWWm12O6UOc-
+Received: from 17.57.155.11 (EHLO qs51p00im-qukt01072102.me.com)
+ by 10.197.33.205 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Wed, 08 Jun 2022 10:47:14 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1654685233;
+	bh=N4uui80aEWkQ4GzOgt8YyVP7SEMWmrrS04wg4rINPt0=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=uQ3FqFIlBTGRj2PQdXDv4Hh/F/AfC34JAR1gc07cY7E3SGKbe2+4t7XE808u1zK2v
+	 NaTNSmXgLg41HLsNm6xdkIGP6/x0koEXxDz31OqKV3TyfM173OJl1K5SFnBEJs3bD+
+	 L+AU+m4eXZvq7BBhcQ3C54fY3A2I/YroJTqHRKMvlzhlTNMV80y4Ad6qmV3HThXugA
+	 KInWW+YvsHecDy6+ZZ+ARDzmgXSBSPvE5BRqFGRxUxgkAImnEXGZb7hFw2pZ2UOQNJ
+	 BpjbPoLL7LO0AYA4zDmpqiZXz8ViDL5cIYZGBbkeBIX+2Ns2TJTooiD3Hdj4ZARqzE
+	 jgsYYFrEbiMVQ==
+Received: from smtpclient.apple (qs51p00im-dlb-asmtp-mailmevip.me.com [17.57.155.28])
+	by qs51p00im-qukt01072102.me.com (Postfix) with ESMTPSA id 3671B340466;
+	Wed,  8 Jun 2022 10:47:10 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Date: Wed, 8 Jun 2022 06:04:07 -0400
+Subject: =?utf-8?Q?Release_2022-06-22.v0509_=C2=B7_153974-158143-Regan-La?=
+ =?utf-8?Q?skowitz/STFGX?=
+Message-Id: <A3D905B8-C518-4027-94BA-D629B83A2A7A@icloud.com>
+To: BRO-ExecAssistant-S@bop.gov, JPMCinvestorrelations@jpmchase.com,
+ CHSCommunications@nychhc.org, MediaRequests@fdic.gov, CNK-CCM@bop.gov,
+ salam32@bloomberg.net, sadhikari2@bloomberg.net, 18PCTDVO@nypd.org,
+ Newyork <newyork@sec.gov>, QUEUED <askcuit@columbia.edu>,
+ Work <cockarens@vouchersrus.org>, BBO 121 <ms60710444266@yahoo.com>,
+ NYM-PREAComplianceMgr-S@bop.gov, ACSInspectorGeneral@doi.nyc.gov,
+ peter.merrill@us.pwc.com, michael.bersten@au.pwc.com,
+ HREmployeeServices@doc.nyc.gov, bop-ipp-publicaffairs@bop.gov,
+ BOP-RSD-PREACOORDINATOR@bop.gov, CBPINFOCENTER@cbp.dhs.gov, CRA@dfs.ny.gov,
+ Comments@dfs.ny.gov, Constituentservices@doc.nyc.gov,
+ Karol.Sabodocha@nypd.org, OCMgmtGrp@fdic.gov, Randyc.wilson@usdoj.gov,
+ Victimassistance.fraud@usdoj.gov, amasters@boc.nyc.gov, boc@boc.nyc.gov,
+ fed-mmkt-ops@bloomberg.net, gcho@doi.nyc.gov, jheegan@doi.nyc.gov,
+ tina.jeffery@usdoj.gov, asbpolicy@fdic.gov,
+ JAGDEEN 00069govtIdx PHANOR <JPHANOR@dycd.nyc.gov>, supervision@fdic.gov,
+ Assetmarketing@fdic.gov, tips@insider.com, tips@latimes.com,
+ MICHAEL 00064govtIdx OSVER <mosver@doc.gov>, tmprosecutordocs@uspto.gov,
+ Regs@fdic.gov, ANNETTE 00000govtIdx FORD <ANNETTE.R.FORD@usdoj.gov>,
+ lzucker@mskyline.com, Depositorservices@fdic.gov, aguilarj@bloomberg.net,
+ SARAH 00068govtIdx BARNHART <SarahB@doc.ks.gov>,
+ gpradocorrea@bloomberg.net, careers@fdic.gov, assessments@fdic.gov,
+ privacyqueries@blackstone.com, realestateforsale@fdic.gov, asksipc@sipc.org,
+ HEATHER 00030govtIdx BLEVINS <HBLEVINS@fs.fed.us>,
+ Shari Laskowitz <slaskowitz@ingramllp.com>,
+ BO DINCER <bo.dincer@yahoo.com>, Baris Dincer <bondstrt@protonmail.com>,
+ Brooklyn Tap House <tips@nypost.com>, Doc Webmaster <webmaster@doc.gov>,
+ ELECTRONIC FILE <efoia@fdic.gov>,
+ FDIC Public Information <publicinfo@fdic.gov>,
+ JAMES GORMAN <james.gorman@morganstanley.com>,
+ Josephine Vella <josephine.vella@finra.org>,
+ KEVIN ROCK <krock5@bloomberg.net>, MATT LOWE <MLOWE@fdic.gov>,
+ NYSCEF PROCESS HD <oca_hd_processor@nycourts.gov>,
+ OIG Hotline <oighotline@fdicoig.gov>, Paul Regan <legal@mskyline.com>,
+ Ricki Roer <ricki.roer@wilsonelser.com>,
+ "Ashley V. Humphries" <ashley.humphries@wilsonelser.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-ORIG-GUID: Uz4hkef38nWKUSvRmZ5Zvm3RfGl_5oAr
+X-Proofpoint-GUID: Uz4hkef38nWKUSvRmZ5Zvm3RfGl_5oAr
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.138,18.0.790,17.11.62.513.0000000_definitions?=
+ =?UTF-8?Q?=3D2022-01-12=5F02:2020-02-14=5F02,2022-01-12=5F02,2021-12-02?=
+ =?UTF-8?Q?=5F01_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 phishscore=0 mlxlogscore=623
+ spamscore=0 malwarescore=0 bulkscore=0 adultscore=0 suspectscore=0
+ mlxscore=0 clxscore=1015 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2202240000 definitions=main-2206080046
+Content-Length: 86
+
+
+https://github.com/153974-158143-Regan-Laskowitz/STFGX/releases/tag/WEDNESDAY
+
+
+/BD
+

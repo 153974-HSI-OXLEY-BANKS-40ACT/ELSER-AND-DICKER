@@ -1,0 +1,92 @@
+From - Wed Jun  8 11:19:36 2022
+X-Account-Key: account1
+X-UIDL: AGVbHSZF37ByYqBpXAp/gEnN/aA
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.232.211
+ by atlas217.free.mail.gq1.yahoo.com with HTTPS; Wed, 8 Jun 2022 09:18:20 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.57.156.11]
+Received-SPF: pass (domain of icloud.com designates 17.57.156.11 as permitted sender)
+Authentication-Results: atlas217.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE,sp=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 8 Jun 2022 09:18:20 +0000
+X-YMailAVSC: r.ocwKc3bBvxyR6BbCZJlljAh_lAnzz2IWMxHpr083GG2mm
+ XdKFcWhjMVbt.eh.sFJ9wmG4E3FM6Dq99t0r80vP5t1fvusN0kkajlxdYPHx
+ Mxp.PxL7IRmgtLrebSDd_zuqOUOBXVGey6Z6SQZxEWehXmfrByoQ6U.XOW3h
+ wwXknNFOKSNseRUZDSpOyrbbOXwRNLTZYSSFOpZCReJIXQUr8I2idvVqV9et
+ QH6kpwSOP2fjtt3hCIvbyf3DGY8AS4jHXjizU9O4NEoa9JESL6efxxi9OxpN
+ HbBtwtLjV_xVjKKOwkrjcpj_OPOGO2V.GDRWTbu7Oqg95Dtk3Qj9s_KWbqhV
+ 4zBmPnU_wn3kHC_l5X8NMvDsw4LJ0tgful_erQw--
+X-YMailISG: GER7fKUWLDuZhBHexgkR5tcnn574ut0JC9Z9gqAEP7GNWUee
+ drmsJPbpxWMTMHmau.u1keX2Pnz1uClaA_BnYZ.QHKwBJRhL2GTcj2PSkqDW
+ 4HsRQk3lPvqn20er8Rab7Nxb_6KUphwbGLrgAzOdOjxv15GnKbPRfv1Lp76w
+ hmiFFacfQLME1tIGyuyAWIslRRRo44TJj6Ybi4ZixFqY.G_LKJZer3GR4Dyu
+ je.afPwjK63HZih1alUP9Y53ve4DB0y7TRQf5_3XgAMsv_6pfmCkVfY.xlni
+ jjK8lT2s.xHwwTMB4Rrdt1VsKyTWU9DseQirEVr46wlnfrhvtRrLmBBiPryi
+ gK5yg7olwc4jqQOt_6OOoJ3Vs8sn06.4UcerD_DH8ezeNeOSpjwC66mX8xGi
+ q4ZePfEWvnlNAmQ9QVBBx6H5_ZjiU68xZhkLe2gMthdqsxEKHD2T3uebrTu5
+ 4mRyiCCEoWuin61CY5PcU1c5PyuSXfMkqEeC1adFoswmKJImNyFNCW5nrG0Y
+ RAv5BoF8ujfM2oYDiO.8ahl_hS5RueAxwYqvkX7bHxM45hgVdjTuzIiiPIJZ
+ 27nmJZXjRJVU5GX0layZYfU0W0K2bWLn7I9hsavQWB4AaS1rhGSS7HkRrrG4
+ GeRrJarrTpfkDUx13HONMw6jo5xHDyo.IeFlrlkD3pgAaANF4Lrm57BMNG9S
+ H9Hrkg.AEDEdZb81T8.BhSVwv2c9AN3P9SDHavthjtaQJkcfDAJxPA8jMcsG
+ VIcKUCtFoyehojhJk3b4AGK3xy0JpYvvPz2Yk_U70XxNjUqNH6EFt0.FLzSj
+ 27mem9liWY1ffRKhrqbUIh8lDmDRr9RgpnTda4aZQGGGAK1FvYWRzfqTQcTq
+ 5a18FbzvHewMnB9IqhYeXGfY6BLcHcY12ZFzYsPyRL_1hXqDjaIfW9zZnelk
+ R3oDyLctjj5jy8VSWH3U7_K6eyox.bxWW1Al7o_0qL8e0SbMc4fWslqngDnJ
+ wUjj_iOp.UKojlAlL2iAWr61EqByawyd8n0YyFInRvxaM46zzEqOXRljSY3Q
+ cCwJtje7AJ5dgGLqen8gRIMHlip3ZbSJZTLygQER
+Received: from 17.57.156.11 (EHLO ci74p00im-qukt09082102.me.com)
+ by 10.253.232.211 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Wed, 08 Jun 2022 09:18:20 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1654679899;
+	bh=zayjKCEVR6gKtclC77lYtN+jz0wJeXM+s90s6PiZKwA=;
+	h=Content-Type:From:Mime-Version:Subject:Date:Message-Id:To;
+	b=jx6he94YtWS1FOOGZyKg9slK5J+XELNH7NB8w8kHgIGQXtwrnOTSv0Ty8XFFXh+B3
+	 OuP2d2CE7+i2F6TeWOQ2YsSry2BpEqju6sU3HKwzAiCPunZusqSkACEr2zl9paXlJ/
+	 P3XkTkppwRSy6jiEE3xouQOYB+UDoTJBC+M1tZyqtCOQtPOzA0E7/jxxV2ndP0vEnB
+	 MxuW9EfJa/ksn6S7lGQum7ez1cLq6xKBlfX/Cf4lQ0sCOWGIXcJ4cuMjXui6MgOxgd
+	 sTynnx6YmDfb03gi96f5+Uce7DN1dO6JGgzbZheJ4k/hQ5WBaicZJA84/zVKqNxW20
+	 IetuWWp2TXjwQ==
+Received: from smtpclient.apple (ci77p00im-dlb-asmtp-mailmevip.me.com [17.57.156.26])
+	by ci74p00im-qukt09082102.me.com (Postfix) with ESMTPSA id 709E019C03F0;
+	Wed,  8 Jun 2022 09:18:17 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Subject: =?utf-8?Q?Released_2022-06-22.v0509_=C2=B7_153974-158143-Regan-L?=
+ =?utf-8?Q?askowitz/STFGX?=
+Date: Wed, 8 Jun 2022 05:18:13 -0400
+Message-Id: <9CECC6F8-B4EC-43EF-B40C-EFDFB95B9103@icloud.com>
+Cc: "governor.hochul@exec.ny.gov" <governor.hochul@exec.ny.gov>,
+ inbox@livekelly.com, NYM-PREAComplianceMgr-S@bop.gov,
+ royalty.statements@sonymusic.com, K Ripp <stationservices@cbs2ny.com>,
+ State Farm <mutualfunds@statefarm.com>
+To: BBO 121 <ms60710444266@yahoo.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-GUID: HOyj9g1wqYlrPQ6FyLfG615TTIXLGAU3
+X-Proofpoint-ORIG-GUID: HOyj9g1wqYlrPQ6FyLfG615TTIXLGAU3
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.138,18.0.790,17.11.62.513.0000000_definitions?=
+ =?UTF-8?Q?=3D2022-01-12=5F03:2020-02-14=5F02,2022-01-12=5F03,2021-12-02?=
+ =?UTF-8?Q?=5F01_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 bulkscore=0 clxscore=1015
+ malwarescore=0 suspectscore=0 spamscore=0 phishscore=0 adultscore=0
+ mlxscore=0 mlxlogscore=560 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2202240000 definitions=main-2206080041
+Content-Length: 87
+
+https://github.com/153974-158143-Regan-Laskowitz/STFGX/releases/tag/WEDNESDAY
+
+
+
+
+/BD
+

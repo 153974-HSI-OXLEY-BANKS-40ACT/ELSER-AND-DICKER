@@ -1,0 +1,223 @@
+From - Wed Jun  8 11:19:36 2022
+X-Account-Key: account1
+X-UIDL: AFGxG1VIEJnwYqBwxQ0nMH1pNXw
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.39.235
+ by atlas315.free.mail.bf1.yahoo.com with HTTPS; Wed, 8 Jun 2022 09:49:57 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.58.63.181]
+Received-SPF: pass (domain of icloud.com designates 17.58.63.181 as permitted sender)
+Authentication-Results: atlas315.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE,sp=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 8 Jun 2022 09:49:57 +0000
+X-YMailAVSC: iQKNYq83bBu0fA2mjous7Z4qTYqbjOc8qOjr41uTP0q7wuB
+ t.Y8y3QD8r5TIGyhkgc5thJj_F.KfgasIU7LzxYjLVoOezfS4.v.wWzca2ig
+ JNYsWPWscmottI2Q_HijhrLnhwiByvnwNrcB_RPPKFH4RrZ1Up_rvLLFcF.y
+ ftgNGnb7cC24NUuQKoZW.dJEj7ijJt0WlbBFCEiOaeAc665yh_7sH9SvxYlf
+ NYeixVeIdYxeES7lU_FYAx0B9oIsjclyJTgRmHbQ20mtXQZo367vjCdnxvwq
+ 6iLGlqGrZrwwvAc6GvRyZ5Of8Tw1aRsZERuU8FaNo2JB3xDTuXHGvyhYKWf7
+ 83JDfLcvDmcf1wKIaOhA7VApFPXQaLMHUGr5wydYA6Gt0aIS.nEIHzA--
+X-YMailISG: fhYGPDoWLDtSMLRc9DabTlTpeapwBwF8qd1.1gSraJGy9btY
+ xTi26hJP4aoLXOscy0KEpO7863W9W94rPW9c7cHaEjsy7iO13hzjCyRRf_24
+ IpPXxCztDw16l2pawI8K6CWt4t5yuehxr7bKy_rdlc92AgxayPo5K6FGdVMC
+ 5m5_JjhCsQYPiWTEUKGnR2JEfnwVmmMQKC7v.LaQnDl2PGm5sB3H7E4PgzPw
+ LiomQq3pbVfG_EcJMi8vnDslNLHiyoqi56vrszn_WkJuoh5meZvD4o1s_Nji
+ 6_o71cqOgcWf8gfdJUcm0EPC_rng8TD2wH488d6YFj4VX09iNzzKE77ceIDF
+ LRkal4laQNOjtuSzTlTIko3QuMaeA8K7Bb3U7W.LkzzQ.tIHyxFZbk.uEmRm
+ Om6LpjUhBxKPA0n1JpUjf_xIwiZ2nEdtiPAAc6nndcKWpNG8j3y5nMDDqn8B
+ Lf2UFuVardKsqZs8pwhhIqqfvAf73DRJI8N4sO8SQdyezETZhClbxDyKIkfv
+ KAOW9U.N0oLCjEkVV1zk6tJ3wIkAssdmb6cy1GnTozVg7z_uLz8I_3SHKnRO
+ 8GAyJbeQUqc10s_IdHIpRmqhCZpJVv1HhFFoBwvjBgFqCLNiuNbW3z_y2nhw
+ buZw9dFG212Kmk8LUUEIdNy_iROWwgWQnPfwT6cBhTffWV_U3pgdOfbJFsRc
+ NY97VWpgYvB3WW4v41jyrKIwG74p5uxldDAgLQd3aJ05CMmceVd8z5Rq4zIz
+ hJ19uVjSVhLDDYBwIHsG9WXbTnQonddvqOABALETOHuuxt54u_xY2kqvlZDa
+ HQsgcxQlV9y0lowhjM34VrtfCVCp4zxYJdsocn0_psqBDSHFbACn8JTNh21f
+ yaDIxbCINiA_BTfiIvOZJRFrS463UV90suNT5mOV2ih6Nt8.wB1MaSftcJzZ
+ Cc5JKXeckNRJTttUi2wE86pIz4wrDk8lKnrE5WHTxPvnZ9465_AT6jB8x0I0
+ mqApvlZfNDsi3DZDhqXGj99qi8YT5Nc9Er6hZqks9X3rEYsKM2KJBaD7Q7jT
+ Xd7j.VqJI97DqC8duhxCkRAuTfvNvBLwAqEY07PlOB80tjry.5lVwxzt3_Wm
+ q7.K8g8J49CA9fuGUyMS_nzdm3XE.LA1JFia51tVPbTZ5elr72BYBdJ6k8Li
+ pxPWa9OsdarrvW2uGjC8flT7MV4q6GLOcXuDJY8AFpU6IBT4G8WW5wxkITDq
+ 9Fpx8Ev5v9g-
+Received: from 17.58.63.181 (EHLO st43p00im-zteg10073401.me.com)
+ by 10.197.39.235 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Wed, 08 Jun 2022 09:49:57 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1654681797;
+	bh=Z9qhuW4m5WwznZqqQmZfhNZRt5bfwQ19+FKnxcchQrE=;
+	h=Content-Type:Mime-Version:Subject:From:Date:Message-Id:To;
+	b=iZ0TzJPqRTP1U+8lvrZ/E3OoNH2U+ZoYBEIx9eEvrZCEAsbTo5OyTwofdSNv47ELf
+	 Uw4fvTHD+boGhcSpGR+pQUZNRXVK9QJkXh9FryFm6Bqlm+4qy3LDZaiSKsFAI70Cb4
+	 WfA1JbH8jxbuRxK17zlJ2eJPKf2nSgPv4+x9e8alDNloU9Ekp/mLOlgPx3+9kIwbyd
+	 oduqb/YSDUR7ZfuX2IHIPc1y9WsXtGfpX/Wj8HBuc0X5eDUJKwq2unbicJRqdt4fvt
+	 gYN5c0/wBWePEkOAYKCpN5CwbaZe/YkBTpDr+8HRqb341c/VpGCaxVWXjIhq4Nz2rr
+	 f7O+TT+cHt9Sw==
+Received: from smtpclient.apple (st43p00im-dlb-asmtp-mailmevip.me.com [17.42.251.41])
+	by st43p00im-zteg10073401.me.com (Postfix) with ESMTPSA id CE633A801FC;
+	Wed,  8 Jun 2022 09:49:55 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=Apple-Mail-B8726ED3-AA14-4CC7-BF89-B389F32344A8
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Subject: Re: [JIRA] Sony Music Entertainment Royalty Helpdesk Support Ticket ID: (SMR-186848) Opened
+From: Bo Dincer <bdincer66@icloud.com>
+In-Reply-To: <919959238.137764.1654680241653@gtunxlvb06684.server.arvato-systems.de>
+Date: Wed, 8 Jun 2022 05:49:54 -0400
+Cc: "governor.hochul@exec.ny.gov" <governor.hochul@exec.ny.gov>,
+ "Bloomberg L.P." <bbrief@bloomberg.net>, blaw.content@bloomberg.net,
+ OCMgmtGrp@fdic.gov, Pamela Gibbs <OMWI@sec.gov>,
+ Dow Jones <pronewsletter@dowjones.com>,
+ Dow Jones <wsjprosupport@dowjones.com>, inbox@livekelly.com,
+ block803lot11@outlook.com, GOLDMAN INVESTOR RELATIONS <marquee@gs.com>,
+ JPMCinvestorrelations@jpmchase.com, People Crime <People@mail.people.com>,
+ People MagPress <people@mag.people.com>, kevin.kilkenny@chase.com,
+ malia.d.chatman@chase.com, Joseph Giamboi <joseph.giamboi@brooklaw.edu>,
+ JAMES GORMAN <james.gorman@morganstanley.com>, jheegan@doi.nyc.gov,
+ kivalena.starr@pwc.com, losangeles@sec.gov, newyork@cravath.com, miami@sec.gov,
+ NYSCEF PROCESS HD <oca_hd_processor@nycourts.gov>,
+ Ombudsman <Ombudsman@sec.gov>,
+ Good America <newsletters@email.goodmorningamerica.com>,
+ Good America <newsletters@email.goodmorningamerica.com>,
+ lzucker@mskyline.com,
+ "LLC. MANHATTAN SKYLINE" <ADMINISTRATOR@mskyline.com>,
+ Shari Laskowitz <slaskowitz@ingramllp.com>
+Message-Id: <9A52E1A1-D9A3-4653-97C1-918B5F6365F2@icloud.com>
+References: <919959238.137764.1654680241653@gtunxlvb06684.server.arvato-systems.de>
+To: SonyMusic Royalties <royalty.statements@sonymusic.com>,
+ BBO 121 <ms60710444266@yahoo.com>,
+ David Moore <david.moore.ct95@statefarm.com>,
+ State Farm <mutualfunds@statefarm.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-ORIG-GUID: Pl2E5FdVLXbRipAZS-evlIRQucaPHCHs
+X-Proofpoint-GUID: Pl2E5FdVLXbRipAZS-evlIRQucaPHCHs
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.138,18.0.816,17.11.62.513.0000000_definitions?=
+ =?UTF-8?Q?=3D2022-01-17=5F04:2020-02-14=5F02,2022-01-17=5F04,2021-12-02?=
+ =?UTF-8?Q?=5F01_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 malwarescore=0 mlxlogscore=999
+ mlxscore=0 suspectscore=0 phishscore=0 bulkscore=0 adultscore=0
+ spamscore=0 clxscore=1015 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2202240000 definitions=main-2206080043
+Content-Length: 5566
+
+
+--Apple-Mail-B8726ED3-AA14-4CC7-BF89-B389F32344A8
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+https://github.com/153974-158143-Regan-Laskowitz/STFGX/releases/tag/WEDNESDA=
+Y
+
+.
+
+https://open.spotify.com/track/62SkspgYnXTEluSrE1il60?si=3DLEzUI1k6R5uS5en_6=
+PuYKQ
+
+######1
+
+
+/BD
+
+
+> On Jun 8, 2022, at 5:24 AM, SonyMusic Royalties <royalty.statements@sonymu=
+sic.com> wrote:
+>=20
+> =EF=BB=BF
+> Good Day Madam/Sir,
+> Thank you for contacting the Sony Music Entertainment Royalty Helpdesk.
+> A new ticket has been created for your inquiry/change request.
+> Your Helpdesk ticket number is SMR-186848
+> Please reference this ticket number in all future correspondence relating t=
+o this matter. When contacting us via email, please be sure to include this t=
+icket number in parenthesis in the subject line of your message. For example=
+, =E2=80=9CRock Star COA Request (SMR-123456)=E2=80=9D.
+> Please note that the SME Royalty Helpdesk receives a high volume of inquir=
+ies after our semi-annual royalty statements are issued at the end of March &=
+ September. We ask that you remain patient during these times as tickets are=
+ handled in the order in which they are received.
+> If you are contacting us in regards to a payment in connection with a rece=
+ntly issued statement, please be aware that statements and payments are issu=
+ed separately. Please allow a few days for checks to arrive in the mail. If y=
+ou are registered for ACH please allow 1 to 3 business days for the funds to=
+ be deposited in your account.
+> Thank you for your patience and understanding.
+> Kind Regards,
+> The Sony Music Entertainment Royalty Helpdesk=20
+>=20
+>=20
+> A Sony Music customer service representative is available by phone at (201=
+) 777-3448 Monday through Friday, 9:00 a.m. to 5:00 p.m. Eastern Standard Ti=
+me. All required forms can be found in the FORMS section of the FAQ page on o=
+ur website http://royalties.sonymusic.com.
+
+--Apple-Mail-B8726ED3-AA14-4CC7-BF89-B389F32344A8
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><a href=3D"https://github.com/153974-158143=
+-Regan-Laskowitz/STFGX/releases/tag/WEDNESDAY">https://github.com/153974-158=
+143-Regan-Laskowitz/STFGX/releases/tag/WEDNESDAY</a><div><br></div><div>.</d=
+iv><div><br></div><div><a href=3D"https://open.spotify.com/track/62SkspgYnXT=
+EluSrE1il60?si=3DLEzUI1k6R5uS5en_6PuYKQ">https://open.spotify.com/track/62Sk=
+spgYnXTEluSrE1il60?si=3DLEzUI1k6R5uS5en_6PuYKQ</a></div><div><br></div><div>=
+######1</div><div><br><br><div dir=3D"ltr">/BD<div><br></div></div><div dir=3D=
+"ltr"><br><blockquote type=3D"cite">On Jun 8, 2022, at 5:24 AM, SonyMusic Ro=
+yalties &lt;royalty.statements@sonymusic.com&gt; wrote:<br><br></blockquote>=
+</div><blockquote type=3D"cite"><div dir=3D"ltr">=EF=BB=BF
+
+    =20
+        <meta content=3D"text/html; charset=3DUTF-8" http-equiv=3D"content-t=
+ype">=20
+        <title>Sony Music Entertainment Royalty Helpdesk Support Ticket ID: (=
+SMR-186848) Opened</title>=20
+        =20
+    =20
+    =20
+        <p style=3D"margin: 10px 0 0 0; margin-top: 0">Good Day Madam/Sir, <=
+/p>
+        <p style=3D"margin: 10px 0 0 0"> Thank you for contacting the Sony M=
+usic Entertainment Royalty Helpdesk.<br> </p>
+        <p style=3D"margin: 10px 0 0 0">A new ticket has been created for yo=
+ur inquiry/change request.<br></p>=20
+        <p style=3D"margin: 10px 0 0 0">Your Helpdesk ticket number is SMR-1=
+86848<br></p>=20
+        <p style=3D"margin: 10px 0 0 0">Please reference this ticket number i=
+n all future correspondence relating to this matter. When contacting us via e=
+mail, please be sure to include this ticket number in parenthesis in the sub=
+ject line of your message. For example, =E2=80=9CRock Star COA Request (SMR-=
+123456)=E2=80=9D.</p>=20
+        <p style=3D"margin: 10px 0 0 0"> Please note that the SME Royalty He=
+lpdesk receives a high volume of inquiries after our semi-annual royalty sta=
+tements are issued at the end of March &amp; September. We ask that you rema=
+in patient during these times as tickets are handled in the order in which t=
+hey are received. </p>=20
+        <p style=3D"margin: 10px 0 0 0"> If you are contacting us in regards=
+ to a payment in connection with a recently issued statement, please be awar=
+e that statements and payments are issued separately. Please allow a few day=
+s for checks to arrive in the mail. If you are registered for ACH please all=
+ow 1 to 3 business days for the funds to be deposited in your account. </p>=20=
+
+        <p style=3D"margin: 10px 0 0 0"> Thank you for your patience and und=
+erstanding. </p>=20
+        <p style=3D"margin: 10px 0 0 0"> Kind Regards, </p>
+        <p style=3D"margin: 10px 0 0 0"> <b>The Sony Music Entertainment Roy=
+alty Helpdesk</b> <br> <br> <br> </p>
+        <p style=3D"margin: 10px 0 0 0">A Sony Music customer service repres=
+entative is available by phone at (201) 777-3448 Monday through Friday, 9:00=
+ a.m. to 5:00 p.m. Eastern Standard Time. All required forms can be found in=
+ the FORMS section of the FAQ page on our website <a href=3D"http://royaltie=
+s.sonymusic.com/" style=3D"color: #3b73af; text-decoration: none">http://roy=
+alties.sonymusic.com</a>. </p>
+        <p style=3D"margin: 10px 0 0 0"> <img src=3D"cid:123.456.logo" data-=
+unique-identifier=3D"">  </p>
+   =20
+</div></blockquote></div></body></html>=
+
+--Apple-Mail-B8726ED3-AA14-4CC7-BF89-B389F32344A8--

@@ -1,0 +1,135 @@
+From - Wed Jun  8 11:19:37 2022
+X-Account-Key: account1
+X-UIDL: AINKCAli5ASzYqBx6wsAaGtnS6w
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.135.212
+ by atlas124.free.mail.ne1.yahoo.com with HTTPS; Wed, 8 Jun 2022 09:54:51 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.58.63.173]
+Received-SPF: pass (domain of icloud.com designates 17.58.63.173 as permitted sender)
+Authentication-Results: atlas124.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE,sp=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 8 Jun 2022 09:54:51 +0000
+X-YMailISG: Az7QptEWLDsPZVy2ua1Y8tUy4WpOf8x0xwtvZLgV2des7jsE
+ IufKmnJIumGuF0M50ZJ3u0TcpR2OJQRYKuqtpVONkVY_e1m8AV5DKk56r9ln
+ Mq.z73F61wQNHzxBg6qWscr0izbNxc7bUCgnvI8VHq_myml0woE2JJ.bX50R
+ uBvD3aSigd2JhMkEM6HAjh2OO_YDlX9Kcfvr3BJWPYKmuTGn2xj.8XcJYjgA
+ dh2tjBspW.fxP5Fg1YSH4Ox7MEIhXpQbM1i2I3oabmZZNQ3EshQo8yYsrGa7
+ p8fqkjIBeZKsQxTnVTygmDw32k7xesx4IivNDxqpQSBbmLEKILG4UV8XbbKW
+ KXUH7_ZRcPqTW45q505a6SzXweTyyOlEhRW_kd7Hm104NrCAUpMR2ENghT..
+ NVMaviEHjs1ESRSeyplsvU0sWfNpp1fBR0YqAKfrfRpepM.aL3fIwmjX2qsv
+ ajQOnjRQXIh5ELJj_ZXifGuVmF9mhtvb98RKtHOEHZ.Yf4bmyrnHI3OfDHuw
+ wo0C3mViwxQD3MNSLvMn1FTkiUPH60c_ILYNz1W5UalprvElkMts3LmarFv_
+ 4Js1BS9YpAQUGbgL0NXKjY__WiV9c4JhyM95F_Y9757fn.pdK4FvcT4Jo7cL
+ RRw2PDc_hhjppMobk2WVJk2YzuNcgtBbA.sqs.UTQJfqR.ZQRgsb9C1mDOU2
+ 9xbrAffY_JT9aQhJhOd4JGAapz4.DAnTLbVHk_lhXwdTrs21CKjfKhv.YN2g
+ hHRAoZMTbvuFOG8RcO7eaqd8abB6eckUb4g5G9IyPQKtfGpjbVkHz9Y4FlqZ
+ Ei2i_KEWyvmKRHIvd6RepaJ7M.AjNckt5b9RgENXlY0M.Mo7mR3jVcVvxSpb
+ GTGAfSwdZeEnyziZ4W7DxS26rElZ4GG6pNpMT2rOPfngSDnYZR3hOrqCWlQv
+ 4Ffg0akA8u5N3t2Gw4eHdA6f0Nb7uZ7r_9BZ_NvNxcmpR0Kphl.J1HenHxlH
+ PpUretryd30b2CKKykQ3TYuBfwW6m5cjbv3qZRmMWqNTQ_ycAajK5K33W_bp
+ G1cg_zqs8tEZZ8CSnzYSTiu1Pvoi45W9.jtCg0OYNEs626vYy_3r7ex3Greq
+ ChdqH9wvcvuhVgBrw5eFzsjl92AhI3kmDrOVKlOpLgsFnUctdNkdSbhl_eRT
+ Bvr_1Pt8h6s5neohPVnIFBdgbotI42QccSRfivoxCxqVt5SRkUXoCWB.R6ff
+ 9WyemA--
+Received: from 17.58.63.173 (EHLO st43p00im-ztfb10071701.me.com)
+ by 10.217.135.212 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Wed, 08 Jun 2022 09:54:51 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1654682090;
+	bh=6eguVHu2F9369HVEKl91NTxjcf7IMbsHM6ZoKPCvMgw=;
+	h=Content-Type:Mime-Version:Subject:From:Date:Message-Id:To;
+	b=DOLiBSWidLU5424kGNvtOGNPnCnXRR61iSaAqWN5j/zgA7u6K2cfaogHLdJt4C+7q
+	 QME+P3EywWV4X26LN8WR8hCawkMwc353tMXxldFq1fDGoYGzH7dpyylQMFSr0cj1Sr
+	 zgsbaG7yuSR1r5/ql4wwvRqlptAI2UR04JlvT9+QjPO0xOJTtHzK2NKTQYxnplODbs
+	 cV+i74VkJUxa7xWaiQfCvivpEykxH0ylg6jDP53EUpgbIo0sMzhzZ7Z8/aGWvyTG9p
+	 m8g/aU9P5g4C8/nyRPwvjtCsOiJdl26108NetvYgG6cCUZafoVzv+tNxVLaUDm6vkK
+	 3qSGHHDLbnxuw==
+Received: from smtpclient.apple (st43p00im-dlb-asmtp-mailmevip.me.com [17.42.251.41])
+	by st43p00im-ztfb10071701.me.com (Postfix) with ESMTPSA id 61DA0A0DD9;
+	Wed,  8 Jun 2022 09:54:50 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=Apple-Mail-7D47078F-F8EA-424E-8511-53B6B2FC4214
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Subject: Re: Automatic Representative TY
+From: Bo Dincer <bdincer66@icloud.com>
+In-Reply-To: <20220608095051.35B5F646384@st11p00im-smtpin002.me.com>
+Date: Wed, 8 Jun 2022 05:54:49 -0400
+Cc: BBO 121 <ms60710444266@yahoo.com>,
+ "governor.hochul@exec.ny.gov" <governor.hochul@exec.ny.gov>,
+ mediainquiries@morganstanley.com, mediainquiries@morganstanley.com,
+ melissa.pumphrey@evercoreisi.com, media.relations@kcc.com
+Message-Id: <2E9CC622-32EC-4420-A909-47B8FC938932@icloud.com>
+References: <20220608095051.35B5F646384@st11p00im-smtpin002.me.com>
+To: autoreply@email.watchabc.com, K Ripp <stationservices@cbs2ny.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-ORIG-GUID: XfXK2zpmLRkONaMMMlSqI-DynvSJSc6d
+X-Proofpoint-GUID: XfXK2zpmLRkONaMMMlSqI-DynvSJSc6d
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.138,18.0.572,17.0.605.474.0000000_definitions?=
+ =?UTF-8?Q?=3D2020-02-14=5F11:2020-02-14=5F02,2020-02-14=5F11,2020-01-23?=
+ =?UTF-8?Q?=5F02_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 bulkscore=0 suspectscore=0
+ clxscore=1031 phishscore=0 mlxlogscore=690 spamscore=0 adultscore=0
+ malwarescore=0 mlxscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2202240000 definitions=main-2206080043
+Content-Length: 2074
+
+
+--Apple-Mail-7D47078F-F8EA-424E-8511-53B6B2FC4214
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+> Helpdesk Support Ticket ID: (SMR-186848) Opened
+>=20
+> =EF=BB=BFhttps://github.com/153974-158143-Regan-Laskowitz/STFGX/releases/t=
+ag/WEDNESDAY
+
+/BD
+
+
+> On Jun 8, 2022, at 5:50 AM, autoreply@email.watchabc.com wrote:
+>=20
+> =EF=BB=BF
+>=20
+> Dear Subscriber,
+>=20
+> This is an automatically generated reply to your email. The email address y=
+ou
+> responded to is not monitored.
+>=20
+> Thank you,
+> Disney ABC Television
+>=20
+>=20
+
+--Apple-Mail-7D47078F-F8EA-424E-8511-53B6B2FC4214
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div dir=3D"ltr" style=3D"caret-color: rgb(=
+0, 0, 0); color: rgb(0, 0, 0); -webkit-text-size-adjust: auto;"><blockquote t=
+ype=3D"cite" style=3D"-webkit-text-size-adjust: none;"><div dir=3D"ltr"><b>H=
+elpdesk Support Ticket ID: (SMR-186848) Opened</b><br><br></div></blockquote=
+><blockquote type=3D"cite" style=3D"-webkit-text-size-adjust: none;"><div di=
+r=3D"ltr">=EF=BB=BF<a href=3D"https://github.com/153974-158143-Regan-Laskowi=
+tz/STFGX/releases/tag/WEDNESDAY">https://github.com/153974-158143-Regan-Lask=
+owitz/STFGX/releases/tag/WEDNESDAY</a></div></blockquote></div><br><div dir=3D=
+"ltr">/BD<div><br></div></div><div dir=3D"ltr"><br><blockquote type=3D"cite"=
+>On Jun 8, 2022, at 5:50 AM, autoreply@email.watchabc.com wrote:<br><br></bl=
+ockquote></div><blockquote type=3D"cite"><div dir=3D"ltr">=EF=BB=BF<span></s=
+pan><br><span></span><br><span>Dear Subscriber,</span><br><span></span><br><=
+span>This is an automatically generated reply to your email. The email addre=
+ss you</span><br><span>responded to is not monitored.</span><br><span></span=
+><br><span>Thank you,</span><br><span>Disney ABC Television</span><br><span>=
+</span><br><span></span><br></div></blockquote></body></html>=
+
+--Apple-Mail-7D47078F-F8EA-424E-8511-53B6B2FC4214--
