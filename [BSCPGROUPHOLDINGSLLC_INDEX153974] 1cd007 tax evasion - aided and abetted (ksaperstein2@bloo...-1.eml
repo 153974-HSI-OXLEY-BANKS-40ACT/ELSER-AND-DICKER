@@ -1,0 +1,116 @@
+From - Tue Jun  7 22:46:29 2022
+X-Account-Key: account1
+X-UIDL: APgOXl8cl9VtYqAFHwAnED0DPUg
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.62.159
+ by atlas201.free.mail.gq1.yahoo.com with HTTPS; Wed, 8 Jun 2022 02:10:38 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.207]
+Received-SPF: pass (domain of github.com designates 192.30.252.207 as permitted sender)
+Authentication-Results: atlas201.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 8 Jun 2022 02:10:38 +0000
+X-YMailAVSC: P9.E.pk3bBvfMyotKoe6h0bYMrw89YA5vtSgJkur0soifol
+ caO0lvnVJ67OfTTboYgETv6vb9pPVSi0c2r3r85OtuS.C.edW16fyxlR6_9E
+ xPDA5Ycn2sGHqGD7Ra8dKglwee0e0faCCOu.7lijNgP1aSJwrKnCxEEev1T3
+ yGKfzen7VXeBjdTPFu8EFFsK3lEQ__4CnoS6iL.cwacf9nQuGYc8hKuEgtMS
+ N.Og7mKtoF60_z1dhgmtCjLEGS9wHuDXTN9yld.gi.7AE56x9G8LGCcfO7GF
+ cCqr3qAV3t6jjD72nsBVoNaOBKQHWIEC5nMrnqRgGb7IAT82aY5jSgLfW8vK
+ v
+X-YMailISG: pznNzRgWLDvHOKY7h_zJtgUb0G6Q90337yMG1bNXg7Hu91Ta
+ A6jPInnP8h6N7KnAusXicYt8QtrOriBD8W5yu7zhfir3kbf_LQuPVVvKokdy
+ QOPm8uZqlsCbyx4Az9j3N8pXADR7LPE0dgBPZjYikqRCIhTQVe9dhMLOum42
+ UTrmn6hzYykjpj1AzKxTBga2UBe4M69Mo7wounFH9of8ITrYVyADnVFzIE47
+ zwWWJdZSPnjOcudJDLPJrZ_YKotZ1sadUeeoaTcXgoNsYlCuIqXjBo_rKMkO
+ 5NMk0ZzVlhj13vsxCzYPYNpMgpZ6dkJKtzKWHdiQMpJLw1lB_RNFV8RGSR89
+ UES3FPGYaPTy.XeijbaN.TorSlGUrCpGFUlW4AZx_rfFiJl73ftooL8tVF0o
+ M1ZV2tfG69_1tOG9cnBswSGsZa9QVc.9yhQjt33EBsLtveB_az2cyxhhY3uy
+ ZwY5kcTUqcu49jBIFbm0EKH3YIdYGwKI_f.rUEIQ.IJrbNz5gq710cCdldjw
+ jtfzp4AvUuOtK5JeO9c2o3cLmF4nylLccENGblRY.MzoqGXCYLa7x14NKWhF
+ g05ac7kZfyzv7yqZD7H00Qbi81XVBeu7Y8VrVqxow6Kc1Iyfwdlubt1VZUyj
+ ond_71DOGt9cCYJB.t7s1NC_pWezNEoJ.Ni8K2YqsoYe9yLLeFYX5BDuLoQy
+ 08wj35rekMnfycn5Q9lhyfdpgy58jhmLErEidH0C6.7aDWITJZI.S83_WddJ
+ R5DZ81HNmQcYq1Y2GVhgmwTuQ7UCgfZc0loRlT7qoPUJRaN46gDLdRl5K.ah
+ b3YQDArlxrFGa3YVtw9Eilb5eEpA3AvcXyAYJSQh61B5vpZqVC.1lRzQyILR
+ 5gMcHD.qiiqCmqPoGFhHRT01aR6rQ.o00q3hXMjLjcmOt5bOFpjSAu9PDaZT
+ lk6HRv9sPw0u3eMk9_GhIAUr9S06afcmrq_sU4sBoNPC0Riw9YT8FoOlPzOU
+ 6zbrWYmjUEUd2usj12EyVxUp48t4FNLhoMhWyc8UskqkDMbnLKEwn_0YieH_
+ RUf2SHF_leXB33dvMLF8uhiexn95N20GY9n2OPSBjSoPdN0gFu3hGizqEddP
+ Dqn0P.pfnl.i5Y6n1lm0ZlutY8O1auE.PgRcNcT2Xah3xEyT91.ivYhZt5aP
+ IuKSeziwKs5DIYqI4WuC0MFcOHk_fTKK
+Received: from 192.30.252.207 (EHLO out-24.smtp.github.com)
+ by 10.253.62.159 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 08 Jun 2022 02:10:38 +0000
+Received: from github.com (hubbernetes-node-24f2bb4.ac4-iad.github.net [10.52.206.114])
+	by smtp.github.com (Postfix) with ESMTPA id DCF24600488;
+	Tue,  7 Jun 2022 19:10:37 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1654654237;
+	bh=pKj1N1Qrd8k923iFvcDIiJXItKn7xjCLkMjRSwnOnEw=;
+	h=Date:From:To:Subject:From;
+	b=bisCnEQW9RMEf24JEqYJqF1YHFKWA54FIFW3XR0pEusRZ5OzGqJIooJdDAAEpJqNx
+	 RCKNOsppONuk0fQH8c9DyQZRDuuwT9mT9Nz6F+U94/jeSlLb22pocErRFUAoqbq42s
+	 uyOhCLNHW44M1/VVdHO1CVURicfGp5KhvYlX6jb0=
+Date: Tue, 07 Jun 2022 19:10:37 -0700
+From: 1212-5858 <noreply@github.com>
+To: ms60710444266@yahoo.com, 
+ rule-comments@sec.gov
+Message-ID: <BSCPGROUPHOLDINGSLLC/INDEX153974/push/refs/heads/main/f58396-1cd007@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/INDEX153974] 1cd007: tax evasion - aided and
+ abetted <ksaperstein2@bloo...
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Approved: 16537-714-487-492, OMISSIONS, OBSTRUCTION, SFITX SFBDX STFGX FILER
+ 1516523
+X-GitHub-Recipient-Address: ms60710444266@yahoo.com,rule-comments@sec.gov
+X-Auto-Response-Suppress: All
+Content-Length: 2252
+
+  Branch: refs/heads/main
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974
+  Commit: 1cd00776e0f49c5e2a55eab5e7e4703542cdac79
+      https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974/commit/1cd00776e0f49c5e2a55eab5e7e4703542cdac79
+  Author: 1212-5858 <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.com>
+  Date:   2022-06-07 (Tue, 07 Jun 2022)
+
+  Changed paths:
+    A Fwd 1 PROBLEM. Violation of Privacy & Breach of Contact..eml
+    M STFGX 1516523 CIK Filer ex-post 900$ million in losses..eml
+
+  Log Message:
+  -----------
+  tax evasion - aided and abetted <ksaperstein2@bloomberg.net>, <priya.raghuram@morganstanley.com>, <cbrooks7@bloomberg.net>   Fw EX 69 --- DOCKET 385 --- 1.6662-2 Accuracy-related penalty   For liens sold in December 2021.           the lien servicers are:  MTAG Services (800) 750-9210 support@MTAGServices.com  Tower Capital Management (800) 970-8454 NYCTLservicing@tcmfund.com  NO EXTRA-ORDINARY LEGAL MATTERS: UNDISCLOSED BY FILER 93715 AND ALSO CIK FILER 1516523 https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7  *** AIDED AND ABETTED BY THEIR " ADVISORY COMMITTEE"  https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/issues/5  https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/issues/6
+
+tax evasion - aided and abetted <ksaperstein2@bloomberg.net>, <priya.raghuram@morganstanley.com>, <cbrooks7@bloomberg.net>   Fw EX 69 --- DOCKET 385 --- 1.6662-2 Accuracy-related penalty   For liens sold in December 2021.           
+
+
+the lien servicers are:  MTAG Services (800) 750-9210 support@MTAGServices.com  
+
+
+Tower Capital Management (800) 970-8454 NYCTLservicing@tcmfund.com  
+
+
+LEGAL MATTERS: UNDISCLOSED BY FILER 93715 AND ALSO
+
+ CIK FILER 1516523 
+
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7
+
+  *** AIDED AND ABETTED BY THEIR " ADVISORY COMMITTEE"  
+
+https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/issues/5  
+
+
+https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/issues/6
+
+RICK = IMMEDIATELY UPON FILING OF A LIEN, WOULD BE OWED BY STATE FARM ( HOWEVER UPON DETERMINING THAT A LOSS OF " CARRIED INTEREST OWED " CAN BE AVOIDED - DECIDED IN A NON-JOINDER ---- AIDED AND ABETTED BY THE GENIUS COUNSEL AS REFERENCED IN THESE MESSAGES.
+
+

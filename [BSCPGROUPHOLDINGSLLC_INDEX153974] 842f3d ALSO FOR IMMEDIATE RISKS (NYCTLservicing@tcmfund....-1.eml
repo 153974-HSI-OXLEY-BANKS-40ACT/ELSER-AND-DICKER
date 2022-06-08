@@ -1,0 +1,131 @@
+From - Tue Jun  7 22:46:29 2022
+X-Account-Key: account1
+X-UIDL: AP+oXyhyGAa9YqAEJAG1gM73Zjo
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.220.180.164
+ by atlas209.free.mail.ne1.yahoo.com with HTTPS; Wed, 8 Jun 2022 02:06:27 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.206]
+Received-SPF: pass (domain of github.com designates 192.30.252.206 as permitted sender)
+Authentication-Results: atlas209.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 8 Jun 2022 02:06:28 +0000
+X-YMailISG: HuPUyzYWLDvp2VbH6DpruwcTnTpVVmlHhhEPeFq5VcATRqvG
+ dXTptlgJbY0QCigq4nJRP0lMYnDQRP1pUNB.fD_.atXoujYT4Fyk509v5C0Z
+ ymL_3OPNj.0_U_AqOGgmHBXgCkuR40rg6gI.uPRHyaIDKBk2fhlTxPBG2Hdh
+ CN3bJa.2SvxPRlmiQyoco6GYavOVsNeadQET2JgxAg4GJA8ARH.u6Jgbff1J
+ C1Okj597nrFP3uckApRMc2BIr6_7CQ3HBPiLTyYb7lJPtwndwVWE21vIBRnW
+ NsOmVsZlu1vZW2kzgFaaQPK6hdIL1NpjoEmva54VQZ9pVwiK_ErDxFeidbnr
+ FfbhXEEQgahI4pn3.6ZLXEzGUx2am2aFmlG.jotPKsJw2WnpHbBOb3mB23I0
+ 2YoSDrEUO.iPkIkEo4Cdb0MpYu8W8Ln4nQZGCN2FTgKHI3wCfvQOHczLRm2j
+ TAAvAqmQDJ0Xl8sNMHvlVEFllWIbZR27jDngmHSysOSpZuEe3P8fj0CNl18q
+ yeqcusIdDub1z6SFhfRwZ.cWj1JqCPUeTxkr2qM_gM4CAszTiDRmofvlE10V
+ IEKZMTlBbN5cJFLH9ADQELiZgvPOmkIl2tf3GQq6mX8zHByrkh3n_Uc3hVNU
+ n7rJpxD1ujbDLsaAXvh_g9_pgMgNGFhMT4NwjX2P3ZBI14SKl8fYWNlwMJwB
+ T.AxvrR0ro2iftq63kqTtztYfJVEUpFxdhm4age6o8vKpxEDLFjekuD8PFgz
+ YlMtfbPG56xaTqNkmkXtkw0msNs4PMfz1W_aeiHqPexpXt9eh8DqETkGucog
+ x0MPYQ.rvKnDHhEtyl.NvbB.8VLWj1s_Kfo.Jbb.cEWm4DBfqa_8F0tYUyph
+ QGQSMbCa3THS.Hv7kGShYP3dI_6dSCM4mt8c50dtdcCCSlJuK710WetpsrDa
+ JqRjlVbJU9M9fvKfN500omx9odO5vdMAlwE6uwMbvP.uAmd.MrWUn7.Lmn3D
+ 8knMgy4isW6_dAdCcwleu1C7aY5Dad7oA2VlH4BDu_TIRg9OGDVkP251MedC
+ KL0d0oV2XrmqdDAidMN95QNj6g96Cq74BpT6jX4pEhmTZg1CQGCfQZNsgI2E
+ vQhfNvYCSzvAJY2Bj8MydD1vm8d9YYf7k9mIvxCkzrsq3J.8Pg8ifvc_Gyw5
+ wOha.Lq0srbpL4I1YPv7wZW5pNSq
+Received: from 192.30.252.206 (EHLO out-23.smtp.github.com)
+ by 10.220.180.164 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 08 Jun 2022 02:06:27 +0000
+Received: from github.com (hubbernetes-node-a26a49b.ac4-iad.github.net [10.52.201.49])
+	by smtp.github.com (Postfix) with ESMTPA id 3D70E600497;
+	Tue,  7 Jun 2022 19:06:27 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1654653987;
+	bh=HGOOLvBZm2qsqB+Bbq8f3fKjWX4/fkstkhJShE4qWZQ=;
+	h=Date:From:To:Subject:From;
+	b=RREMJTctT7lnwxEvPkV809uPeXjHBwVH+K93udg/mjNu+CgmElhW54BPHXZCVCs0h
+	 9iKf1Ac6I/ZMwq64YENt1hPvZcSqQc75rNpb/LssLdGPB6s/oBxKnsYl0vopsqbFdm
+	 jza7lOldap1rvGpVZJvAzjt/j270mS8TwZuN7PdM=
+Date: Tue, 07 Jun 2022 19:06:27 -0700
+From: 1212-5858 <noreply@github.com>
+To: ms60710444266@yahoo.com, 
+ rule-comments@sec.gov
+Message-ID: <BSCPGROUPHOLDINGSLLC/INDEX153974/push/refs/heads/main/5a259f-842f3d@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/INDEX153974] 842f3d: ALSO FOR IMMEDIATE RISKS:
+ <NYCTLservicing@tcmfund....
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Approved: 16537-714-487-492, OMISSIONS, OBSTRUCTION, SFITX SFBDX STFGX FILER
+ 1516523
+X-GitHub-Recipient-Address: ms60710444266@yahoo.com,rule-comments@sec.gov
+X-Auto-Response-Suppress: All
+Content-Length: 2558
+
+  Branch: refs/heads/main
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974
+  Commit: 842f3d51441f5bdca288b268a8fa8e574be95a7d
+      https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974/commit/842f3d51441f5bdca288b268a8fa8e574be95a7d
+  Author: 1212-5858 <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.com>
+  Date:   2022-06-07 (Tue, 07 Jun 2022)
+
+  Changed paths:
+    A August 8 - no CO.eml
+    A statementsearch117-taxbill.pdf.eml
+
+  Log Message:
+  -----------
+  ALSO FOR IMMEDIATE RISKS: <NYCTLservicing@tcmfund.com>, <Josephine.Vella@finra.org>, <ombuds@finra.org>, <ombudsman@finra.com>,<david.moore.ct95@statefarm.com>, ET AL.
+
+
+
+
+-------- Forwarded Message --------
+Subject: 	statementsearch117-taxbill.pdf
+Date: 	Mon, 16 May 2022 21:50:15 -0400
+From: 	Bo Dincer <bdincer66@icloud.com>
+To: 	Josephine Vella <Josephine.Vella@finra.org>, ombuds@finra.org, ombudsman@finra.com, david.moore@statefarm.com, David Moore <david.moore.ct95@statefarm.com>, Newyork <newyork@sec.gov>, Chair <chair@sec.gov>, losangeles@sec.gov, 23pctdvo@nypd.com, NYM-PREAComplianceMgr-S@bop.gov, bop-ipp-publicaffairs@bop.gov, BOP-RSD-PREACOORDINATOR@bop.gov, 23pctdvo@nypd.com, 18PCTDVO@nypd.org, info@statefarm.com, info@kpmg.com, tips@latimes.com, tips@insider.com
+CC: 	Bo Dincer <bdincer66@icloud.com>, assessments@fdic.gov, CRC FTC REPORTS <CRCMESSAGES@ftc.gov>, Comments@dfs.ny.gov, CommunityAffairs@occ.treas.gov, Newyork <newyork@sec.gov>, governor.hochul@exec.ny.gov, jheegan@doi.nyc.gov, marquee@gs.com, GSAMOnlineRequest@gs.com, jpminvestorrelations@jpmchase.com, bofamarkets@baml.com, mark.schwartz1@ey.com, Lou Ferrigno Jr. <ferrigknow@gmail.com>
+
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/fd184c357bd5ec11a7b50022483079c1/StatementSearch117-taxBill.pdf
+
+
+
+
+
+tax evasion - aided and abetted <ksaperstein2@bloomberg.net>, <priya.raghuram@morganstanley.com>, <cbrooks7@bloomberg.net>
+
+
+Fw EX 69 --- DOCKET 385 --- 1.6662-2 Accuracy-related penalty
+
+
+For liens sold in December 2021.
+
+         the lien servicers are:
+
+MTAG Services
+(800) 750-9210
+support@MTAGServices.com
+
+Tower Capital Management
+(800) 970-8454
+NYCTLservicing@tcmfund.com
+
+NO EXTRA-ORDINARY LEGAL MATTERS: UNDISCLOSED BY FILER 93715 AND ALSO CIK FILER 1516523
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7
+
+*** AIDED AND ABETTED BY THEIR " ADVISORY COMMITTEE"
+
+https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/issues/5
+
+https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/issues/6
+
+*** KEEP AVOIDING THE TRUTH... AND THAT TRUTH - HERTZ
+
+
