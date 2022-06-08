@@ -1,0 +1,518 @@
+From - Tue Jun  7 22:46:30 2022
+X-Account-Key: account1
+X-UIDL: AF4rDNRVb89dYqAGPAzVKBUMYbE
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.233.85
+ by atlas210.free.mail.gq1.yahoo.com with HTTPS; Wed, 8 Jun 2022 02:15:24 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.211]
+Received-SPF: pass (domain of github.com designates 192.30.252.211 as permitted sender)
+Authentication-Results: atlas210.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 8 Jun 2022 02:15:24 +0000
+X-YMailAVSC: PBluyvk3bBsVPxbc3QoDLWv8guEooAdjq21EDHAB8viQQhy
+ PuEvS1daAfN3.6AJQdDG3pPOuTAmbmyDmmAWtg4h1Lobv4PkQGGgDLK1i1Vw
+ .jjqEYWY8QEODHiiyByZbtACzSxmZLP.mw4TCjVC_O5LNa_7pKv3yMwLJRRY
+ tY5xJkxTKo60MhFzFUNBAo7h4WEUDi4lKfuAbTLtPhTr0kszmXb5MyY9StLs
+ mJaKl0K.biL0hlByr52waRfB2IqkhEEXMGBIR8N7lGB9y95YwFSe_m9GiYai
+ TxXGCFttCVH836DE.oot6g1jmJkdIcIafBxa1vu00SnbFBFHwNzslim2x3W6
+ sdiXj7upS32qMDzwaGXyZ8kkvupBQme_.5jU-
+X-YMailISG: 2AcZkUcWLDuykxuuVOBhQeI93UIs4aPRwdD0kO1_svNBK8fS
+ xotY0zaDTNdtZr86bAqOjBc4cbxKrAToP2eD4AdD1.tINMlZX2n12b5Uby2E
+ iUckrmaNoHuKa.6N3hCOhqb_BX9Na7TnWlHREIaREauvY72gaU6.KJl7apnY
+ WKYVkPFQ9_pt7XIkyGaw6RXjcb1.iGeaiRpIyXBMxiP6H1Pkz00CgQlv33rr
+ oChXKX6jfc8wFPMHDIMQIRBfJIq0IU1kw5GpNmECya66BVPof4RZSay0LXue
+ Fa29w2xnCQT9ZLCGXlAGh2ITefPN9diS_dDLdXkig2rXCS81QO8XN3c6pFNf
+ X6OdNPXfcSQY1guHwrzQpgEGf1d2WmPtCCPYRzmU.MDZeLeslDyYDcwKF.G8
+ uWefjK8VKnSuyU0aeUc2lp92OFau8e.4sOOhfKt3GdzGVXEodpu4DbqlPnkZ
+ C9rSDCi0zTU05mU1LixsI5ur4n3edksqut9zJxtuq2.0xc_fwkIpvbtOu46w
+ 1PAECOGvIkZHhh98eLoHAZ0qNvBcaNGMKwCd2YJ7uXTflrWuYMofrK9cZ3pL
+ VdMBakRP_VoOjYLThnooOBW8jubhEYTUkXk7buzXInOCY19KcjRXTbyiJL.e
+ e0lVZ2FYRbY4hDJ0duD3xqp22ZNJgi4Ru8tvPOcnHBc9vzoUqyhwWxn8itE3
+ jyMI4A4xhs987Tv.Zw7uhPoNNzbuxVW0FaT46499M9rUvcY2h4D3U3ZYMXbd
+ Sb8xJDJMvKz9mHnJL0n4EQW21EcwQauzQOXPQCL5kmz5e.WGAQa_8M5UdZSb
+ 3S1U5JjQWZ5db6amCJO4dJ7A_LvnnQwlHmPy9rk_caxBIwy7AgcTUB299z1P
+ WO3jP0ClMjU4o4Z3PdMk5kvK2xhuwddcACZ9sxSuZRtbI_OyPAeay7q6dEtG
+ KYXINbehGqBy2KsYz7ND5vffkC5ZozXm_XlfDCf3Y1eNTDe8yG0PKPl6Tk5_
+ ZXX3qgEI3TCMqaeu9MoOL_zSCL1Et0AHqisYAy0ZLRzi8YI_hnFpxcYekkfr
+ ksdHUF4o_7HgLG_tHPGFTes0kAlutTDvjeODE6TT7NXv6Ny2rjxgRsTvQot4
+ yKw180yGPtLTdTLrr4GuIbisDPO67N.9ysLRzw3hAMeczZYYhTTHi5knD4bS
+ YeJNrORZRhMM.kETnAfZxYk-
+Received: from 192.30.252.211 (EHLO out-28.smtp.github.com)
+ by 10.253.233.85 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 08 Jun 2022 02:15:24 +0000
+Received: from github.com (hubbernetes-node-54f642e.ash1-iad.github.net [10.56.202.74])
+	by smtp.github.com (Postfix) with ESMTPA id AA7EF9007B1;
+	Tue,  7 Jun 2022 19:15:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1654654523;
+	bh=2tsmoOLhWhZn/92TaJEEt9syS+5GEJNE63frNyhfXjg=;
+	h=Date:From:To:Subject:From;
+	b=QKydfZvSZLqJPtBPNK6qlkIpdfkf/vlkYVvUdA7hTMLqvVju+tf6Vy1cc1Cvi23DU
+	 wE0D6xyiGyqu5YMWwGp5SQx+XMkYfbrj4JG3IlhZILG1i+BzyO82rsfuqLSXwLj2yZ
+	 Y+p1F8QkgPn+NflCU5Ti/CSxM4m4shehxJ/lT0wQ=
+Date: Tue, 07 Jun 2022 19:15:23 -0700
+From: 1212-5858 <noreply@github.com>
+To: ms60710444266@yahoo.com, 
+ rule-comments@sec.gov
+Message-ID: <BSCPGROUPHOLDINGSLLC/INDEX153974/push/refs/heads/main/1cd007-832b77@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/INDEX153974] 832b77: SOME JUST ARENT AS SFITX
+ AS OTHER, LIKE BRK-B AND ...
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Approved: 16537-714-487-492, OMISSIONS, OBSTRUCTION, SFITX SFBDX STFGX FILER
+ 1516523
+X-GitHub-Recipient-Address: ms60710444266@yahoo.com,rule-comments@sec.gov
+X-Auto-Response-Suppress: All
+Content-Length: 15141
+
+  Branch: refs/heads/main=0D
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974=0D
+  Commit: 832b7764eb03410ba1e670873fbdcb91d6bd3878=0D
+      https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974/commit/832b7764=
+eb03410ba1e670873fbdcb91d6bd3878=0D
+  Author: 1212-5858 <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.c=
+om>=0D
+  Date:   2022-06-07 (Tue, 07 Jun 2022)=0D
+=0D
+  Changed paths:=0D
+    A RISK-OBSTRUCTION-LACKOFAWARENESS-=0D
+=0D
+  Log Message:=0D
+  -----------=0D
+  SOME JUST ARENT AS SFITX AS OTHER, LIKE BRK-B AND STFGX FORGOT HOW TO T=
+ANGO=0D
+=0D
+RISK =3D obstruction and LOSS OF the greater of $1 billion in posthaste M=
+ERGER by FILER 93715=0D
+=0D
+upon receipt, would be liable for the greater of $500,000,000.00 which is=
+ more in MARKET CAPITAL than is AVAILABLE in one of four funds.=0D
+=0D
+SFITX =3D sub five hundred million in market capitalization =3D CREDITWOR=
+THINESS for your consideration as well.=0D
+=0D
+    tax evasion - aided and abetted <ksaperstein2@bloomberg.net>, <priya.=
+raghuram@morganstanley.com>, <cbrooks7@bloomberg.net>=0D
+=0D
+=0D
+    Fw EX 69 --- DOCKET 385 --- 1.6662-2 Accuracy-related penalty=0D
+=0D
+=0D
+For liens sold in December 2021.=0D
+=0D
+         the lien servicers are:=0D
+=0D
+MTAG Services=0D
+(800) 750-9210=0D
+=0D
+support@MTAGServices.com=0D
+=0D
+=0D
+Tower Capital Management=0D
+(800) 970-8454=0D
+NYCTLservicing@tcmfund.com=0D
+=0D
+NO EXTRA-ORDINARY LEGAL MATTERS: UNDISCLOSED BY FILER 93715 AND ALSO CIK =
+FILER 1516523=0D
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7=0D
+=0D
+*** AIDED AND ABETTED BY THEIR " ADVISORY COMMITTEE"=0D
+=0D
+    https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/issues/5=0D=
+
+    https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/issues/6=0D=
+
+    https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974/find/main=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+-------- Forwarded Message --------=0D
+Subject: 	Fwd: ref.: DECEMBER 18TH MESSAGE TO PROMOTERS OF CIK FILER: 937=
+15=0D
+Date: 	Tue, 7 Jun 2022 20:00:19 -0500=0D
+From: 	B D2022 <ms60710444266@yahoo.com>=0D
+To: 	cfaimali@isda.org <cfaimali@isda.org>, isda@isda.org, isdaeurope@isd=
+a.org, Joel Clark Isda <jclark@isda.org>, ldobbs@isda.org, nlu@isda.org, =
+Nick Isda <nsawyer@isda.org>=0D
+CC: 	KATHY HOCHUL <governor.hochul@exec.ny.gov>=0D
+=0D
+=0D
+BELOW FOR REFERENCE.=0D
+=0D
+=0D
+-------- Forwarded Message --------=0D
+Subject: 	ref.: DECEMBER 18TH MESSAGE TO PROMOTERS OF CIK FILER: 93715=0D=
+
+Date: 	Tue, 7 Jun 2022 19:59:19 -0500=0D
+From: 	B D2022 <ms60710444266@yahoo.com>=0D
+To: 	Sec News <webmaster@sec.gov>, texas@sec.gov, shareholderproposals@se=
+c.gov <shareholderproposals@sec.gov>, Secretarys-Office@sec.gov, Rule-Com=
+ments <rule-comments@sec.gov>, publicinfo@sec.gov <publicinfo@sec.gov>, p=
+hiladelphia@sec.gov, Pamela Gibbs [SEC] <OMWI@sec.gov>, Ombudsman <Ombuds=
+man@sec.gov>, Carl Hoecker [SEC] <OIG@sec.gov>, oca@sec.gov <oca@sec.gov>=
+, NYROBankruptcy@SEC.GOV, newyork@sec.gov <newyork@sec.gov>, losangeles@s=
+ec.gov <losangeles@sec.gov>, IMshareholderproposals <IMShareholderProposa=
+ls@sec.gov>, foiapa@sec.gov, dfw@sec.gov <dfw@sec.gov>, denver@sec.gov, d=
+caoletters@sec.gov <dcaoletters@sec.gov>, cshugg@usinfosec.com, CHICAGO@S=
+EC.GOV <CHICAGO@SEC.GOV>, LORI SCHOCK <CHAIR@SEC.GOV>, boston@sec.gov <bo=
+ston@sec.gov>, atlanta@sec.gov, Terrance Ludwig <terrance.ludwig@statefar=
+m.com>, replacementprogram@statefarm.com, rebecca.coyle@statefarm.com <re=
+becca.coyle@statefarm.com>, PHIL SUPPLE <phil.supple.hid9@statefarm.com>,=
+ PAUL.SMITH@STATEFARM.COM, Nicole Bowyer <nicole.bowyer@statefarm.com>, S=
+tate Farm <mutualfunds@statefarm.com>, MIKE.CARTER.HUSL@STATEFARM.COM, JO=
+SE.MONK@STATEFARM.COM, dick.luedke.h2hj@statefarm.com, David Moore <david=
+.moore.ct95@statefarm.com>, brian.hodgson.nyz6@statefarm.com <brian.hodgs=
+on.nyz6@statefarm.com>, [ NTRS ] Steven Santiccioli <sjs5@ntrs.com>, Stev=
+en Santiccioli, Northern Trust <steve@bloomberg.net>, Brent Reeder <bdr11=
+@bloomberg.net>, Rebekah Holt <rholt22@bloomberg.net>, Jon Wilson <jwilso=
+n578@bloomberg.net>, gtmoatp@ntrs.com <gtmoatp@ntrs.com>=0D
+CC: 	kevin.kilkenny@chase.com <kevin.kilkenny@chase.com>, malia.d.chatman=
+@chase.com, info@kpmg.com <info@kpmg.com>=0D
+=0D
+=0D
+=0D
+> On May 13, 2022, at 1:43 PM, Bo Dincer <bdincer66@icloud.com> wrote:=0D=
+
+>=0D
+> Hey Kevin,=0D
+>     =0D
+> We just met a few moments ago here=E2=80=99s the information I was refe=
+rring to. Call me anytime.=0D
+>     =0D
+> /s/    BARIS DINCER. =0D
+>         Tel.  646-256-3609=0D
+>        =0D
+>      =0D
+> P.S.    It=E2=80=99s a non-joinder in the matter of =0D
+>     NYSCEF 153974/2020=0D
+>=0D
+>=0D
+>=0D
+>=0D
+> Begin forwarded message:=0D
+>=0D
+>> From: BO DINCER <bondstrt007@gmail.com>=0D
+>> Date: May 13, 2022 at 1:14:27 PM EDT=0D
+>> To: larissa.vonlockner@pwc.com, info@kpmg.com, Bo Dincer <bdincer66@ic=
+loud.com>, jpminvestorrelations@jpmchase.com, dcjobs@cochranfirm.com=0D
+>> Subject: Fwd: *** unlawful RENT and PAYMENTS in CUSTODY at JP MORGAN C=
+HASE BANK=0D
+>>=0D
+>> =EF=BB=BF=0D
+>> TY. Very much appreciated.=0D
+>>=0D
+>>=0D
+>>     *** unlawful RENT and PAYMENTS in CUSTODY at JP MORGAN CHASE BANK=0D=
+
+>>=0D
+>>     HELD IN THE ACCOUNT OF:=0D
+>>              =0D
+>>             Sullivan Properties LP.=0D
+>>             101 west 55th Street, New York, NY=0D
+>>=0D
+>>             =0D
+>>=0D
+>>=0D
+>>     Custody the money the stole from me at your Bank.=0D
+>>     - Ill be over there later. =0D
+>>=0D
+>>     /s/ Baris Dincer=0D
+>>           XXX-86-9013=0D
+>>=0D
+>>          -FORMER, AND CURRENT BUSINESS CLIENT OF YOURS.=0D
+>>          - Never closed the account BTW...=0D
+>>          - Just made sure it was positive before I left.=0D
+>>=0D
+>>     ---------- Forwarded message ---------=0D
+>>     From: B D2022 <ms60710444266@yahoo.com>=0D
+>>     Date: Wed, May 11, 2022, 5:05 PM=0D
+>>     Subject: unlawful RENT and PAYMENTS in CUSTODY at JP MORGAN CHASE =
+BANK=0D
+>>     To: Bo Dincer <bdincer66@icloud.com>=0D
+>>=0D
+>>=0D
+>>     EXHIBIT(S)  - SD2 =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DR=
+9aac7D6DBJZ1wsiq0b38A=3D=3D> =0D
+>>=0D
+>>     THE SECURITY WAS DEPOSITED IN JP MORGAN CHASE BANK ON 6/15/2020=0D=
+
+>>=0D
+>>=0D
+>>     EXHIBIT(S)  - J51 =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dd=
+7t3ED/Z4rcggm8dkQ0Jlg=3D=3D> =0D
+>>=0D
+>>     MARKED UP RENT INVOICES         =0D
+>>     __      =0D
+>>=0D
+>>=0D
+>>     EXHIBIT(S)  - 112  (Motion #001) =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DI=
+J47OvVzsLObNsXt0u8trg=3D=3D> =0D
+>>=0D
+>>     CERTIFICATE OF OCCUPANCY=0D
+>>     __=0D
+>>     EXHIBIT(S)  - 113  (Motion #001) =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DC=
+eL5zAaUK8tfWrX9kp/QdA=3D=3D> =0D
+>>=0D
+>>     111 SULLIVAN STREET=0D
+>>     __=0D
+>>     EXHIBIT(S)  - TR3  (Motion #001) =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D9=
+zQd7Hu3cy9vp6I960WGNQ=3D=3D> =0D
+>>=0D
+>>     NO VERIFIABLE COMPLAINTS FILED IN MY RESIDENCE=0D
+>>     __=0D
+>>     NOTICE TO COUNTY CLERK CPLR 8019(C)  (Motion #002) =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DD=
+nmjCPN_PLUS_DIIELjZFua7gWQ=3D=3D> =0D
+>>=0D
+>>     AMENDMENT TO CAPTION=0D
+>>     __=0D
+>>     NOTICE TO COUNTY CLERK CPLR 8019(C) =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dc=
+WLErrXbEw5qtOLVeWU/7g=3D=3D> =0D
+>>=0D
+>>     MOTION TO CHANGE CAPTION IN THIS MATTER, WITH ATTACHED EXHIBITS.=0D=
+
+>>     __=0D
+>>     EXHIBIT(S)  - 237 =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DX=
+kdNmKBghAAqMUItDdrwxA=3D=3D> =0D
+>>=0D
+>>     Notice to Parties named sent via email - with attachment.=0D
+>>     __=0D
+>>     EXHIBIT(S)  - HQ =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dy=
+MXQNekW7te0QA5jjAvP2w=3D=3D> =0D
+>>=0D
+>>     PLAINTIFFS MANAGEMENT HEADQUARTERS=0D
+>>     __=0D
+>>     EXHIBIT(S)  - BBS =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DU=
+AXjpRh1KO2_PLUS_8KsdF1TuQA=3D=3D> =0D
+>>=0D
+>>     NYSCEF has served and informed all parties with all required =0D
+>>     information, immediately and presumably ... show more=0D
+>>     __=0D
+>>     EXHIBIT(S)  - 241 =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dz=
+Xega0sLahw5fVuBTVtpnw=3D=3D> =0D
+>>=0D
+>>     NOT ONE SINGLE VIOLATION IN MY RESIDENCE - PER D.O.B RECORDS.=0D
+>>     __=0D
+>>     EXHIBIT(S)  - 240 =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Du=
+pAzS2FC6bICOGxa73ptdg=3D=3D> =0D
+>>=0D
+>>     SEVERAL VIOLATIONS HAVE BEEN ADDRESSED ELSEWHERE IN THE VICINITY.=0D=
+
+>>=0D
+>>=0D
+>>=0D
+>>=0D
+>>=0D
+>>=0D
+>>     EXHIBIT(S)  - P02 =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D4=
+PiwGksCJul/AGvyopmH8g=3D=3D> =0D
+>>=0D
+>>     RENT_2020_02_01 - RENT STATEMENT=0D
+>>     __=0D
+>>     EXHIBIT(S)  - P5R =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dv=
+MB0J4qaYgauPBeEMLIOXA=3D=3D> =0D
+>>=0D
+>>     RENT_2020_05_01 - RENT STATEMENT=0D
+>>     __=0D
+>>     EXHIBIT(S)  - P05 =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dw=
+CwqZV3k3dKPIhAESd/oag=3D=3D> =0D
+>>=0D
+>>     RENT_2020_05_01 - RENT PAYMENT CONFIRMATION=0D
+>>     __=0D
+>>     EXHIBIT(S)  - P06 =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dv=
+d54Sn1RLwYlVxoKhGh0xg=3D=3D> =0D
+>>=0D
+>>     RENT_2020_06_01 - RENT PAYMENT AND UNLAWFUL FEES HAVE NOT BEEN REF=
+UNDED=0D
+>>     __=0D
+>>     EXHIBIT(S)  - P6R =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DM=
+jxo9_PLUS_FdCN/p2Jrgw4MkIQ=3D=3D> =0D
+>>=0D
+>>     RENT_2020_06_01 - THE 25% INCREASE IN THE RATE FOR THIS MONTH HAS =
+NOT =0D
+>>     BEEN REFUNDED. [SEE ALSO: P06]=0D
+>>     __=0D
+>>     EXHIBIT(S)  - PR6 =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Di=
+X/P_PLUS_AO_PLUS_5V4GLBs/CHBGMg=3D=3D> =0D
+>>=0D
+>>     RENT_2020_05_31 - PAYMENT CONFIRMATION T2005311443_XF2US0 FOR $3,1=
+06.82 =0D
+>>     - REPRESENTS A 29.72% INCREA ... show more=0D
+>>     __=0D
+>>     Document=0D
+>>     EXHIBIT(S)  - P07 =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D4=
+WL76ylXCtw_PLUS_H5zwmPPkZw=3D=3D> =0D
+>>=0D
+>>     JULY RENT IS REFUSED BY PLANTIFF=0D
+>>     __=0D
+>>     EXHIBIT(S)  - P7R =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3De=
+wwxg8z5wECGtkuHHm8O9A=3D=3D> =0D
+>>=0D
+>>     2020_07_31 - INVOICE FOR JULY WITH 8,106.21 IN LEGAL FEES - LANDLO=
+RD =0D
+>>     REFUSES TO ACCEPT PAYMENT. SEE ... show more=0D
+>>     __=0D
+>>     https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dlq=
+9Z3VE3sO4pTEk1UrHB2Q=3D=3D=0D
+>>     PLAINTIFF/LANDLORD INVOICE FOR AUGUST RENT WITH AN ADDITIONAL $2,5=
+69.72 =0D
+>>     IN LEGAL FEES AND $2,395 IN ... show more=0D
+>>     _=0D
+>>=0D
+>>=0D
+>>=0D
+>>=0D
+>>=0D
+>>=0D
+>>=0D
+>>     _=0D
+>>     EXHIBIT(S)  - L1  (Mot =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DE=
+JfqnPTVv0u9BQ/iFgKRew=3D=3D>ion =0D
+>>     #001 =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DE=
+JfqnPTVv0u9BQ/iFgKRew=3D=3D> =0D
+>>=0D
+>>     EXHIBIT(S)  - OPP  (Motion #001) =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dr=
+jL6yoW3Mt2U6UigWCM9XQ=3D=3D> =0D
+>>=0D
+>>     PLAINTIFF DOES NOT HAVE A CERTIFICATE OF OCCUPANCY FOR THIS PROPER=
+TY=0D
+>>     __=0D
+>>     EXHIBIT(S)  - 503  (Motion #001) =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DS=
+gjFfExxNV4Y4DTX6pANaA=3D=3D> =0D
+>>=0D
+>>     TAX MAP BLOCK 503 - LOT 8 [GIS.NYC.GOV]=0D
+>>     __=0D
+>>     EXHIBIT(S)  - no1  (Motion #001) =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D1=
+9MVPFXy0G0QvnmRLGpYIQ=3D=3D> =0D
+>>=0D
+>>     PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH =0D
+>>     https://a836-acris.nyc.gov/DS/DocumentSearch/Documen ... show more=
+=0D
+>>     __=0D
+>>     EXHIBIT(S)  - AC0  (Motion #001) =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dz=
+e6a1KA9akRV9TGfXXJT/g=3D=3D> =0D
+>>=0D
+>>     ACRIS Detailed Document Information (2019000021408)201901080047500=
+1=0D
+>>     __=0D
+>>     EXHIBIT(S)  - AC1  (Motion #001) =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Db=
+Vk8sIt7n3kGwHqebPg0fw=3D=3D> =0D
+>>=0D
+>>     ACRIS Detailed Document Information (2020000155422)202005200029100=
+3=0D
+>>     __=0D
+>>     EXHIBIT(S)  - AC2  (Motion #001) =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dw=
+TG2YD2PqXuxmoKqFiESrw=3D=3D> =0D
+>>=0D
+>>     ACRIS Detailed Document Information (2020000155421)202005200029100=
+2=0D
+>>     __=0D
+>>     EXHIBIT(S)  - AC3  (Motion #001) =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Da=
+u8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D> =0D
+>>=0D
+>>     ACRIS Detailed Document Information (2020000155422)202005200029100=
+3=0D
+>>     __=0D
+>>     EXHIBIT(S)  - AC4  (Motion #001) =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D/=
+yhElCiKJ0BGv2DF/MOn4g=3D=3D> =0D
+>>=0D
+>>     ACRIS Detailed Document Information (2020000155423)202005200029100=
+4=0D
+>>     __=0D
+>>     EXHIBIT(S)  - ACR  (Motion #002) =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dg=
+cMSDaFzm0ynPeXZKSHgLQ=3D=3D> =0D
+>>=0D
+>>     ACRIS.NYC.GOV >> ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26T=
+H - =0D
+>>     https://a836-acris.nyc.gov/=0D
+>>     __=0D
+>>     EXHIBIT(S)  - Bu0 =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D7=
+Ry3LAoVfWOLjSXhyJZ94A=3D=3D> =0D
+>>=0D
+>>     COMPLAINT #14585819 (7/25/2020) @BBB=0D
+>>     __=0D
+>>=0D
+>>     ) =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DE=
+JfqnPTVv0u9BQ/iFgKRew=3D=3D> =0D
+>>=0D
+>>     600 IN PENALTIES WERE ARBITRARILY INVOICED, PAID, AND REMAIN UN-RE=
+FUNDED =0D
+>>     AND PAID - UNLAWFUL FEES - ... show more=0D
+>>     __=0D
+>>     EXHIBIT(S)  - P/5 =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dh=
+SVGBDz7FlXskw5BZ_PLUS_e_PLUS_ZA=3D=3D> =0D
+>>=0D
+>>     00001_PAYMENT_05_30_2020=0D
+>>     __=0D
+>>     EXHIBIT(S)  - P/6 =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Di=
+K7ZjdNLVty6kLSL4SjeoA=3D=3D> =0D
+>>=0D
+>>     00002_LANDLORD_REFUSES_PAYMENT=0D
+>>     __=0D
+>>     EXHIBIT(S)  - P/7 =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D2=
+lQuDSfPu51L3OhNqqRGvg=3D=3D> =0D
+>>=0D
+>>     00003_PAYMENT_04_30_2020 - RENT PAYMENTS ALWAYS ON TIME=0D
+>>=0D
+>>=0D
+>>     EXHIBIT(S)  - GS1  (Motion #001) =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D_=
+PLUS_TlrEGCsUUcCcvtJ8O/dfg=3D=3D> =0D
+>>=0D
+>>     PLAINTIFFS POLICIES AND PROCEDURES=0D
+>>     __=0D
+>>=0D
+>>     EXHIBIT(S)  - ins =0D
+>>     <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dm=
+zFuOKAUp7O4ARBxH4uCDA=3D=3D> =0D
+>>=0D
+>>     insurance requirement and policy=0D
+>>=0D
+=0D
+=0D

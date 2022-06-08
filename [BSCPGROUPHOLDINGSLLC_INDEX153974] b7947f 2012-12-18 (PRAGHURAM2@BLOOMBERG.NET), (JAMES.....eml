@@ -1,0 +1,122 @@
+From - Tue Jun  7 22:46:27 2022
+X-Account-Key: account1
+X-UIDL: AI6c4ygPjlhdYqACYg1CiPbpgK0
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.150.140
+ by atlas125.free.mail.ne1.yahoo.com with HTTPS; Wed, 8 Jun 2022 01:58:58 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.208]
+Received-SPF: pass (domain of github.com designates 192.30.252.208 as permitted sender)
+Authentication-Results: atlas125.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 8 Jun 2022 01:58:58 +0000
+X-YMailISG: sf7BAgQWLDsv4vSkDkUfm5U0zOY3ZqFvNafON3Ix_HX5gbzD
+ 7hMP9eOlUuN7.snuiwjilf5Tdjni7cPkfezg9h8qGDOeL1LiO9O3v7NKYZtd
+ VFdQXYwGexOsFeirm5UXJ0hCN5sk8l_9PL2RrfxsBa8bzl5XXeVKY3y4Bw7x
+ oeNwJ5Z7mXiVD4iKcufGUc7eTK49nw2v.cgCUpVfho1j3J2BUS73xqTe52wo
+ 4dz3iNs.DdVdUzeYEFyj1AgXGl2To4R0UUkY2o4YitGDXUJFX3BqZi8L_wY0
+ xHOvzA7ZtlbVY.opU7ej5ogH.3djwW9efhD21rMS6yWXs21Sxl9anmw7Xxcp
+ VSYrIvmO0QArNtBYJOXpwFS6cRfbsKYdfGd7KuXq110qrdZUcCw3.xdatErm
+ 9BGJDdz5KrwgvBA1Bnh36tV.hpWYRn_LRVGuAVBgs3QwnkzK8M6sh..gsSMV
+ _AZdSgd4yZmaBscc.uJug0lh3tB29_hrpJbi1Efjv1lxYHn7rusXdmaWFAK5
+ RCZhxSPuDBKo8_0dH0BO_AU7WPkHib9vv07q5.HV7I8W92jvKEqgy8BXS8Kj
+ OJCyGTO4VZHi.rGT31T0xE8ci5LthVnxPmEIUfK6FA_P31DEW62loKM4g5bN
+ tRrKVb8AGDCTYOdlqwGvBreVb4sMSpGR7c0EvNYtXxMp4TjGV9YUaDlvLHJB
+ hE7fxlym6QrGgJD5dkCngRfWDlA0evaAYowsHIlRzzVXojqS2q8KzRFhXqMK
+ rFs87whvF_IEU1QbKfY_TeRmGLfSL8TufhvSlX9VE8uvsxJa.YGprrkOtag6
+ opqUrI9fTzuTl_hotpLxn7jOwkfObbuC0hudMykC4OI3SPkF1n9puANPNyWM
+ MFhRryFhBKqvCC_V8yPqmS9K.nCOz08w2nWHGpO8oY6EeCthBSVcPNW6lPPB
+ rrrOcOMyZw_25OIJO9WaXUJA_B4qiAG_b465S3afJFRcIircvTJW1zS2x7rJ
+ 7BkdzfuVjHcZRTnSbu8YGcXx97h18y334oPaA38hVhBmGusC_phD3zo3n4_i
+ eKTtott8Sg06K8hdWQpcoGjDVI4XnEHo9ry_nEMMlkiFyNH7WlVORyXseBjl
+ 9EeR0kLgRpWH5oMbsNVnPuuCQ.V_xNEj.tz0LVALd9TfHDJcb.Y_jp21F2bd
+ clxbT3Gfww6nLjWggW1SS1GI
+Received: from 192.30.252.208 (EHLO smtp.github.com)
+ by 10.217.150.140 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 08 Jun 2022 01:58:58 +0000
+Received: from github.com (hubbernetes-node-54f642e.ash1-iad.github.net [10.56.202.74])
+	by smtp.github.com (Postfix) with ESMTPA id 02F5D84043D;
+	Tue,  7 Jun 2022 18:58:58 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1654653538;
+	bh=vGRQ5/gfafsWYaGMFjJXc2GK9HYpj1x3XSALvQSf0aw=;
+	h=Date:From:To:Subject:From;
+	b=xItgLbC9J1vRyF3T42H2eP2zLJllhTyjNZ8bSH1VhD5czMil5yoQB+ZlyQHpWoY2T
+	 DvfuCSCqS0XjYpdl7Oce3Ihmd198/0uZ5sLDhzIGCFCXbhFx0cixSk8xEOS831eMyw
+	 ShuGMQyE7v2/INiVra/Y1dAnS4lc8NWDXcTj6xE8=
+Date: Tue, 07 Jun 2022 18:58:58 -0700
+From: 1212-5858 <noreply@github.com>
+To: ms60710444266@yahoo.com, 
+ rule-comments@sec.gov
+Message-ID: <BSCPGROUPHOLDINGSLLC/INDEX153974/push/refs/heads/main/8c9c53-b7947f@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/INDEX153974] b7947f: 2012-12-18 ***
+ <PRAGHURAM2@BLOOMBERG.NET>, <JAMES....
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Approved: 16537-714-487-492, OMISSIONS, OBSTRUCTION, SFITX SFBDX STFGX FILER
+ 1516523
+X-GitHub-Recipient-Address: ms60710444266@yahoo.com,rule-comments@sec.gov
+X-Auto-Response-Suppress: All
+Content-Length: 1840
+
+  Branch: refs/heads/main=0D
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974=0D
+  Commit: b7947f7bd1707c20bf8492146339ca797d48eb56=0D
+      https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974/commit/b7947f7b=
+d1707c20bf8492146339ca797d48eb56=0D
+  Author: 1212-5858 <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.c=
+om>=0D
+  Date:   2022-06-07 (Tue, 07 Jun 2022)=0D
+=0D
+  Changed paths:=0D
+    A 2020-03-10=E2=80=94ice data services.eml=0D
+    A 2021-11-16-483. MSCO docNotice.png 1,600=C3=97801 pixels.eml=0D
+    A 2021-12-18-BillCassesePriya.png 688=C3=97805 pixels-1.eml=0D
+    A 2022-05-09-insidertrading-1-1.eml=0D
+    A 2022-05-09-insidertrading-1.eml=0D
+    A 2022-05-counselorsinsidersaidedomissionsobstruction-1-1.eml=0D
+    A 2022-05-counselorsinsidersaidedomissionsobstruction-1.eml=0D
+    A 2022-05-mifid loan50074-taxevasion-1.eml=0D
+    A aa-ceaseordr.pdf.eml=0D
+=0D
+  Log Message:=0D
+  -----------=0D
+  2012-12-18 *** <PRAGHURAM2@BLOOMBERG.NET>, <JAMES.GORMAN@MORGANSTANLEY.=
+COM>, <COLIN.BROOKS@MORGANSTANLEY.COM>=0D
+=0D
+Fw EX 69 --- DOCKET 385 --- 1.6662-2 Accuracy-related penalty=0D
+=0D
+For liens sold in December 2021.          =0D
+=0D
+ the lien servicers are:  MTAG Services (800) 750-9210 =0D
+=0D
+<support@MTAGServices.com>=0D
+=0D
+  Tower Capital Management (800) 970-8454 =0D
+=0D
+<NYCTLservicing@tcmfund.com>  =0D
+=0D
+=0D
+NO EXTRAORDINARY LEGAL MATTERS?=0D
+=0D
+ UNDISCLOSED BY FILER 93715 AND ALSO CIK FILER 1516523 =0D
+=0D
+<https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7>=0D
+<https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/6>=0D
+=0D
+  *** =0D
+=0D
+AIDED AND ABETTED BY THEIR " ADVISORY COMMITTEE"  =0D
+  =0D
+<https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/issues/5>=0D
+   =0D
+<https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/issues/6>=0D
+=0D
+=0D
