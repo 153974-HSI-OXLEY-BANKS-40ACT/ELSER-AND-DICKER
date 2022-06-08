@@ -1,0 +1,254 @@
+From - Tue Jun  7 22:45:34 2022
+X-Account-Key: account1
+X-UIDL: AM7drE5+8zowYp/0fwGOcLN9iQM
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.135.108
+ by atlas301.free.mail.ne1.yahoo.com with HTTPS; Wed, 8 Jun 2022 00:59:53 +0000
+Return-Path: <>
+X-Originating-Ip: [159.53.49.161]
+Received-SPF: none (domain of sf22.jpmchase.com does not designate permitted sender hosts)
+Authentication-Results: atlas301.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@jpmchase.com header.s=d4815;
+ spf=none smtp.mailfrom=sf22.jpmchase.com;
+ dmarc=pass(p=REJECT) header.from=jpmchase.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 8 Jun 2022 00:59:53 +0000
+X-YMailAVSC: 4dykeLg3bBsdhWuHuP53T3jQaOX7OIORxQIoyFRZIFvuCi0
+ yVVaZ9V3kIld3eMMcbbGqGqeIhbZJi5TwD1rRljcNvLJCueCXNylGi1bjYc.
+ v3vk0R6y1BV7nICRBMwC3mRL4wXh84GLEphyXdBmzwrLK6VPkO8_5yQ7VU8E
+ OhN7etmGeedO3DXTEom3t3y_am0A7Tz9vu6XO72GnqW4GsCXWuegqDP57uQw
+ iaiz8butV12aoiRiMkLE4OqCxQf7QJJafT6KJPRpGbigcTmfDN57M3ilBRNm
+ oV2MJCxpT3fj9Z9voi4z18Zh0tc7z2bhe0ENIqDJH7.f5LWZLrDYFFKxe5bp
+ p
+X-YMailISG: mcPSjpoWLDtlqHSm.VbKSHI3zAO8h4vfzdv9Pq83UR80pANI
+ R0DRatTEVtdlhZCQDZOmQi5Ok9ei8rnfigQsGW7Whnm8lqy2H8jG14WTUeXb
+ RjgWaUfxlCB9hW4lJ4Wx8QkgQMxMOgBpqgZN3FgsfNQ869A.q.zDRQ_vIKhZ
+ XYiDdrm.bClv0P.E2v6TTiC5_rvj4y6xKQPSQBPnZckLLp0MErPOWg7JpH6t
+ Nn8ZBxa4xU9a0pQ0Q.29ks547rxR8KX.ITJUbDVOn4wPqq_aEe6zmx4.rQGm
+ lAyjbwUoHviD.56NCt9pNfJSv8JXsi7C4z_zSGuIlWLpoW1ffNsOpnmosWGp
+ nadPR34vFWLBD6CGZFHncBNwWdMFwKIMja.FvYQ.b7ISDPvAyhRpl7CbZRcZ
+ qk6h2LRpr_nuuXezTGUVFmE5QWXlUlCDgDrxmAZoam04Pji5OKBemHgoMypB
+ TDmhkcug8BqOlFfsLx7RxlEJzI4VN52m.SjqHqsh9KWXXSu6tb944Ly8P0hk
+ vfqyhP4NXn6Tu4ge1B._8mdxZEE2NQTbJlB.W38c2JyrFny9vKHsen4yP7Wz
+ cVWF2eswofGUEtWDcgusblGrR_y2U5S5sRuWQOIEsxiH2rVkdOiQp5YPQ4TZ
+ e._4kaO1.0tZkSeAwqoRllHw9QfZ4mFwWLV2pGrdmejjToeuHyq2zrR3OuTa
+ zP7giPvV3yYShXC9ORZ0INtELIarPYkGVGPaHGLLB40HIMCoGfIyk3Z0S.jf
+ IgwVRRvKn97kfjD01GxvEOrEVrS8h02Xq42_LcmrFVgBm812TVhMSWakRQtT
+ twJJaAIb45LzvXR_wXBxe6XPcnXmmn84pP05Qkw_tbHEuQnEHVlCAu18cnyl
+ inKppwtD.xBTr1s3_eV.FqYbW.AaWdX27w33j0X_l397OaLeHp4nYWV8R4Q4
+ tLRkSBP.bf5EBtbpL6cWm1R.tF7rrlsCzVTItB80qORx.vGEQ9nEoWkumHi3
+ 9fQao2wBUe1pN26Vy5kzcpITEJq2sN15rt92XnHZNg0Z0UZazSZ1CDyDH0eu
+ gWQgRZR1L1pAaqjBiHpSOGHo7rLkOYSwOOezcWgxDD5wwTbINB5ZcqsA2wtj
+ A8VrfRZQPkTB6E1upeC10WJIKSzXxWBoQV9D5CS5TMJb9GXBIscofZMkhOtl
+ Y0spD41tm.J9mcO_GJ4NppF9a7b49lAMIY0kabpK530DUcRqQpreqDHFoEA4
+ YLEop7O044eskA_mi9riHaOJqK7s8paCfRlBcP3BjG2aRYCWU.5NanaKw60B
+ nmlsbRz7TVbcnuGnmWg2SjpLtqnc32JCclXWfTt5NLnM4iQCPERnKJ8GU5Tx
+ LJzwD6joE709v51UHs9F4s9cd3ONl_NSE8GUmTSoRJ8H_rM-
+Received: from 159.53.49.161 (EHLO sf22.jpmchase.com)
+ by 10.217.135.108 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 08 Jun 2022 00:59:53 +0000
+Received: from pps.filterd (sf22.dmz.us.jpmchase.net [127.0.0.1])
+	by sf22.jpmchase.com (8.16.1.2/8.16.1.2) with SMTP id 2580wlUg224002
+	for <ms60710444266@yahoo.com>; Wed, 8 Jun 2022 00:59:53 GMT
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=jpmchase.com; h=from : to : subject
+ : date : message-id : references : in-reply-to : content-type :
+ mime-version; s=d4815; bh=oDUYrrZ/3AU9wmz7wcKyvb7y15LJnZIJ1J38RhRGhFs=;
+ b=x6l1Y9eaTAH2bcuwHPIdYotJs/WpOYR3i9sABdO1m4enJPo1IRH/2XWlDGU5Y/rvXf2B
+ JuqH9mFzb3C4bmBT4h80zilZY7WzJIQA6ShP5wXURYSC7nNpM7sOy8LXvI5k6iSOQ+h0
+ 7X760h92t5gweEgt+CcLQM5m5sUAJRzgFprpkcQGem6xq2lS3wE9MAU8o+KK2bg2+fST
+ hAOPdpWz2SMjPLfW6+ioTYe0ykMAALR5M7aWOdpGfm/n66VXg6WyUfhMyHJkQnUGptcB
+ XPSSoMnU4GWg/0iEHtS5DNCL2yZiA6YSzUHs7NpDMpEcmqLTQ5KVXZ2A1O7AE9TFl8ro dw== 
+Received: from vsin21p1048.svr.us.jpmchase.net ([169.80.188.143])
+	by sf22.dmz.us.jpmchase.net with ESMTP id 3gfy3t7sa1-1
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128 verify=NOT)
+	for <ms60710444266@yahoo.com>; Wed, 08 Jun 2022 00:59:52 +0000
+Received: from smgj4.svr.us.jpmchase.net (smgj4.svr.us.jpmchase.net [169.89.220.171])       by vsin25p9772.svr.us.jpmchase.net  with ESMTPS id 2580xmVW019828       (using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384(256 bits) verified FAIL)       for <ms60710444266@yahoo.com>; Wed, 8 Jun 2022 00:59:51 GMT
+X-AuditID: a959dcab-c32e7a8000004d64-95-629ff487a7f3
+Received: from icpcarl03302.exchad.jpmchase.net ( [169.80.127.26])
+	(using TLS with cipher ECDHE-RSA-AES256-SHA384 (256/256 bits))
+	(Client did not present a certificate)
+	by smgj4.svr.us.jpmchase.net (Symantec Messaging Gateway) with SMTP id A2.B5.19812.784FF926; Wed,  8 Jun 2022 00:59:51 +0000 (GMT)
+Received: from SCAEX096.exchad.jpmchase.net (169.92.38.63) by
+ icpcarl03302.exchad.jpmchase.net (169.125.172.254) with Microsoft SMTP Server
+ (TLS) id 15.0.1497.26; Tue, 7 Jun 2022 20:59:50 -0400
+Received: from SCAEX094.exchad.jpmchase.net (169.92.38.60) by
+ SCAEX096.exchad.jpmchase.net (169.92.38.63) with Microsoft SMTP Server (TLS)
+ id 15.0.1497.26; Tue, 7 Jun 2022 20:59:49 -0400
+Received: from SCAEX094.exchad.jpmchase.net ([127.0.0.1]) by
+ SCAEX094.exchad.jpmchase.net ([169.68.15.32]) with Microsoft SMTP Server id
+ 15.00.1497.026; Tue, 7 Jun 2022 20:59:49 -0400
+From: "Chatman, Malia D" <malia.d.chatman@jpmchase.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Automatic reply: ref.: DECEMBER 18TH MESSAGE TO PROMOTERS OF CIK
+ FILER: 93715
+Thread-Topic: ref.: DECEMBER 18TH MESSAGE TO PROMOTERS OF CIK FILER: 93715
+Thread-Index: AQHYetMND/cEA5lMj06A39csAv4ZGq1EsHUi
+Date: Wed, 8 Jun 2022 00:59:49 +0000
+Message-ID: <0c86e3191e5e40528eb0b624876207ef@SCAEX094.exchad.jpmchase.net>
+References: <9f6155a3-7c05-0d40-07dd-50d556455684@yahoo.com>,<ea826fd7-8760-3ee1-d5a5-21f6ad54e7e0@yahoo.com>
+In-Reply-To: <ea826fd7-8760-3ee1-d5a5-21f6ad54e7e0@yahoo.com>
+X-MS-Has-Attach: 
+X-Auto-Response-Suppress: All
+X-MS-Exchange-Inbox-Rules-Loop: malia.d.chatman@jpmchase.com
+X-MS-TNEF-Correlator: 
+x-ms-exchange-transport-fromentityheader: Hosted
+x-ms-exchange-parent-message-id: <ea826fd7-8760-3ee1-d5a5-21f6ad54e7e0@yahoo.com>
+auto-submitted: auto-generated
+x-ms-exchange-generated-message-source: Mailbox Rules Agent
+x-jpmc-sendertrust: JPMC
+Content-Type: multipart/alternative;
+	boundary="_000_0c86e3191e5e40528eb0b624876207efSCAEX094exchadjpmchasen_"
+MIME-Version: 1.0
+X-DLP-FWD: Yes
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFjrCIsWRmVeSWpSXmKPExsWyMqBeSrf9y/wkg12HxS36P6xncWD0mDXr
+	MFMAYxSXTUpqTmZZapG+XQJXxsHrq9gLNmlXPLq4mLGB8YVaFyMnh4SAicSzGX8Zuxi5OIQE
+	NjJJPFnyjwnCOcoo0bfmLzOEs49R4t7yBqjMbkaJ7XsvsnQxcnCwCZhLTF1oDzJKREBVovfi
+	BSaQsLBAhMSsJ34gpoiAl8T3X/IQFUYS3xbcZQKxWQRUJP7ebWEFsXkFvCXOdkwCs4UEciU+
+	f17FAmJzCthKXJt0nh3iUAGJJXvOM0PYshJv5s9jBRkvIWAjMeFPKkRYVOLl43+sELaBxNal
+	+1ggSgIldnzjBgkzCshJ7Pq5gQmixFqi5/EzqOkSEjcez2YDsZkF8iXu3VnKBnGZoMTJmU/A
+	xggJ8EtMuF0FMZFPYntb9QRG6VlIGmYhaYCI60gs2P2JDcLWlli28DUzjH3mwGMmZPEFjGyr
+	GCWLc9OzTPSKy4r0Sov1sgpykzMSi1P18lJLNjGCYjryzuodjPf7bA8xMnEwHmKU4GBWEuGV
+	DJ+fJMSbklhZlVqUH19UmpNafIhRmoNFSZw3NPdfopBAemJJanZqakFqEUyWiYNTqoFRLUhn
+	6u6LpQqXJs3NeBeql3JF7lfh57Q9riaC767Nf3BKKvnjxFXf1h13z75yZ4nGwgudSxrfhf9/
+	pBZ5OvectlstD5POkpDlU4v/xC+YZ3ZN/+x9tYQDX+2fKgn9LrJVPHn7yZpl0j9edH3t/efy
+	o/H3tdRbR2490X37kTf1s3/7QxajmtWC7UosxRmJhlrMRcWJAJLtVEbXAgAA
+X-Proofpoint-GUID: 3hZSxZ30LzVEMCJdCF5yNKPqLkQ6HcA0
+X-Proofpoint-ORIG-GUID: 3hZSxZ30LzVEMCJdCF5yNKPqLkQ6HcA0
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10434:6.0.517,18.0.874
+ definitions=2022-06-07_11:2022-06-07,2022-06-07 signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 ndrscore=0 priorityscore=1501
+ bulkscore=0 suspectscore=0 mlxscore=0 adjustscore=0 lowpriorityscore=0
+ phishscore=0 adultscore=0 spamscore=0 mlxlogscore=909 impostorscore=0
+ clxscore=1031 malwarescore=0 classifier=spam adjust=0 reason=mlx
+ scancount=1 engine=8.12.0-2204290000 definitions=main-2206080003
+Content-Length: 5427
+
+--_000_0c86e3191e5e40528eb0b624876207efSCAEX094exchadjpmchasen_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+
+I will be out of the office starting June 03, 2022 and returning June 21 , =
+2022. If you need immediate assistance during my absence please contact my =
+Branch Manager Kevin Kilkenny at 212-556-2801. Otherwise I will respond to =
+your emails upon my return.
+
+Thank you
+
+
+Malia C.
+
+Malia Chatman | Chase | Assistant Branch Manager |1251 Avenue Of Americas, =
+New York, NY 10020 | malia.d.chatman@chase.com<mailto:malia.d.chatman@chase=
+.com> | T: 212-556-2830
+
+Kevin Kilkenny | Branch Manager | Kevin.Kilkenny@chase.com<mailto:Kevin.Kil=
+kenny@chase.com> | T: 212-556-2822
+
+If you have any questions, you can visit us on our Chase Mobile(r) app, on =
+chase.com<http://www.chase.com/> or contact me directly. Chase Mobile(r) ap=
+p is available for select mobile devices.  Enroll in Chase OnlineSM or on t=
+he Chase Mobile(r) app. Message and data rates may apply.
+
+--_000_0c86e3191e5e40528eb0b624876207efSCAEX094exchadjpmchasen_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns:m=3D"http://schemas.microsoft.com/of=
+fice/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style>
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:10.0pt"><br>
+I will be out of the office starting&nbsp;June 03, 2022&nbsp;and returning&=
+nbsp;June 21 , 2022. If you need immediate assistance during my absence ple=
+ase contact my Branch Manager Kevin Kilkenny at 212-556-2801. Otherwise I w=
+ill respond to your emails upon my return.<br>
+<br>
+Thank you<br>
+<br>
+<br>
+Malia C.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:10.0pt"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><b><span style=3D"font=
+-size:13.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black">Malia C=
+hatman</span></b><span style=3D"font-size:13.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">&nbsp;| Chase | Assistant Branch Manager
+ |1251 Avenue Of Americas, New York,&nbsp;NY 10020&nbsp;|&nbsp;</span><span=
+ style=3D"font-size:10.0pt"><a href=3D"mailto:malia.d.chatman@chase.com"><s=
+pan style=3D"color:blue">malia.d.chatman@chase.com</span></a></span><span s=
+tyle=3D"font-size:13.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:bl=
+ack">&nbsp;|
+ T: 212-556-2830<br>
+<br>
+<b>Kevin Kilkenny</b>&nbsp;|&nbsp;Branch Manager&nbsp;|&nbsp;</span><span s=
+tyle=3D"font-size:10.0pt"><a href=3D"mailto:Kevin.Kilkenny@chase.com"><span=
+ style=3D"color:blue">Kevin.Kilkenny@chase.com</span></a></span><span style=
+=3D"font-size:13.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black"=
+>&nbsp;|
+ T: 212-556-2822<br>
+<br>
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-=
+serif;color:black">If you have any questions, you can visit us on our Chase=
+ Mobile</span><span style=3D"font-size:13.0pt;font-family:&quot;Tahoma&quot=
+;,sans-serif;color:black">&reg;</span><span style=3D"font-size:10.0pt;font-=
+family:&quot;Tahoma&quot;,sans-serif;color:black">&nbsp;app,
+ on&nbsp;</span><span style=3D"font-size:10.0pt"><a href=3D"http://www.chas=
+e.com/"><span style=3D"color:blue">chase.com</span></a></span><span style=
+=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black"=
+>&nbsp;or contact me directly. Chase Mobile</span><span style=3D"font-size:=
+13.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black">&reg;</span><=
+span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;co=
+lor:black">&nbsp;app
+ is available for select mobile devices.&nbsp; Enroll in Chase Online</span=
+><span style=3D"font-size:13.0pt;font-family:&quot;Tahoma&quot;,sans-serif;=
+color:black">SM</span><span style=3D"font-size:10.0pt;font-family:&quot;Tah=
+oma&quot;,sans-serif;color:black">&nbsp;or on the Chase Mobile</span><span =
+style=3D"font-size:13.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:b=
+lack">&reg;</span><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&=
+quot;,sans-serif;color:black">&nbsp;app.
+ Message and data rates may apply.</span><span style=3D"font-size:10.0pt"> =
+<o:p></o:p></span></p>
+</div>
+</body>
+</html>
+
+--_000_0c86e3191e5e40528eb0b624876207efSCAEX094exchadjpmchasen_--
