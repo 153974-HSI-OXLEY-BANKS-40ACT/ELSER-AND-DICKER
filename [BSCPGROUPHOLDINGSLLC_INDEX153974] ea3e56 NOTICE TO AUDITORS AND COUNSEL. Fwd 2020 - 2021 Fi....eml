@@ -1,0 +1,95 @@
+From - Tue Jun  7 22:47:38 2022
+X-Account-Key: account1
+X-UIDL: AIsRVc1AJeDBYqANyQU0CJvbor4
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.40.72
+ by atlas215.free.mail.bf1.yahoo.com with HTTPS; Wed, 8 Jun 2022 02:47:37 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.205]
+Received-SPF: pass (domain of github.com designates 192.30.252.205 as permitted sender)
+Authentication-Results: atlas215.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 8 Jun 2022 02:47:37 +0000
+X-YMailAVSC: 89FbJlc3bBvgWStY7w1uVh5P800XEcIL_q8NpxMZy83UwAq
+ 3Zknu_dKa_FPM9LoHmAZV9fBqwRmX2dn.ByQKRder9Akq4gyeQzAWJO8WOOk
+ NQLDPtmiE.RmsISBQE4klaWCJLYscSHrnO5QXhY3DsNATwmVOVmla9supjxx
+ gRR5K1fSIkAPzvAFOrErLQbkv_1BTRnntckAuFnTW.ERAgfAnaWHMijOGsYB
+ h43hIWINNe053Pxqvd4bo3uq6J71bPz95Y8mfp07ZP8xkMx_yMUcoKASTUSB
+ DEL4LhYUzgqA4Bz2CY1AA7rBDB1MdLsPToN7ezl9qZPxJDJ65YdrGKB0ZWuw
+ M
+X-YMailISG: eEYMtRwWLDuc6N0_tfAjNXwA_0OXGPn88Wk9Sui8BM68dylh
+ q6WiUmeTALJiCf4Md3yUUvRYs1alM4_BlhDVUYMc.PbKc4JU4Adl0qD6zh7l
+ vwoWKScYBbTUALiONo6iJVrCwISkzND3gUpltlUEdE01wsi7nQ.rFw3objuq
+ GNr5mD47pDoWo0X5cj45BLlk2v4ZVy4gXWLW3NRCUgdHO9LoQEE3YUvM547o
+ sJvQxiKyfEn8hO9xU5lnev5bFocqYS0hFTi.Zvcu8XHZurH.LHXYn_5SgD4q
+ pjPPIFdQ2WvTXlF51y_hvhfXp0aJGv_heghtcskR7fNwBhvE09U_1o9cuDA7
+ BfRmCoJVOHVhwo7_IQiTnP14msJd1LtacNnItjya0Mo1s1LSgGiy.AsBPvYP
+ b4ih_t6ZW92Vz9kQiOKL.9TXDa3or8seOBs_2kbLpxMQVPIxYNIcSSWLP7_D
+ wO.YaQtcZIpwrGhWa6J9_l_U2HBNN1up8Js3Cp._Pv9QfubX9Sa3RF_uQPpL
+ Ryr.mxef4.VxezCcC6Ib8YLaK66CuOyRp5ACk9v4Ukc1h_t74ckB7tzvBAYj
+ EtEBgIiZkHAHofs7ZZ1hMpBulwZEr_SOMNTtk4USxqBvGqxkkKk1VFv.phkL
+ xpuCXIBnN50YUv.sFo6je92Ob3E8U2wZTRMOMjlnyqiizBQ30UNVDHFZSiKJ
+ iWcvkoV9Ui8I3qyAiH_CuxF3FiHj4.aQfWlm3yStiMv1pIvutlVux7AULBMs
+ v8sJEi4Vv_O0IISRzN5h7l5HAI.ixh.l35VbNNGWpBcXzARHoSFKrlIG8z_3
+ KZzUDndE6ciUHp3G3STcbnMD6_E_bEdJKQVfNMwS8VpqoXmXzWzZAoUP1M40
+ GgJ986ssjL.YAa6WzfLyGmz2pZCPWVmeQUuBeMA6NYGvkCepWcw31nYPCtiR
+ .x2NmoVLow5rS3hRkK3ulA0.czn.ZhCwmR12uIkwub5pVT1COfxvE9SZ7cSK
+ pEJBZnEkk_d4rM7xjASC1Iu7PPHZd_qMDpl0_CZyv4Geoc7Jkx2YJbo16Zlc
+ BNuLmVKGTt3ODuGTYKudA4qVEtRHsEco8H.au3sVKKrQ3fSGJaTETAohBfqK
+ on1.v0Ga11KKTCwem_.mngde1Ni8Qy9HtfiFUE02bxg6q.twmZsmkJl6_9By
+ noKvo10iz5cnQKHG_X6DHw--
+Received: from 192.30.252.205 (EHLO smtp.github.com)
+ by 10.197.40.72 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 08 Jun 2022 02:47:37 +0000
+Received: from github.com (hubbernetes-node-cc91d20.ac4-iad.github.net [10.52.211.57])
+	by smtp.github.com (Postfix) with ESMTPA id E570E72000D;
+	Tue,  7 Jun 2022 19:47:36 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1654656456;
+	bh=WIwNxBd3KuD5j5XY0OVs+kVpS7Wiruk3vwL68ZG4FR8=;
+	h=Date:From:To:Subject:From;
+	b=L3shP3XvdOztD3PwXitOXmgCurrD2iY0w/0V/fkCKbrpXcru7Op3Em9XyVEU7WaM3
+	 3xMaZVVZTX+Y/mbr5Pmw/ssRaKuwJqKq86Bic6su+h01HnF8LX0vl6faJDh/WUo1/G
+	 /oxlTUaVkaPs8rU1EjZxVdD9Rbb+W9ZfXyMTFSpg=
+Date: Tue, 07 Jun 2022 19:47:36 -0700
+From: 1212-5858 <noreply@github.com>
+To: ms60710444266@yahoo.com, 
+ rule-comments@sec.gov
+Message-ID: <BSCPGROUPHOLDINGSLLC/INDEX153974/push/refs/heads/main/56ff28-ea3e56@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/INDEX153974] ea3e56: NOTICE TO AUDITORS AND
+ COUNSEL. Fwd 2020 - 2021 Fi...
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Approved: 16537-714-487-492, OMISSIONS, OBSTRUCTION, SFITX SFBDX STFGX FILER
+ 1516523
+X-GitHub-Recipient-Address: ms60710444266@yahoo.com,rule-comments@sec.gov
+X-Auto-Response-Suppress: All
+Content-Length: 937
+
+  Branch: refs/heads/main
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974
+  Commit: ea3e567dbae04211f252571b3671a32323777a31
+      https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974/commit/ea3e567dbae04211f252571b3671a32323777a31
+  Author: 1212-5858 <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.com>
+  Date:   2022-06-07 (Tue, 07 Jun 2022)
+
+  Changed paths:
+    A 2020 - 2021 Final Assessment [ 117 sullivan street, block 503, lot 11 ]-1.eml
+    A 2020 - 2021 Final Assessment [ 117 sullivan street, block 503, lot 11 ].eml
+    A Fwd 2020 - 2021 Final Assessment [ 117 sullivan street, block 503, lot 11 ].eml
+
+  Log Message:
+  -----------
+  NOTICE TO AUDITORS AND COUNSEL. Fwd 2020 - 2021 Final Assessment [ 117 sullivan street, block 503, lot 11 ].eml
+
+Fwd 2020 - 2021 Final Assessment [ 117 sullivan street, block 503, lot 11 ].eml
+2020 - 2021 Final Assessment [ 117 sullivan street, block 503, lot 11 ]-1.eml
+
+

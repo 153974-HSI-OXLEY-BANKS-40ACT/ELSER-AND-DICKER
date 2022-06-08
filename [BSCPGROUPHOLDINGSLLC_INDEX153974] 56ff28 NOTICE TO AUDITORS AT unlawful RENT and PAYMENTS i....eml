@@ -1,0 +1,93 @@
+From - Tue Jun  7 22:47:38 2022
+X-Account-Key: account1
+X-UIDL: ABWXbqVZ29bmYqANqwqW8Lw0A60
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.137.18
+ by atlas205.free.mail.ne1.yahoo.com with HTTPS; Wed, 8 Jun 2022 02:47:07 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.204]
+Received-SPF: pass (domain of github.com designates 192.30.252.204 as permitted sender)
+Authentication-Results: atlas205.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 8 Jun 2022 02:47:07 +0000
+X-YMailAVSC: Bpu8UEk3bBuLt3L.r23PuuP0B4q3mQjNZnm7bcafDPDU2X1
+ ukHu1_IdciiUww5fPkDoS3TGcxnQtGOQO2GZxxOvR0CHVgfjPDiYwP0CZCXf
+ WkbOBW_rObwrs7AGoV101_yqyJ2NlEprd5495IE.rv4ZgbeCo4hvRWXkAMvJ
+ 9O5e2sIobNARhUbE1a2wY9uBPsD2NHKrDvplZVd4QjqIyZEEjdfwzFqyViPN
+ XMAAOHHbEBrfzsSf8QfoqQ98yL_FZlWAjiC8.NzuCdFkMJxrXV92AChdfZ59
+ wIGhYXZ7H5U1162cfgDIFkZJmTwbX9u6CuUexDP8D0ufle9zl70m7CGMQrMN
+ d
+X-YMailISG: nPI4YhUWLDvukxkj7SscO7PtxmNqZUGKsg5z_zKpgUgymkap
+ ZryrAj7vAx.8OGDCREzTV54rNaEZ7gTMdD6rjLXG10Xbi6NI3.jQoSD.icnx
+ tLLs0eLtGjILOf2ecMsmU.Ptq7gxr3OZQtYy.LCwplb8cdrRVIXTaPx5uAZ3
+ ZBPae8mGhILj5uBmU6I6hGqIhPJWYAs_ZQaXY_fYASX7jClZ_Q1rKcLkY10.
+ 9aMpLpTUdARggUNa0vLIEJ8ZVrBvCP5rjpO8QaZDE8cLbgAW_v4bC33QHoJD
+ J9zHlqnZ_LDi9.yvrgwbfeyXDMhOOywRlUu3IvppdKyaiQ1QkkDL9hylJ3TC
+ IDeWK0OJ65uMoc5Ot.U.qWefKXoVEb.gx_U4ZrEFLxBxaPBF29fSio4BUTLJ
+ 5_HnkwEfSewfJxaFlVQl2B77qT2AaMi_WXfq8uEi0XdefWY134frnWl.j9dt
+ X3PlWdAXIhoxyoq5C_mDJTUffn3GV1adzsCJc1q.i.t9dVyqwUFbfH4QUW.L
+ CdmDlzmLlVjHYNZV7QQztN3QgVEo5rm9ZCRrWAAALR4LJKCBSmvMy.7MaZEt
+ QvX5TklN0xQZowpJEISb4FE77tKtJ41Hup7eHXLQzz1ZQ4IHq90JaO50WFAH
+ RLnuz14XeindF8AwYNiZp7gBGs6zgjMq0u1AnHnny2stPk970ZmRElWlDvrZ
+ 0lGyOXwbdO3FlAVdinB1v5Pd_ZHOBYZabn5MdCLwMpXK3QuEYDJLH6JalFl8
+ _nunC7G4sm4Uab7tN4wJEtVhtT9rLA.k9sskUDr.2E5rQKKpn.3HE2.52p7n
+ ._Dmgo2wTu4_3LEEHH6o.tYDRlWrZD3wqbMudXqJ_bkzwca88HDo.aSrtind
+ qkVT9ma8XBevL3mUNOdzh0jJdfy7RzTXaPFmT8pm_LDaEhNnHD5vAO2d9hNE
+ 2aEYPN2PsHiG455_UKLfGG8IUqEih2VCDfn21UGie9k_TvG0xLwgO0PSSySk
+ lhhgZXRbKwiclP56jtM267tI6.TozaxYmTAJeP1F4dVKzTAC8s_M3YPCBd8U
+ LvAZ2uLHupnZXIlsKDDF6O_L3nGw7sepiGxRwUB27A84QeyctsDGpwAvcQhc
+ zTtqv.k6RQZIF6HWmQQJ.j35JkX8Fl9lD4Lw4MIdbVC3Q8sKJA8ub8oSB1bL
+ CxEAkK.3VjVL09_rFpcKzQ--
+Received: from 192.30.252.204 (EHLO smtp.github.com)
+ by 10.217.137.18 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 08 Jun 2022 02:47:07 +0000
+Received: from github.com (hubbernetes-node-859ede5.ac4-iad.github.net [10.52.201.22])
+	by smtp.github.com (Postfix) with ESMTPA id 00BF9520A3A;
+	Tue,  7 Jun 2022 19:47:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1654656427;
+	bh=Z05I2BFH9KrQVNQlohrGIizoU1uVvbaeyUB8ORi38J4=;
+	h=Date:From:To:Subject:From;
+	b=WF9L3WGDBYP5EorLeWwjNHjeAhkBGpyLDT/o0lG/lfedWY/geM271bzo9z7Ci5UEk
+	 84xTG+UChhDAarK2jBC/eSoGLbRB6rWlMK6lj39oziRlS4yRj9nRUuhXnDkUbuLiEM
+	 GA/oUQSYsh5Z4/udUAg5+3ChCed9GXeX8nmjFr4A=
+Date: Tue, 07 Jun 2022 19:47:06 -0700
+From: 1212-5858 <noreply@github.com>
+To: ms60710444266@yahoo.com, 
+ rule-comments@sec.gov
+Message-ID: <BSCPGROUPHOLDINGSLLC/INDEX153974/push/refs/heads/main/53e18b-56ff28@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/INDEX153974] 56ff28: NOTICE TO AUDITORS AT
+ unlawful RENT and PAYMENTS i...
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Approved: 16537-714-487-492, OMISSIONS, OBSTRUCTION, SFITX SFBDX STFGX FILER
+ 1516523
+X-GitHub-Recipient-Address: ms60710444266@yahoo.com,rule-comments@sec.gov
+X-Auto-Response-Suppress: All
+Content-Length: 813
+
+  Branch: refs/heads/main
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974
+  Commit: 56ff28f0ba40c826cbcc59cda1eb888ecd3c9f5d
+      https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974/commit/56ff28f0ba40c826cbcc59cda1eb888ecd3c9f5d
+  Author: 1212-5858 <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.com>
+  Date:   2022-06-07 (Tue, 07 Jun 2022)
+
+  Changed paths:
+    A unlawful RENT and PAYMENTS in CUSTODY at JP MORGAN CHASE BANK ) AS OF CURRENT (-1.eml
+    A unlawful RENT and PAYMENTS in CUSTODY at JP MORGAN CHASE BANK ) AS OF CURRENT (.eml
+
+  Log Message:
+  -----------
+  NOTICE TO AUDITORS AT unlawful RENT and PAYMENTS in CUSTODY at JP MORGAN CHASE BANK ) AS OF CURRENT (-1.eml
+
+NOTICE TO AUDITORS AT unlawful RENT and PAYMENTS in CUSTODY at JP MORGAN CHASE BANK ) AS OF CURRENT (-1.eml
+
+

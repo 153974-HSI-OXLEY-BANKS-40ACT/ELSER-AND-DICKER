@@ -1,0 +1,93 @@
+From - Tue Jun  7 22:47:37 2022
+X-Account-Key: account1
+X-UIDL: ALkVdEVk6uycYqANXAKIcOAvY2Y
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.136.216
+ by atlas325.free.mail.ne1.yahoo.com with HTTPS; Wed, 8 Jun 2022 02:46:41 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.210]
+Received-SPF: pass (domain of github.com designates 192.30.252.210 as permitted sender)
+Authentication-Results: atlas325.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 8 Jun 2022 02:46:42 +0000
+X-YMailISG: uM4Y9vQWLDvgexCUdk3seQq5cRjmpYCbJ7rMXrMjrOXzMfFg
+ M9QT05zOvDzPYuvDQykfW9RoY00Fjen.TnKNB3uc3IsSNPnP7lywWlh7fet2
+ Q1O0MQIC52NurXRuhibFQSxC3WdK4YgiwHKrpLDVHkswlzVrIAO6OqQMTDtI
+ 6JpbHah4AIIPCAYlLP1fSGRhQXnwgSscE3cDPhT2SFUxCIFivFUB3HcHLZSo
+ xn_fkzPiMJo3UwJZ.i3i7XQ34P4sUg4HpbshTiUq.lS74_P2e3BUreclflaV
+ EMV5GOJWDUpnaK.WW2GSIeRy9yv4yAHWkAzFVWzqnCH7QGeS4K5h90rL2Qj0
+ 5OMUr2b6vpx8ZX5m6lodYYwyPpyarAgiPbUE2YjbYOd1vUqw7fbLHBsbXNYg
+ kPo8MEhP1K8RHrBywKEghk9qWosF6KimSQNhSbXhxuzdHA2o1Eg8bPBf5vAJ
+ w_xGrrBWSIO5cO.vPw5.Gh43QOYfmVDejiy4FMYLj7sDzl.jwZCSN2qCZ.Gu
+ _K5syYUmImvgLodOaF2tSwgL_FNyj.2cof5YPYcDzHXuP7Pju_fchgS0n7FB
+ LQl5Q596SbL9cd3CZVQOG.Ckuj1V6fxfsvvfruxQQYzEeDf3GzfXs0lJiL1v
+ 3W2dBKb_GscyDOUCZP8wteIaoysYseiUf7UJ98nC_19Zx1mxUrIBj6vev80n
+ TqgniYhgPrF1LaqYV4ieR06LnF_1tT8wwpdouyT2j7_Bfg4ssrRmS32Pj_gi
+ DS9uY_VD3JMaOOO27XwUXajODcLjkwlDo7T69ZY4wVxiJciBa2_M0Z1zuBGW
+ wG43MuugTuOjsvnyAIc52oJkY06sOcCI28myb0pFLol489ENEy9.Q1i76EfE
+ oJXpiV4m.QQctvuXORuH.5VKlwQIH0PnMqOb8qsZYjm_Cv14zU2wbasPj_yZ
+ ctj3QIJfffoQFdK61Jbhwm2FJMwK8atQ_Zg.M5jjnMitbIAy8b1NK2LiyxfF
+ 1AsJzmrU6FDouBqgx6GSJiMH17si.yeliH8fMfLe6AIqCQ6stHb_itHc_5Xw
+ L26ZCY6RMLyEx1deM.nkvT6sPwMoOalfBJJPn3W4MQLlH5C88eMrDr0.e8ID
+ 54ckGQ1qDCY5D.6ESpjdPK5FeybZwCVJbcuv_o50GrtFGl9cB1W_Vn5u6_rQ
+ _NA9TuXgAk5EIdb0WQovQQ--
+Received: from 192.30.252.210 (EHLO out-27.smtp.github.com)
+ by 10.217.136.216 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 08 Jun 2022 02:46:41 +0000
+Received: from github.com (hubbernetes-node-95b15f3.ash1-iad.github.net [10.56.209.90])
+	by smtp.github.com (Postfix) with ESMTPA id 6EE4E900496;
+	Tue,  7 Jun 2022 19:46:41 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1654656401;
+	bh=1CzccrxFo0SITi7emuVoJrHN++TxzrodYYwGLJ+LIYg=;
+	h=Date:From:To:Subject:From;
+	b=QB86YC7P2Qmt082Mz5cKTzU9fDqJBOGfmUwgWMKoHjNOKAWZ59CohchfrkZiWgqxF
+	 CQ8FAs1ZXqHdcWcjRO+brvrt8uHrzepZFFW/C4RlpytLMNHjCY5aAzT5wTmaOdwY+r
+	 hMzEKshhjfbSOM/qTWR3QVN902MKBZKE1Ti4VZCQ=
+Date: Tue, 07 Jun 2022 19:46:41 -0700
+From: 1212-5858 <noreply@github.com>
+To: ms60710444266@yahoo.com, 
+ rule-comments@sec.gov
+Message-ID: <BSCPGROUPHOLDINGSLLC/INDEX153974/push/refs/heads/main/a10199-53e18b@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/INDEX153974] 53e18b: CLASS III HOLDINGs.
+ MORTGAGE AMOUNT $3,580,499.97 ...
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Approved: 16537-714-487-492, OMISSIONS, OBSTRUCTION, SFITX SFBDX STFGX FILER
+ 1516523
+X-GitHub-Recipient-Address: ms60710444266@yahoo.com,rule-comments@sec.gov
+X-Auto-Response-Suppress: All
+Content-Length: 909
+
+  Branch: refs/heads/main
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974
+  Commit: 53e18badcc0fbee4986ddd02bc22f27128e1ac38
+      https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974/commit/53e18badcc0fbee4986ddd02bc22f27128e1ac38
+  Author: 1212-5858 <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.com>
+  Date:   2022-06-07 (Tue, 07 Jun 2022)
+
+  Changed paths:
+    A 40-17G OMISSIONS, NOT COVERED..eml
+    A CLASS III HOLDINGs. MORTGAGE AMOUNT $3,580,499.97-1.eml
+    A CLASS III HOLDINGs. MORTGAGE AMOUNT $3,580,499.97-2.eml
+    A CLASS III HOLDINGs. MORTGAGE AMOUNT $3,580,499.97.eml
+
+  Log Message:
+  -----------
+  CLASS III HOLDINGs. MORTGAGE AMOUNT $3,580,499.97 40-17G OMISSIONS, NOT COVERED..eml
+
+ABOUT THOSE CARRIED RISKS... GO ASK SOMEONE WHO KNOWS WHAT THEY ARE TALKING ABOUT.
+THANKS!
+
+40-17G OMISSIONS, NOT COVERED..eml
+
+CLASS III HOLDINGs. MORTGAGE AMOUNT $3,580,499.97-2.eml
+
+

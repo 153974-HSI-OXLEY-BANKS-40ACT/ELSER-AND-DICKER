@@ -1,0 +1,110 @@
+From - Tue Jun  7 22:47:39 2022
+X-Account-Key: account1
+X-UIDL: AJFpkd99p8jIYqAPLAHM8CPvrNE
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.230.152
+ by atlas124.free.mail.gq1.yahoo.com with HTTPS; Wed, 8 Jun 2022 02:53:36 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.207]
+Received-SPF: pass (domain of github.com designates 192.30.252.207 as permitted sender)
+Authentication-Results: atlas124.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 8 Jun 2022 02:53:37 +0000
+X-YMailAVSC: juw81Sk3bBtmYHv1gZbov_nxPsiIYwSkOkFwWRMK1dZex29
+ HG4x7x8aHckGsvyJ_wHy89VeIt5h0LFWpvRdw7NgMmYFFOaU2L2SeywZuBv8
+ 7U4REVdPUQsXkJSE5BrN2TFzVR6eRA0XUVtB1_iGt0rieN0JC_srO.m.Qe7j
+ JBpuqxRX0GLuo4QOIVazZyLGoenr1XmH2nltiBvtazjZ1TF9QWfvXCrP8LS_
+ V5wvhTgAGEiHqAUjJoyeW8bWPNN76wX56ZT8fArEtusV.pGrYko3.3zPr65s
+ hDrvuHK0hFunknBQoYsQRinuLLkDMvCpw3yelxb5BfjIGKx6XnWCU4An0JxF
+ _
+X-YMailISG: LjerUdAWLDvxq.5ZEz1kms1YGZOhgz.s3WBpo2bVEBiJa4Hd
+ tihyuOq30n8RjG..ruk28GEdxF64d3BXva9fgstGgfrEffBRps7od0n31gaO
+ 552b5UnkwS2N6wMkne20rpO83xQ.nAbvdqaSlgb95lqqiaT3EtN_gdYeZIxI
+ tNPM3xvEJu1P8eknRFZKTNI6dTkAPdpm_88qMQZc_eOiUw9G6IbIlaBwmKd_
+ I2JC8yeALwT13cZWsz1.ltVhLL3gTCOiInDB1WM8gtCVQ.efSPOWSiBiEIr9
+ NnFt2RpFW63c_J1BvYIb18b8rQbkGofH64FyiuF.P6VS826ifxYS2RM7uV_l
+ ywQyIwPJcO100afZsRBAZP8sF.M56FtXeS.3iZ1znp3t_r.Y41XqX8_fQ3YD
+ Snz_Y6EKq9JSAmzuo3z3jg91fJBKgYgTbwQnba.Yq0i6agU3QAfAZXd9kTuE
+ R5M5jKnk6IGITiWWJApm8UMufUcQY4mXfnzTOI9f3QAO1lIauDmTtRaF9bXs
+ 2LGKsRvJAummF_P_OvpG8I8oQbxPBQxVMNMxSoCETwjEcT9mpx.TzwJJBmlr
+ A_lwpayctxCXveBdgVWClrDf6iJzx31toakM2faSEtcJXd75f6Hlb650vjiR
+ iiXDF1v5WGETu3GFW18tkWuxuHU5pFwDR6qwMsHbtyYFN53odBfPNbxoNaFI
+ wZPSpS8.wJBv7AKUHTj3zPwn5wn_Uo_sjfQasD3GSlDBUJaOabVTPGwSnpah
+ vwv5.z093FPNBkokofeMrz89j52.HzsZLnCTYMGXokp7cKbnzgoFuAbUfezy
+ jgQWRNLjo6rMYU1skuK97U8Y0mcpvAcCPu5k_qO7PK7y18.5faBgTE.TsKx7
+ c1GwkLAH6hqjI9z1y0CYC32DQD0RSvlo3NTy.jHXqgMaAnSCpcqeP7hWUFfs
+ 1PQBShkdsbPaBOzLQ9ZQK4c5L4ccvxc6DEXAz.EWRw3V32yFgqgklv4lWrM4
+ MLT35RLx5oTNz7Wr.xPQnF9YNpsPk0EAGth4YKDoIiHwM3QiGw_nlafWdqw7
+ 3vRwaNVQD0M1IJGqFLOizbOeIto.HmlpbifIk5Ny9RGOTu1oDk_hZyGPqajD
+ bUAPwjzRwnkqv.Qs.Wkzcojv.suvTaU9PmG6CTlmm_w0IdHaiSTtYiLchUG8
+ dmU-
+Received: from 192.30.252.207 (EHLO out-24.smtp.github.com)
+ by 10.253.230.152 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 08 Jun 2022 02:53:36 +0000
+Received: from github.com (hubbernetes-node-0541ee7.ac4-iad.github.net [10.52.14.35])
+	by smtp.github.com (Postfix) with ESMTPA id 3E50560003E;
+	Tue,  7 Jun 2022 19:53:36 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1654656816;
+	bh=JcQGLQ3h4FfU/yRnEqmAnF6tWykWHbplCRnik/7nWeQ=;
+	h=Date:From:To:Subject:From;
+	b=2fIGFvAacEVFuUvc1OBc6wwNSAEGHTaXfcZYU6DToUENXy8NGC2N2U9ffgNv3XbZm
+	 uQEHPK5jpG3rDoLSJOVg7fFpkNPOs49ffLUV7NtFku3mTBnjaxXKpOa9LMII5RJ7/C
+	 LA/cP149Lqjs/Fg3khaGGhF99R78ROHD7F4mUidc=
+Date: Tue, 07 Jun 2022 19:53:36 -0700
+From: 1212-5858 <noreply@github.com>
+To: ms60710444266@yahoo.com, 
+ rule-comments@sec.gov
+Message-ID: <BSCPGROUPHOLDINGSLLC/INDEX153974/push/refs/heads/main/3cae28-44d4b0@github.com>
+Subject: =?UTF-8?Q?[BSCPGROUPHOLDINGSLLC/INDEX153974]_44d4b0:_Fwd_Loan?=
+ =?UTF-8?Q?_50074_=E2=80=94_ANNEXED_153974=5F2020.eml_[Fwd_LOAN...?=
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Approved: 16537-714-487-492, OMISSIONS, OBSTRUCTION, SFITX SFBDX STFGX FILER
+ 1516523
+X-GitHub-Recipient-Address: ms60710444266@yahoo.com,rule-comments@sec.gov
+X-Auto-Response-Suppress: All
+Content-Length: 1317
+
+  Branch: refs/heads/main=0D
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974=0D
+  Commit: 44d4b04ff971688376f5f50e09bfe437d4ba1f5d=0D
+      https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974/commit/44d4b04f=
+f971688376f5f50e09bfe437d4ba1f5d=0D
+  Author: 1212-5858 <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.c=
+om>=0D
+  Date:   2022-06-07 (Tue, 07 Jun 2022)=0D
+=0D
+  Changed paths:=0D
+    A Fwd LOAN 50074 by and between State Farm and Sullivan Properties LP=
+.eml=0D
+    A Fwd Loan 50074 =E2=80=94 ANNEXED 153974_2020.eml=0D
+    A Fwd U.S. Generally Accepted Accounting Principles (ASC 820, Fair Va=
+lue Measurement).eml=0D
+=0D
+  Log Message:=0D
+  -----------=0D
+  Fwd Loan 50074 =E2=80=94 ANNEXED 153974_2020.eml [Fwd LOAN 50074 by and=
+ between State Farm and Sullivan Properties LP..eml]=0D
+=0D
+Fwd Loan 50074 =E2=80=94 ANNEXED 153974_2020.eml=0D
+Fwd U.S. Generally Accepted Accounting Principles (ASC 820, Fair Value Me=
+asurement).eml=0D
+[Fwd LOAN 50074 by and between State Farm and Sullivan Properties LP..eml=
+]=0D
+=0D
+OMISSIONS, OBSTRUCTION AND A FAILURE TO SUPERVISE A LIVE MARKET: STFGX CU=
+T DOWN BY $12.12 AND IMMEDIATELY UPON NOTICE TO CRD MEMBER 8209=0D
+=0D
+Fwd 40-17G` NOT COVERED....eml=0D
+LOSSES REGISTERED: THE GREATER OF $850,000,000.00, IN A MATTER OF DAYS.=0D=
+
+=0D
+=0D

@@ -1,0 +1,92 @@
+From - Tue Jun  7 22:47:39 2022
+X-Account-Key: account1
+X-UIDL: AJjzenoPhEJVYqAOkQnbcEHKt4w
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.135.43
+ by atlas320.free.mail.ne1.yahoo.com with HTTPS; Wed, 8 Jun 2022 02:50:22 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.208]
+Received-SPF: pass (domain of github.com designates 192.30.252.208 as permitted sender)
+Authentication-Results: atlas320.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 8 Jun 2022 02:50:23 +0000
+X-YMailAVSC: XoEdkyU3bBvgzpPiQPaO14Ir9EF7rExfA45LRuwpSCq7MQx
+ Ess7bAhBP8J2uK73BWRyuBth3EDkVfPwzBhdhtygH57Epl_.N89ijwDQ5Hqv
+ Azh_qih1X7o7XJvrUQ_tpzJTKGdK6ZfnLU6T.zZJCcm5YoiSnRxQfS40u0qJ
+ oj3cD_sS.5wqs0xYx6TyttXzerSGIuR3x_AqKGNdpDvWl_FgCtJ23bHHT6s3
+ kJweP66QJSqzg7CW3s8JXFjdfR.o98Az7FVONOovLUtGVJrSVVPuKhLCvcqc
+ JmyrLuU87hFBMbq375uCWPYHdPLjEwo5Px085EiShdYxPBJf4G40vvtFNqkq
+ 6
+X-YMailISG: HfaJ.JsWLDtxhJG_KL4CEwrSz8lOCe7wjSkmR3KMQFmpDHrQ
+ QzVnAyYyqbKpcFUGRFFG7dJcTk6J422qeyY0vsO1d5k9pcBTDvNprYnnHROk
+ U2Eyv2g2HtDOOgMCNstkpmJTjspQQeXwYnw_7D9anH9JLcx.wdZ5wV6mhJnx
+ XWVtEZPkYVtHOik.RTSV79Z2DbAKpUSxvK6TRY7KdrPI3f2pmPerbF7ZFCk4
+ JXEo3Tl2UC65KyXgPLW_MXiWBDaDbTTJF68VMJNSiTCVgPmNZKbQDzl_9xiz
+ JKtEwIpPIcTsuEZmlnenhvK3e5S21LlDLptF0KdINSeQu3LubAaTwlNT6M0n
+ sme7PX3y8c6itiklx8vQDRatBRr7Rbi5BwUD6T60TDOnaHa.YWYIe2mOsqG4
+ 7SC918r5mSozn9ueSfv.7yrJaZ5gZkZnYRGjvipgyyU4aAHcfEDxzyFVM13w
+ K8GZh9O9x1pMalzA6M5HfXkPsTwW6vzvBvtW2WfZ8zeeLrcJUcqPSWSIal3C
+ hWK2pwkp2zhmsP39owy1cbsRQxcmG3sCpr2hGArYfkKP1J1x.1CFszQ395ny
+ x4ODaUXjta4q5Xpp2Hk5XoFljMFEZmF2j7j7I3XwfajYktB9uv4XEGRDegNi
+ XKzuIziB5m8aVhiyz2SlTBWPGJaSRmp8bEMICpQY6dgPtJhUxMHs.t13z0yz
+ iXvfC4LXe_lsdyVH36pEBe8Us76pMaP3oIA5XkcMBHo0EKeSA9PHNBgkZVEX
+ bfd6t0So3NRJ34VGTusuBQR6JcqI365Y6TO.2dLSZ9Q8lFYs7TT.Tiu.hI3p
+ 7OCMpq8nZc8s14_6yBWdsk2nAG.GlwRPKeXaObjyj5kaIQL9rzYcLRoLvNuZ
+ bbrIpp2crkFK_aYPLPHAcd68VVun3TGOOGDtZLqzco.o_I.mt6_R5QRsz9wk
+ 0j0SFXvKN7Fy2FSMSaxes.uqQNKrAzVM5s34eV2mR.cue9sfG2NXOExGdBgt
+ 0KBbfcO.xREaiccCdmMYRzmb9k5E_Phb.7lsYVAamIE1TQjRNnnvtTf2Vn3q
+ Zrye7r4iGipkK7_vkuwIcx8Q.5Efz9wwoDFZ9bpBK_pc4UCBt8aPpmc86dML
+ SqJJIVvQIg7NuhH8dZvkV2McWEKyqB.gA3pNy9qFSayZwck.rri8Y3Jz8YQ9
+ ZPjN5Me.Tz7eZGRDXcw-
+Received: from 192.30.252.208 (EHLO smtp.github.com)
+ by 10.217.135.43 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 08 Jun 2022 02:50:22 +0000
+Received: from github.com (hubbernetes-node-393e205.ash1-iad.github.net [10.56.226.59])
+	by smtp.github.com (Postfix) with ESMTPA id 6895084022F;
+	Tue,  7 Jun 2022 19:50:22 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1654656622;
+	bh=OOKvNsCuHIAIWKKVChF3dv9L/vcCStanI0EGAhwJFdo=;
+	h=Date:From:To:Subject:From;
+	b=LTN43FC7jptr00Z+lUtCvrAj0FDT29KHjB0Yxn7ehUDR4K/MKPpDPhIkDrjX51r8t
+	 ZO0EfLU+v2hhVBxO+6xoqciyP51s67yLHiWRJ8bBLf15v3+FFmVyHN9nXMPBHgx25V
+	 bTXa59HSeevI99yvlBSzFBGiOAkneSSQXAWEmhwE=
+Date: Tue, 07 Jun 2022 19:50:22 -0700
+From: 1212-5858 <noreply@github.com>
+To: ms60710444266@yahoo.com, 
+ rule-comments@sec.gov
+Message-ID: <BSCPGROUPHOLDINGSLLC/INDEX153974/push/refs/heads/main/a976b7-3cae28@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/INDEX153974] 3cae28: NOTICE TO MORGAN STANLEY &
+ STATE FARM: U.S. Genera...
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Approved: 16537-714-487-492, OMISSIONS, OBSTRUCTION, SFITX SFBDX STFGX FILER
+ 1516523
+X-GitHub-Recipient-Address: ms60710444266@yahoo.com,rule-comments@sec.gov
+X-Auto-Response-Suppress: All
+Content-Length: 753
+
+  Branch: refs/heads/main
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974
+  Commit: 3cae28816d7d7914718eb8bbe941769c2fe345e6
+      https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974/commit/3cae28816d7d7914718eb8bbe941769c2fe345e6
+  Author: 1212-5858 <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.com>
+  Date:   2022-06-07 (Tue, 07 Jun 2022)
+
+  Changed paths:
+    A U.S. Generally Accepted Accounting Principles (ASC 820, Fair Value Measurement)-1.eml
+
+  Log Message:
+  -----------
+  NOTICE TO MORGAN STANLEY & STATE FARM: U.S. Generally Accepted Accounting Principles (ASC 820, Fair Value Measurement).eml
+
+NOTICE TO MORGAN STANLEY & STATE FARM: U.S. Generally Accepted Accounting Principles (ASC 820, Fair Value Measurement).eml
+
+

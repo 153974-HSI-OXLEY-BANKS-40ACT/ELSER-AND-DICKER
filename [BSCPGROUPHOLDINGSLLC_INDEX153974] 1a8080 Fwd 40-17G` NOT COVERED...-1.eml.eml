@@ -1,0 +1,89 @@
+From - Tue Jun  7 22:47:38 2022
+X-Account-Key: account1
+X-UIDL: AM5IOfUIWu3CYqAOBgU0CFkFJpc
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.135.44
+ by atlas319.free.mail.ne1.yahoo.com with HTTPS; Wed, 8 Jun 2022 02:48:37 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.209]
+Received-SPF: pass (domain of github.com designates 192.30.252.209 as permitted sender)
+Authentication-Results: atlas319.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 8 Jun 2022 02:48:38 +0000
+X-YMailISG: 8qEWCAwWLDvzROPutcdaJ2cJg5JVOCC2K9xRTjTxPJCxrb9z
+ A1G.4mcaIq5Wx.xIF8yixtqad_p3eOH6lL1egElpI2T7smN95IsPXhzDWkOo
+ 5ScV8C04gRWC2qt31Uzb7vGtxFYc1jbKecSPXobDSedlB8XRkmuC90rqVJOE
+ D0E0RQTmDNdcSNTvOyxr46C0VzgOdyNRG5UcfpJ1IaI60M49IYnbte4KIFSe
+ 8dgHkS1R2unZC0GzkPfX686v_e_cEMLUkWy4.j9Hipt_oPBUGmyJIJnK5ipS
+ FHcLtecw63_Wt2GAD349WGBlLC33rhXwTzeVnpLrVtAY7xeNLGpOu4jz59y6
+ bD.p53PJMTGpERn8qgsRNTQqANGbbdYGjT1khcgiauOq6yfZRsabWqhZYubU
+ PKhMOG_vDRBnA_5BKULxWLztr6nTJp2Mqzj.vo6eMg.lsDtPUtJz85wq3IMx
+ ww7zaQT0eJebbLMJ2PXHedDzgrvFutNLV6y8a1N423hH.hH_bNNLwUFxhbE1
+ 8YVVQfEd5uSfifJmFnCS6R8WG8dbDWPMJOOtNEfMOIqnxATqPPcz66E0zKAS
+ iEtQGjL4ALCnhN5dDrZkzUKV_l3ea0F08ZAxS5t94WcCKKiEOD0u_HOLNToY
+ 4Kd4P1A7KeezHAIK99zJ_Xz31MyEdDnJE0AYWFzmuxN6VUAk9jFvCsCVXsKk
+ EeGHj9soITIN6X4UWJesWht5yDU1XU2Pl49Jspgj0Z6WPiIwvaj_w65NtIbk
+ BiHbRyIoOMdh.gf66jKgxwJCWTyTy98nrRhYJLQD8ak4EMJWgOVy8Ikv55GJ
+ c5fZXe0vZx7YrOD5CVfHMkRMSHXcjQbbUjPyh_7S788vwkzPMTZoqVeANXbd
+ gTxtArc9ZGaAiLLJaGTU8WXZi_IR_gupZ4_IYaUODLkWLxv4oh0jDWPV8haW
+ Yt7chW3gO05vbXyTMZyUKxxjEaIrUyqU0AH9goykhMZo.v.bTYU.ksYodQl_
+ mY03hXl9Mnpbkot.VXwvy5impEinGpi1UMgo5xI21tEcsSPDBMkckrdOAMsM
+ nbGHGMetQDL9pBqQnQPP_I0iKa6rrvwLdLO3M7GVfr5OI3UcBO03_8C5poVX
+ BPXbtxRmU0zCxI3iddiY7OGbVUiUAA_CXmb5Sv1Rim8Rat9hT8pT98el3zKF
+ Iv3mvgFuq89S.ntiGt_86BJVLdKV9lLf
+Received: from 192.30.252.209 (EHLO smtp.github.com)
+ by 10.217.135.44 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 08 Jun 2022 02:48:37 +0000
+Received: from github.com (hubbernetes-node-98d024c.ash1-iad.github.net [10.56.203.105])
+	by smtp.github.com (Postfix) with ESMTPA id 8EC2B5E04D2;
+	Tue,  7 Jun 2022 19:48:37 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1654656517;
+	bh=z+YHndw5i0T1IwbTG9b8hAcI3HrPbpUrIN2ZAVUhtTI=;
+	h=Date:From:To:Subject:From;
+	b=qfil+J7vLDGbTbNZPSV+quoo8DzSDiBSXab55OAHL9OOd44PpVPlAGsAcEs0JLUNh
+	 qvBFGAgwtwV+8rqR9eGpzU/4yyLKfDIZzw+v0enuj44PyhnKCroppiZox+PJPxFp7d
+	 MuhJNu42ZJppLtYhIwg2X9Zgpn4iR3EUCfiy+zdE=
+Date: Tue, 07 Jun 2022 19:48:37 -0700
+From: 1212-5858 <noreply@github.com>
+To: ms60710444266@yahoo.com, 
+ rule-comments@sec.gov
+Message-ID: <BSCPGROUPHOLDINGSLLC/INDEX153974/push/refs/heads/main/ea3e56-1a8080@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/INDEX153974] 1a8080: Fwd 40-17G` NOT
+ COVERED...-1.eml
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Approved: 16537-714-487-492, OMISSIONS, OBSTRUCTION, SFITX SFBDX STFGX FILER
+ 1516523
+X-GitHub-Recipient-Address: ms60710444266@yahoo.com,rule-comments@sec.gov
+X-Auto-Response-Suppress: All
+Content-Length: 698
+
+  Branch: refs/heads/main
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974
+  Commit: 1a808012526d78b7d199cdccfd8d0cea1b71abe1
+      https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974/commit/1a808012526d78b7d199cdccfd8d0cea1b71abe1
+  Author: 1212-5858 <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.com>
+  Date:   2022-06-07 (Tue, 07 Jun 2022)
+
+  Changed paths:
+    A Fwd 40-17G` NOT COVERED...-1.eml
+
+  Log Message:
+  -----------
+  Fwd 40-17G` NOT COVERED...-1.eml
+
+Fwd U.S. Generally Accepted Accounting Principles (ASC 820, Fair Value Measurement).eml
+Fwd 40-17G` NOT COVERED...-1.eml
+
+
+Fwd U.S. Generally Accepted Accounting Principles (ASC 820, Fair Value Measurement).eml
+
+
