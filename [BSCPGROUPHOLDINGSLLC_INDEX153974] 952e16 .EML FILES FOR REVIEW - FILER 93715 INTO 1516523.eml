@@ -1,0 +1,100 @@
+From - Tue Jun  7 22:46:22 2022
+X-Account-Key: account1
+X-UIDL: AFgvl2h614UGYqAAlgXcAEVZiis
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.31.112
+ by atlas306.free.mail.gq1.yahoo.com with HTTPS; Wed, 8 Jun 2022 01:51:17 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.211]
+Received-SPF: pass (domain of github.com designates 192.30.252.211 as permitted sender)
+Authentication-Results: atlas306.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 8 Jun 2022 01:51:18 +0000
+X-YMailAVSC: ..59jwk3bBtvUrZ2XI_cR4RF2YaKGxEzt5DOPlLiSaglLHI
+ dfcmC54aeyQyV8TtJvsY_eyM2n8y8o6_tX_vNrlURDsAjQ4QiMMv_KiuIOfY
+ _kp1ZWQneGYC3ymD0DtxnYX9V1WdiGMzIAW3Dn3PisAtkiMU78SM2RolNrfS
+ pwx82rL31UyuykeBV6MyuE6BxiQF24Qf5ZlXojZYFHVfm40masd1aFWNr9sN
+ rT.N5dJn3nncs.h29jTdaZxWTS0DGnM6MFHVMylnawITszj3qdanzIDttW0c
+ tNpKWXnwLKidGeHHPrCc546LMV.03MiXe4Aouy3xrrXK7lFbTuKm0u591tYJ
+ e
+X-YMailISG: dpKuVLAWLDtv5coFDVeazF.R8y9cD5qgw0F7gxhmLeYq13kK
+ rFsMSRB4zG2o7W6qpplNrz5NqKKlENa3Awf5RQYylxNescC2kjTCWsl8el06
+ EYJ9QAih9JyRfKDNT.1CIadiHLuxyaLTEg9U3i2pm7bSPn4IvmiVwdMlRqH4
+ tTEBVe5HtaH678ShzrjJsyz45htZNE8BNTtEWkuS85INCtQNg9Ug9ky3Uz_x
+ a_uvyeLG342aNMnpTTAiW3zozmv4tqeDJratJVvByyMwwnRJhr6vv6X2qpxG
+ lxb57IE9211vPJCiywuOnbB6TdImKRKVc2NPoZzGmSqRHJFv0JpydAEhJdtz
+ PUfByPUZClrUX1kz4vtU8CQ_xDGbCM2mt2CuVgU93HrqZ2vOEVnZYsVzaEFr
+ ugXhy_1lgmq1Gp4eZBeJ.BeYHDFO9Jxj_1SgHuikMOHthkKHt4HTCNT_RuNv
+ fFoH5Hwr3jnJw.Kz4O9jd272sZM59z_MCjo4JH6_MEjeKB1_AnJVyGaGnamH
+ 67w4fKxQ1NAVZp8.652iWPYYRC3VA2NRHFBZEsSIUwkT1ASKyiMVVMdRO5Nw
+ 97CPYaTrM4l1seLP5C4r2SoApAc0aQZTTV.QSXTFK8cZsxTh2CUjrb.8z1YM
+ ayeJC9uL0KC2wJFe9A0MYRVIMln8GrSDL1qFEB_.4oOrPbn2OVEuBT7JYhBS
+ CqbkENX.dkOIIMpaFiaJJXVRBmnUo_qkByd9btXUYFHZ.c1PWzBzWaQcowun
+ jhBuiklhs121JuBNSkX4hJPxpIUGqsk87L.kvJ.l.KmVCIrGjesZ3OgIrbOj
+ TYzWeOhIiLP12RLm2nOfaFU5FvajevEisO5i3qYChc.QgGJmEAatAJEAO1Wn
+ iiSH0GrTBT9RFagSf7prlygZogPbtvZHKpgJNviJMY0C18ahumb8yIHo4qje
+ t.ZhRyeqIpfeJpvh_FxQk7.oPDK0u5U2x2zAyyxfc4BelFpp4XIZ2GkUzSCQ
+ DGgbEvbFX732Yk9ae4tv9dseLB84BnnwdIeC.BN_YKDKy6PmFheeE8Jhbaeg
+ tJl.rY2zWKs9zOCPkWPy36h0YLPYYPShpUdCPUOnkaOmpP5sSrVjOItnDgKh
+ 7Q.rgFPsYARGQMyeo_uL0sg4Z92Mg_G.1WYvKFxxZ921sde9TS1YhPUqq0a4
+ fCdFDPloWdTXCZ8Ztag2
+Received: from 192.30.252.211 (EHLO out-28.smtp.github.com)
+ by 10.253.31.112 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 08 Jun 2022 01:51:17 +0000
+Received: from github.com (hubbernetes-node-47f52f0.ash1-iad.github.net [10.56.224.74])
+	by smtp.github.com (Postfix) with ESMTPA id 52E429001FA;
+	Tue,  7 Jun 2022 18:51:17 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1654653077;
+	bh=9ZlN8pAQN06WYDIpGnil2uG2aSNiyILBappfnt1DxdQ=;
+	h=Date:From:To:Subject:From;
+	b=dGndTJftKvNPfi9sWgnP/BzFgO2MknrE2A3hTQgpdkUhez0LeqX9a5VjZZEXID8r+
+	 lkZYDaYoBi+nIeDiqRDohVwaQLvViG5rBOnZBUYEMrcmXWpEOlBaDf04MRyD/IxseJ
+	 N1k/+PRKVj3TsutEJ2uS7sy4suZI1cgejdgUhOlY=
+Date: Tue, 07 Jun 2022 18:51:17 -0700
+From: 1212-5858 <noreply@github.com>
+To: ms60710444266@yahoo.com, 
+ rule-comments@sec.gov
+Message-ID: <BSCPGROUPHOLDINGSLLC/INDEX153974/push/refs/heads/main/77fa80-952e16@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/INDEX153974] 952e16: .EML FILES FOR REVIEW -
+ FILER 93715 INTO 1516523
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Approved: 16537-714-487-492, OMISSIONS, OBSTRUCTION, SFITX SFBDX STFGX FILER
+ 1516523
+X-GitHub-Recipient-Address: ms60710444266@yahoo.com,rule-comments@sec.gov
+X-Auto-Response-Suppress: All
+Content-Length: 788
+
+  Branch: refs/heads/main
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974
+  Commit: 952e16e6ad666999b5a7d4757bffc23df728f644
+      https://github.com/BSCPGROUPHOLDINGSLLC/INDEX153974/commit/952e16e6ad666999b5a7d4757bffc23df728f644
+  Author: 1212-5858 <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.com>
+  Date:   2022-06-07 (Tue, 07 Jun 2022)
+
+  Changed paths:
+    A 311-10324565, State Farm.eml
+    A bb-117taxfiles.eml
+    A compliance 2021-11-16.eml
+    A compliance 2021-11-16.pdf.eml
+    A doinotice-taxevasion and continued ops.eml
+
+  Log Message:
+  -----------
+  .EML FILES FOR REVIEW - FILER 93715 INTO 1516523
+
+compliance 2021-11-16.pdf.eml
+bb-117taxfiles.eml
+compliance 2021-11-16.eml
+doinotice-taxevasion and continued ops.eml
+311-10324565, State Farm.eml
+
+
